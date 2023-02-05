@@ -1,0 +1,28 @@
+Letterboxd project
+
+Tasklist:
+- Bugs:
+
+- Better frontend:
+        - [OK finally] TOML config
+        - [OK] Canviar la lletra negra per un altre color.. passar el color de la lletra donat pel config com paràmetre de custom_write()
+        - Background picture
+    - Profile pictures
+    - Movie picture
+
+General ideas:
+- Get list of followers and following and make a rank of matching profiles
+- (Generalization of the one above) Explore the space of letterboxd users in a tree way (BFS) to find the most matching profiles
+- Put the user selection page in the sidebar?
+
+Done:
+- [OK] Rethink what we want to plot
+- New similarity kpi that only takes into account movies rated from both users
+- Improve way we work with data. Make everything accessible through data control
+    - Data Control lives in st.session_state
+- Check that there are users introduced before loading Analytics page
+- Little script to admin the database
+- [BugFix] Sometimes the similarity metric with ratings displays all decimals
+- Improve analytics page
+    - Get favorite movies list from each user
+    - Implement the couple metrics on fav films
