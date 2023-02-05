@@ -4,9 +4,7 @@ Streamlit app that analyses the cinema taste similarity of pairs of users of the
 
 ### How to run
 This app is not deployed on Streamlit's cloud, so needs to be run locally. To do so, follow the following steps:
-Clone the repository and install dependencies. Run the following command: 
-`cd streamlit_app`
-`streamlit run strealit_app.py`
+Clone the repository and install dependencies. Run the following commands: `cd streamlit_app`, and `streamlit run strealit_app.py`
 
 ### Functionality and quick tutorial:
 The page **User selection** allows to introduce two Letterboxd usernames. The app checks if the usernames have already been searched (in this case loads the already saved tables) and scraps the data out of Letterboxd if necessarily. It displays the table of all see and rated films for both users.
