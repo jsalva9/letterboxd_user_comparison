@@ -1,0 +1,3758 @@
+user,film,rating,film_id,favorite
+jsalvasoler,The Northman,3.0,565852,0.0
+jsalvasoler,The Unbearable Weight of Massive Talent,4.0,574385,0.0
+jsalvasoler,Everything Everywhere All at Once,,474474,0.0
+jsalvasoler,The Batman,4.0,348914,0.0
+jsalvasoler,Alcarràs,4.5,721533,0.0
+jsalvasoler,Spider-Man: No Way Home,3.5,560787,0.0
+jsalvasoler,Don't Look Up,2.5,572255,0.0
+jsalvasoler,Nightmare Alley,3.0,524592,0.0
+jsalvasoler,Licorice Pizza,3.5,641086,0.0
+jsalvasoler,No Time to Die,4.0,305964,0.0
+jsalvasoler,Last Night in Soho,3.5,505000,0.0
+jsalvasoler,Dune,4.5,371378,0.0
+jsalvasoler,Belfast,3.0,696630,0.0
+jsalvasoler,The Power of the Dog,3.5,527841,0.0
+jsalvasoler,The Hand of God,3.5,645598,0.0
+jsalvasoler,Free Guy,3.0,479814,0.0
+jsalvasoler,Old,3.0,558054,0.0
+jsalvasoler,Titane,1.5,556553,0.0
+jsalvasoler,The Summit of the Gods,4.0,635689,0.0
+jsalvasoler,Luca,4.0,438722,0.0
+jsalvasoler,F9,1.5,320000,0.0
+jsalvasoler,Seaspiracy,3.0,718615,0.0
+jsalvasoler,Soul,4.0,438511,0.0
+jsalvasoler,Another Round,4.0,508246,0.0
+jsalvasoler,Nomadland,3.0,509662,0.0
+jsalvasoler,Tenet,3.0,506032,0.0
+jsalvasoler,The Hater,2.5,518345,0.0
+jsalvasoler,Onward,3.5,438272,0.0
+jsalvasoler,The Call of the Wild,2.0,412707,0.0
+jsalvasoler,The Social Dilemma,2.5,581924,0.0
+jsalvasoler,Star Wars: The Rise of Skywalker,3.5,131984,0.0
+jsalvasoler,1917,4.0,460155,0.0
+jsalvasoler,El Camino: A Breaking Bad Movie,3.0,488575,0.0
+jsalvasoler,The Irishman,3.0,333203,0.0
+jsalvasoler,Jojo Rabbit,5.0,444600,1.0
+jsalvasoler,The Platform,2.5,545985,0.0
+jsalvasoler,Joker,4.0,406775,0.0
+jsalvasoler,Uncut Gems,1.5,404266,0.0
+jsalvasoler,Marriage Story,3.5,422682,0.0
+jsalvasoler,Crawl,1.5,441665,0.0
+jsalvasoler,The Lion King,,354539,0.0
+jsalvasoler,Spider-Man: Far From Home,3.5,362977,0.0
+jsalvasoler,Midsommar,3.5,459564,0.0
+jsalvasoler,Toy Story 4,1.5,228628,0.0
+jsalvasoler,Once Upon a Time… in Hollywood,4.5,397859,0.0
+jsalvasoler,The Lighthouse,2.5,433863,0.0
+jsalvasoler,Avengers: Endgame,2.5,226660,0.0
+jsalvasoler,Glass,4.0,382669,0.0
+jsalvasoler,Bird Box,,340202,0.0
+jsalvasoler,Bohemian Rhapsody,2.0,358222,0.0
+jsalvasoler,Green Book,4.0,420703,0.0
+jsalvasoler,22 July,0.5,405546,0.0
+jsalvasoler,A Star Is Born,3.5,261108,0.0
+jsalvasoler,The Meg,2.0,276291,0.0
+jsalvasoler,The Fall of the American Empire,,444651,0.0
+jsalvasoler,Incredibles 2,2.5,184061,0.0
+jsalvasoler,Under the Silver Lake,4.0,330810,0.0
+jsalvasoler,BlacKkKlansman,4.0,418135,0.0
+jsalvasoler,Avengers: Infinity War,3.5,226661,0.0
+jsalvasoler,Champions,,388893,0.0
+jsalvasoler,Annihilation,,227784,0.0
+jsalvasoler,Black Panther,,209383,0.0
+jsalvasoler,Star Wars: The Last Jedi,,131987,0.0
+jsalvasoler,Coco,4.0,285509,0.0
+jsalvasoler,"Three Billboards Outside Ebbing, Missouri",,291610,0.0
+jsalvasoler,Lady Bird,4.0,326279,0.0
+jsalvasoler,Dunkirk,,310199,0.0
+jsalvasoler,Spider-Man: Homecoming,3.5,242710,0.0
+jsalvasoler,Transformers: The Last Knight,,265443,0.0
+jsalvasoler,Cars 3,,184062,0.0
+jsalvasoler,Wonder Woman,,225027,0.0
+jsalvasoler,Baby Driver,3.0,268950,0.0
+jsalvasoler,Call Me by Your Name,3.0,333029,0.0
+jsalvasoler,Wind River,4.0,330220,0.0
+jsalvasoler,Passengers,2.0,198992,0.0
+jsalvasoler,Rogue One: A Star Wars Story,,258128,0.0
+jsalvasoler,Allied,2.5,305623,0.0
+jsalvasoler,Fantastic Beasts and Where to Find Them,,182910,0.0
+jsalvasoler,Split,4.0,316315,0.0
+jsalvasoler,Lion,4.0,263222,0.0
+jsalvasoler,A Monster Calls,,181943,0.0
+jsalvasoler,Moonlight,3.5,312205,0.0
+jsalvasoler,Arrival,,257426,0.0
+jsalvasoler,La La Land,4.0,240344,0.0
+jsalvasoler,Heroes Wanted,,311319,0.0
+jsalvasoler,Kubo and the Two Strings,,240068,0.0
+jsalvasoler,Jason Bourne,,251773,0.0
+jsalvasoler,The Shallows,,261112,0.0
+jsalvasoler,Finding Dory,,99402,0.0
+jsalvasoler,Paterson,4.0,306491,0.0
+jsalvasoler,X-Men: Apocalypse,,172492,0.0
+jsalvasoler,Neighbors 2: Sorority Rising,,252216,0.0
+jsalvasoler,Captain America: Civil War,,194402,0.0
+jsalvasoler,Kung Fu Panda 3,1.0,107197,0.0
+jsalvasoler,Captain Fantastic,,263215,0.0
+jsalvasoler,The Revenant,,207224,0.0
+jsalvasoler,Star Wars: The Force Awakens,,107418,0.0
+jsalvasoler,The Hateful Eight,3.5,197012,0.0
+jsalvasoler,The Big Short,3.0,246013,0.0
+jsalvasoler,The Hunger Games: Mockingjay - Part 2,2.5,101990,0.0
+jsalvasoler,Bridge of Spies,3.0,223396,0.0
+jsalvasoler,The Man Who Knew Infinity,,283460,0.0
+jsalvasoler,ma ma,,206121,0.0
+jsalvasoler,The Martian,,211511,0.0
+jsalvasoler,Spotlight,3.0,241430,0.0
+jsalvasoler,Everest,,177257,0.0
+jsalvasoler,The Man from U.N.C.L.E.,,145822,0.0
+jsalvasoler,Inside Out,,113284,0.0
+jsalvasoler,Jurassic World,,104174,0.0
+jsalvasoler,Fifty Shades of Grey,1.5,153285,0.0
+jsalvasoler,Ex Machina,2.5,187986,0.0
+jsalvasoler,Kingsman: The Secret Service,,148200,0.0
+jsalvasoler,The Hobbit: The Battle of the Five Armies,,96552,0.0
+jsalvasoler,The Hunger Games: Mockingjay - Part 1,2.5,101991,0.0
+jsalvasoler,Interstellar,4.5,117621,0.0
+jsalvasoler,Fury,2.5,160497,0.0
+jsalvasoler,Annabelle,0.5,174952,0.0
+jsalvasoler,Gone Girl,3.5,149857,0.0
+jsalvasoler,The Theory of Everything,,190077,0.0
+jsalvasoler,Nightcrawler,3.0,169907,0.0
+jsalvasoler,The Imitation Game,,146954,0.0
+jsalvasoler,Birdman or (The Unexpected Virtue of Ignorance),3.5,139795,0.0
+jsalvasoler,Guardians of the Galaxy,,93676,0.0
+jsalvasoler,Lucy,,168860,0.0
+jsalvasoler,Transformers: Age of Extinction,,76504,0.0
+jsalvasoler,The Fault in Our Stars,,157543,0.0
+jsalvasoler,How to Train Your Dragon 2,,69142,0.0
+jsalvasoler,The Amazing Spider-Man 2,,83215,0.0
+jsalvasoler,Divergent,,117583,0.0
+jsalvasoler,Captain America: The Winter Soldier,,81909,0.0
+jsalvasoler,The Grand Budapest Hotel,2.5,95113,0.0
+jsalvasoler,The Lego Movie,,105188,0.0
+jsalvasoler,Boyhood,4.0,71927,0.0
+jsalvasoler,The Hobbit: The Desolation of Smaug,,8983,0.0
+jsalvasoler,The Wolf of Wall Street,4.0,86114,0.0
+jsalvasoler,Frozen,,87948,0.0
+jsalvasoler,The Hunger Games: Catching Fire,2.5,82488,0.0
+jsalvasoler,Suck Me Shakespeer,,163417,0.0
+jsalvasoler,12 Years a Slave,,62671,0.0
+jsalvasoler,Her,5.0,114564,1.0
+jsalvasoler,Captain Phillips,,87964,0.0
+jsalvasoler,Coherence,,155900,0.0
+jsalvasoler,Enemy,3.5,132034,0.0
+jsalvasoler,The Green Inferno,,125947,0.0
+jsalvasoler,Dallas Buyers Club,,114605,0.0
+jsalvasoler,Prisoners,4.0,110740,0.0
+jsalvasoler,Gravity,,16529,0.0
+jsalvasoler,Jobs,,91952,0.0
+jsalvasoler,Planes,,114229,0.0
+jsalvasoler,Elysium,,52510,0.0
+jsalvasoler,Snowpiercer,,88488,0.0
+jsalvasoler,Don Jon,4.0,106177,0.0
+jsalvasoler,Blue Jasmine,3.5,119466,0.0
+jsalvasoler,The Wind Rises,4.5,112957,0.0
+jsalvasoler,World War Z,,57292,0.0
+jsalvasoler,Monsters University,,4553,0.0
+jsalvasoler,The Purge,3.0,118110,0.0
+jsalvasoler,After Earth,,69144,0.0
+jsalvasoler,Nebraska,3.0,100920,0.0
+jsalvasoler,Oblivion,,62108,0.0
+jsalvasoler,Django Unchained,4.0,52516,0.0
+jsalvasoler,The Hobbit: An Unexpected Journey,,16525,0.0
+jsalvasoler,Life of Pi,,74348,0.0
+jsalvasoler,Fènix 11-23,,107630,0.0
+jsalvasoler,Skyfall,,26779,0.0
+jsalvasoler,Argo,,52501,0.0
+jsalvasoler,Looper,,6599,0.0
+jsalvasoler,The Impossible,,66559,0.0
+jsalvasoler,Silver Linings Playbook,4.5,69151,0.0
+jsalvasoler,The Place Beyond the Pines,,80200,0.0
+jsalvasoler,"Tad, the Lost Explorer",,95899,0.0
+jsalvasoler,The Bourne Legacy,,16536,0.0
+jsalvasoler,The Dark Knight Rises,,16550,0.0
+jsalvasoler,The Amazing Spider-Man,,50677,0.0
+jsalvasoler,Brave,,4586,0.0
+jsalvasoler,Abraham Lincoln: Vampire Hunter,,57152,0.0
+jsalvasoler,Prometheus,,58486,0.0
+jsalvasoler,Moonrise Kingdom,4.0,70105,0.0
+jsalvasoler,Battleship,,20367,0.0
+jsalvasoler,The Hunger Games,2.5,59281,0.0
+jsalvasoler,Project X,,8933,0.0
+jsalvasoler,Gone,1.0,66002,0.0
+jsalvasoler,Robot & Frank,,70756,0.0
+jsalvasoler,War Horse,,8935,0.0
+jsalvasoler,The Intouchables,,63767,0.0
+jsalvasoler,In Time,0.5,16082,0.0
+jsalvasoler,The Adventures of Tintin,,40915,0.0
+jsalvasoler,Hugo,3.0,20374,0.0
+jsalvasoler,Real Steel,,25416,0.0
+jsalvasoler,Moneyball,,6286,0.0
+jsalvasoler,The Guard,,53282,0.0
+jsalvasoler,Harry Potter and the Deathly Hallows: Part 2,,44580,0.0
+jsalvasoler,Transformers: Dark of the Moon,,26205,0.0
+jsalvasoler,Cars 2,,16560,0.0
+jsalvasoler,Super 8,5.0,5355,1.0
+jsalvasoler,The Hangover Part II,1.5,19987,0.0
+jsalvasoler,Kung Fu Panda 2,,16164,0.0
+jsalvasoler,The Tree of Life,3.5,47468,0.0
+jsalvasoler,The Artist,,61707,0.0
+jsalvasoler,Pirates of the Caribbean: On Stranger Tides,,50735,0.0
+jsalvasoler,Source Code,,5849,0.0
+jsalvasoler,Ermessenda,,274010,0.0
+jsalvasoler,Rango,,20307,0.0
+jsalvasoler,Heroes,,69919,0.0
+jsalvasoler,Harry Potter and the Deathly Hallows: Part 1,,44581,0.0
+jsalvasoler,The Social Network,3.0,26711,0.0
+jsalvasoler,The Town,2.5,37503,0.0
+jsalvasoler,The King's Speech,,5363,0.0
+jsalvasoler,Black Swan,4.0,20956,0.0
+jsalvasoler,Scott Pilgrim vs. the World,,37833,0.0
+jsalvasoler,Maria and I,,95017,0.0
+jsalvasoler,Inception,5.0,34722,0.0
+jsalvasoler,The Last Airbender,,46455,0.0
+jsalvasoler,Toy Story 3,,46458,0.0
+jsalvasoler,The Karate Kid,,26025,0.0
+jsalvasoler,Robin Hood,,38864,0.0
+jsalvasoler,Kick-Ass,,37354,0.0
+jsalvasoler,How to Train Your Dragon,,46460,0.0
+jsalvasoler,Shutter Island,,45409,0.0
+jsalvasoler,Winter's Bone,3.0,25629,0.0
+jsalvasoler,Nanga Parbat,,18726,0.0
+jsalvasoler,Invictus,,37605,0.0
+jsalvasoler,Avatar,,39304,0.0
+jsalvasoler,The Road,,38804,0.0
+jsalvasoler,The Blind Side,,37648,0.0
+jsalvasoler,Saw VI,,37687,0.0
+jsalvasoler,2012,2.0,43301,0.0
+jsalvasoler,The Concert,,55905,0.0
+jsalvasoler,Up in the Air,1.0,37609,0.0
+jsalvasoler,G.I. Joe: The Rise of Cobra,,42752,0.0
+jsalvasoler,Harry Potter and the Half-Blood Prince,,51385,0.0
+jsalvasoler,Ice Age: Dawn of the Dinosaurs,,47781,0.0
+jsalvasoler,Exam,,32433,0.0
+jsalvasoler,Transformers: Revenge of the Fallen,,47769,0.0
+jsalvasoler,The Hangover,2.5,40100,0.0
+jsalvasoler,Inglourious Basterds,,41352,0.0
+jsalvasoler,Angels & Demons,2.0,43882,0.0
+jsalvasoler,Up,,43302,0.0
+jsalvasoler,Monsters vs Aliens,,42315,0.0
+jsalvasoler,The Pink Panther 2,,42554,0.0
+jsalvasoler,The International,,49040,0.0
+jsalvasoler,Moon,,41012,0.0
+jsalvasoler,Spread,,39349,0.0
+jsalvasoler,Seven Pounds,,45412,0.0
+jsalvasoler,The Curious Case of Benjamin Button,,49075,0.0
+jsalvasoler,Gran Torino,,44042,0.0
+jsalvasoler,Twilight,,47469,0.0
+jsalvasoler,Bolt,,44189,0.0
+jsalvasoler,Madagascar: Escape 2 Africa,,46145,0.0
+jsalvasoler,Vicky Cristina Barcelona,3.0,48992,0.0
+jsalvasoler,The Flyboys,,38785,0.0
+jsalvasoler,Star Wars: The Clone Wars,,44724,0.0
+jsalvasoler,The Dark Knight,,51896,0.0
+jsalvasoler,Hancock,,47474,0.0
+jsalvasoler,Mamma Mia!,,45120,0.0
+jsalvasoler,WALL·E,,45994,0.0
+jsalvasoler,The Happening,,47668,0.0
+jsalvasoler,Kung Fu Panda,,47098,0.0
+jsalvasoler,Indiana Jones and the Kingdom of the Crystal Skull,2.5,51839,0.0
+jsalvasoler,Slumdog Millionaire,,44613,0.0
+jsalvasoler,The Boy in the Striped Pyjamas,1.5,42983,0.0
+jsalvasoler,Iron Man,2.5,50825,0.0
+jsalvasoler,The Wave,,47981,0.0
+jsalvasoler,21,,47900,0.0
+jsalvasoler,Astérix at the Olympic Games,,50279,0.0
+jsalvasoler,The Oxford Murders,,44666,0.0
+jsalvasoler,Cloverfield,,48106,0.0
+jsalvasoler,I Am Legend,,48296,0.0
+jsalvasoler,Winx Club: The Secret of the Lost Kingdom,,67255,0.0
+jsalvasoler,The Mist,,48602,0.0
+jsalvasoler,Fermat's Room,,48783,0.0
+jsalvasoler,Into the Wild,,48571,0.0
+jsalvasoler,The Nanny Diaries,,44589,0.0
+jsalvasoler,The Bourne Ultimatum,,50223,0.0
+jsalvasoler,Harry Potter and the Order of the Phoenix,,51449,0.0
+jsalvasoler,Transformers,3.5,50742,0.0
+jsalvasoler,Ratatouille,,50558,0.0
+jsalvasoler,Surf's Up,,47188,0.0
+jsalvasoler,No Country for Old Men,,48140,0.0
+jsalvasoler,Pirates of the Caribbean: At World's End,,51773,0.0
+jsalvasoler,Meet the Robinsons,,51115,0.0
+jsalvasoler,Zodiac,3.0,50659,0.0
+jsalvasoler,Death at a Funeral,,50442,0.0
+jsalvasoler,Freedom Writers,,50896,0.0
+jsalvasoler,The Pursuit of Happyness,,51061,0.0
+jsalvasoler,Happy Feet,,46779,0.0
+jsalvasoler,Casino Royale,,27809,0.0
+jsalvasoler,Flushed Away,,45132,0.0
+jsalvasoler,The Prestige,3.5,51147,0.0
+jsalvasoler,The Departed,4.0,51042,0.0
+jsalvasoler,This Is England,,45000,0.0
+jsalvasoler,Babel,2.0,51140,0.0
+jsalvasoler,The Kovak Box,,43679,0.0
+jsalvasoler,Superman Returns,,51020,0.0
+jsalvasoler,Pirates of the Caribbean: Dead Man's Chest,,51989,0.0
+jsalvasoler,The Da Vinci Code,,51530,0.0
+jsalvasoler,Mission: Impossible III,,51204,0.0
+jsalvasoler,The Lives of Others,4.0,51538,0.0
+jsalvasoler,Cars,,51233,0.0
+jsalvasoler,Little Miss Sunshine,,51379,0.0
+jsalvasoler,Bandidas,,50639,0.0
+jsalvasoler,V for Vendetta,,51400,0.0
+jsalvasoler,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",,51679,0.0
+jsalvasoler,Harry Potter and the Goblet of Fire,,51450,0.0
+jsalvasoler,Chicken Little,,46658,0.0
+jsalvasoler,Match Point,3.0,51934,0.0
+jsalvasoler,Oliver Twist,,51799,0.0
+jsalvasoler,A History of Violence,,51988,0.0
+jsalvasoler,Flightplan,3.0,47278,0.0
+jsalvasoler,Pride & Prejudice,3.5,49390,0.0
+jsalvasoler,Wallace & Gromit: The Curse of the Were-Rabbit,,51584,0.0
+jsalvasoler,Brokeback Mountain,3.0,51909,0.0
+jsalvasoler,The Island,,50906,0.0
+jsalvasoler,Charlie and the Chocolate Factory,,51932,0.0
+jsalvasoler,Fantastic Four,,46869,0.0
+jsalvasoler,War of the Worlds,,51976,0.0
+jsalvasoler,Batman Begins,,51784,0.0
+jsalvasoler,Madagascar,3.0,51207,0.0
+jsalvasoler,Star Wars: Episode III - Revenge of the Sith,,50709,0.0
+jsalvasoler,Robots,,46706,0.0
+jsalvasoler,The Pacifier,,46620,0.0
+jsalvasoler,Coach Carter,,48101,0.0
+jsalvasoler,Million Dollar Baby,,51979,0.0
+jsalvasoler,Howl's Moving Castle,,49062,0.0
+jsalvasoler,The SpongeBob SquarePants Movie,,44965,0.0
+jsalvasoler,The Incredibles,,46806,0.0
+jsalvasoler,The Polar Express,,48883,0.0
+jsalvasoler,Barbie as The Princess & the Pauper,,42550,0.0
+jsalvasoler,Shark Tale,,46117,0.0
+jsalvasoler,Crash,,50902,0.0
+jsalvasoler,Collateral,1.5,50995,0.0
+jsalvasoler,"I, Robot",,50568,0.0
+jsalvasoler,The Bourne Supremacy,,50224,0.0
+jsalvasoler,Spider-Man 2,,51560,0.0
+jsalvasoler,The Notebook,,45667,0.0
+jsalvasoler,The Terminal,,51527,0.0
+jsalvasoler,Harry Potter and the Prisoner of Azkaban,,51451,0.0
+jsalvasoler,Fahrenheit 9/11,,50803,0.0
+jsalvasoler,The Day After Tomorrow,,51660,0.0
+jsalvasoler,Shrek 2,,51343,0.0
+jsalvasoler,Pinocchio 3000,,37559,0.0
+jsalvasoler,Troy,,51472,0.0
+jsalvasoler,Kill Bill: Vol. 2,,51696,0.0
+jsalvasoler,Eternal Sunshine of the Spotless Mind,2.0,2683,0.0
+jsalvasoler,The Chorus,,48801,0.0
+jsalvasoler,Before Sunset,3.5,51970,0.0
+jsalvasoler,Super Size Me,,47223,0.0
+jsalvasoler,The Last Samurai,,51507,0.0
+jsalvasoler,The Lord of the Rings: The Return of the King,,51928,0.0
+jsalvasoler,Master and Commander: The Far Side of the World,,47671,0.0
+jsalvasoler,The Matrix Revolutions,,51516,0.0
+jsalvasoler,Brother Bear,,46633,0.0
+jsalvasoler,Kill Bill: Vol. 1,,2694,0.0
+jsalvasoler,Barbie of Swan Lake,,42667,0.0
+jsalvasoler,Lost in Translation,3.5,51898,0.0
+jsalvasoler,S.W.A.T.,,47335,0.0
+jsalvasoler,Pirates of the Caribbean: The Curse of the Black Pearl,,2695,0.0
+jsalvasoler,Sinbad: Legend of the Seven Seas,,43115,0.0
+jsalvasoler,Finding Nemo,,2705,0.0
+jsalvasoler,The Matrix Reloaded,,51517,0.0
+jsalvasoler,Doraemon: Nobita and the Windmasters,,80915,0.0
+jsalvasoler,The Life of David Gale,4.0,45136,0.0
+jsalvasoler,Ben Hur,,357,0.0
+jsalvasoler,Good Bye Lenin!,,51724,0.0
+jsalvasoler,Catch Me If You Can,,51484,0.0
+jsalvasoler,The Lord of the Rings: The Two Towers,,51929,0.0
+jsalvasoler,Harry Potter and the Chamber of Secrets,,51452,0.0
+jsalvasoler,Bowling for Columbine,,51035,0.0
+jsalvasoler,Signs,3.5,50152,0.0
+jsalvasoler,Lilo & Stitch,,45204,0.0
+jsalvasoler,Minority Report,,51871,0.0
+jsalvasoler,The Bourne Identity,,50225,0.0
+jsalvasoler,Spirit: Stallion of the Cimarron,3.0,47420,0.0
+jsalvasoler,The Pianist,4.5,51672,0.0
+jsalvasoler,Insomnia,,51739,0.0
+jsalvasoler,Star Wars: Episode II - Attack of the Clones,,50710,0.0
+jsalvasoler,Spider-Man,,51561,0.0
+jsalvasoler,Ice Age,,51670,0.0
+jsalvasoler,Jimmy Neutron: Boy Genius,,44450,0.0
+jsalvasoler,Black Hawk Down,,51297,0.0
+jsalvasoler,A Beautiful Mind,,51648,0.0
+jsalvasoler,The Lord of the Rings: The Fellowship of the Ring,,51930,0.0
+jsalvasoler,Ocean's Eleven,1.5,51890,0.0
+jsalvasoler,Harry Potter and the Philosopher's Stone,,51453,0.0
+jsalvasoler,"Monsters, Inc.",,51535,0.0
+jsalvasoler,K-PAX,,51884,0.0
+jsalvasoler,The Others,,50675,0.0
+jsalvasoler,Spirited Away,4.0,51921,0.0
+jsalvasoler,Atlantis: The Lost Empire,,45820,0.0
+jsalvasoler,Pearl Harbor,1.5,51448,0.0
+jsalvasoler,Shrek,,51344,0.0
+jsalvasoler,Amélie,4.5,51858,0.0
+jsalvasoler,Cast Away,,47778,0.0
+jsalvasoler,Unbreakable,4.0,46866,0.0
+jsalvasoler,Pay It Forward,,46027,0.0
+jsalvasoler,Help! I'm a Fish,,44432,0.0
+jsalvasoler,Memento,2.5,51973,0.0
+jsalvasoler,Space Cowboys,,48794,0.0
+jsalvasoler,The Perfect Storm,,50499,0.0
+jsalvasoler,Billy Elliot,,51978,0.0
+jsalvasoler,Gladiator,,51952,0.0
+jsalvasoler,The Green Mile,,51613,0.0
+jsalvasoler,Toy Story 2,,51289,0.0
+jsalvasoler,Fight Club,4.0,51568,0.0
+jsalvasoler,American Beauty,,2703,0.0
+jsalvasoler,Being John Malkovich,4.0,51618,0.0
+jsalvasoler,The Ninth Gate,,51502,0.0
+jsalvasoler,The Sixth Sense,,51407,0.0
+jsalvasoler,Tarzan,,27285,0.0
+jsalvasoler,Star Wars: Episode I - The Phantom Menace,,50711,0.0
+jsalvasoler,Notting Hill,3.0,51601,0.0
+jsalvasoler,A Midsummer Night's Dream,,46441,0.0
+jsalvasoler,10 Things I Hate About You,3.0,49047,0.0
+jsalvasoler,The Matrix,,51518,0.0
+jsalvasoler,Saving Private Ryan,,51295,0.0
+jsalvasoler,Mulan,,46001,0.0
+jsalvasoler,The Truman Show,3.5,27256,0.0
+jsalvasoler,Life Is Beautiful,,51487,0.0
+jsalvasoler,Good Will Hunting,,51621,0.0
+jsalvasoler,Titanic,,51524,0.0
+jsalvasoler,Seven Years in Tibet,,51191,0.0
+jsalvasoler,Gattaca,,51370,0.0
+jsalvasoler,The Full Monty,,47170,0.0
+jsalvasoler,Air Force One,,46838,0.0
+jsalvasoler,Princess Mononoke,,51922,0.0
+jsalvasoler,Perfect Blue,,46175,0.0
+jsalvasoler,Men in Black,,51514,0.0
+jsalvasoler,Independence Day,,51519,0.0
+jsalvasoler,Fargo,,51781,0.0
+jsalvasoler,Trainspotting,,51497,0.0
+jsalvasoler,Beautiful Girls,,47309,0.0
+jsalvasoler,Toy Story,,51290,0.0
+jsalvasoler,Se7en,4.0,51345,0.0
+jsalvasoler,Babe,,47003,0.0
+jsalvasoler,Whisper of the Heart,4.0,26713,0.0
+jsalvasoler,Braveheart,,51855,0.0
+jsalvasoler,The Usual Suspects,,51495,0.0
+jsalvasoler,Before Sunrise,3.0,51974,0.0
+jsalvasoler,The Shawshank Redemption,3.5,51778,0.0
+jsalvasoler,Forrest Gump,,2704,0.0
+jsalvasoler,The Browning Version,,15819,0.0
+jsalvasoler,Pulp Fiction,,51444,0.0
+jsalvasoler,The Lion King,,47677,0.0
+jsalvasoler,Schindler's List,4.0,51671,0.0
+jsalvasoler,What's Eating Gilbert Grape,3.5,50947,0.0
+jsalvasoler,Jurassic Park,,51733,0.0
+jsalvasoler,Dracula,,48454,0.0
+jsalvasoler,Unforgiven,5.0,2685,0.0
+jsalvasoler,Porco Rosso,3.5,45130,0.0
+jsalvasoler,Beethoven,,44994,0.0
+jsalvasoler,Reservoir Dogs,,51610,0.0
+jsalvasoler,Terminator 2: Judgment Day,,51776,0.0
+jsalvasoler,Thelma & Louise,,50992,0.0
+jsalvasoler,The Silence of the Lambs,4.5,51782,0.0
+jsalvasoler,The Godfather: Part III,4.0,51814,0.0
+jsalvasoler,Edward Scissorhands,,51889,0.0
+jsalvasoler,Home Alone,,51381,0.0
+jsalvasoler,Kiki's Delivery Service,,41360,0.0
+jsalvasoler,Dead Poets Society,,51846,0.0
+jsalvasoler,Indiana Jones and the Last Crusade,5.0,51961,1.0
+jsalvasoler,Do the Right Thing,4.0,51228,0.0
+jsalvasoler,Rain Man,,51705,0.0
+jsalvasoler,Mississippi Burning,3.0,50909,0.0
+jsalvasoler,Cinema Paradiso,,45493,0.0
+jsalvasoler,My Neighbor Totoro,2.5,47756,0.0
+jsalvasoler,The Last Emperor,,51406,0.0
+jsalvasoler,The Mosquito Coast,,45586,0.0
+jsalvasoler,Come and See,2.5,36192,0.0
+jsalvasoler,Back to the Future,,51945,0.0
+jsalvasoler,The Goonies,,47254,0.0
+jsalvasoler,Witness,,47311,0.0
+jsalvasoler,Gremlins,,51226,0.0
+jsalvasoler,Indiana Jones and the Temple of Doom,2.0,51963,0.0
+jsalvasoler,Never Say Never Again,,27711,0.0
+jsalvasoler,Return of the Jedi,,50712,0.0
+jsalvasoler,Blade Runner,3.0,51972,0.0
+jsalvasoler,E.T. the Extra-Terrestrial,3.0,51520,0.0
+jsalvasoler,Raiders of the Lost Ark,5.0,51965,0.0
+jsalvasoler,The Blues Brothers,,51592,0.0
+jsalvasoler,The Shining,4.0,51432,0.0
+jsalvasoler,The Empire Strikes Back,,50713,0.0
+jsalvasoler,Life of Brian,,51537,0.0
+jsalvasoler,Alien,3.0,51714,0.0
+jsalvasoler,Apocalypse Now,,2690,0.0
+jsalvasoler,Close Encounters of the Third Kind,,51312,0.0
+jsalvasoler,Star Wars,,2706,0.0
+jsalvasoler,The Rocky Horror Picture Show,,27698,0.0
+jsalvasoler,Jaws,,51542,0.0
+jsalvasoler,The Godfather: Part II,4.0,51816,0.0
+jsalvasoler,The Godfather,4.0,51818,0.0
+jsalvasoler,Take the Money and Run,,45259,0.0
+jsalvasoler,The Party,,45890,0.0
+jsalvasoler,The Dirty Dozen,,50888,0.0
+jsalvasoler,Goldfinger,,51466,0.0
+jsalvasoler,Zulu,,43096,0.0
+jsalvasoler,From Russia with Love,,51467,0.0
+jsalvasoler,Spartacus,,51196,0.0
+jsalvasoler,Psycho,,51578,0.0
+jsalvasoler,Cinderella,,45485,0.0
+jsalvasoler,Casablanca,2.5,51770,0.0
+jsalvasoler,They Died with Their Boots On,,41034,0.0
+jsalvasoler,The Flying Deuces,,37587,0.0
+jsalvasoler,The Adventures of Robin Hood,,45785,0.0
+jsalvasoler,Snow White and the Seven Dwarfs,,51682,0.0
+jsalvasoler,Modern Times,,49889,0.0
+mateusoler,"Love, Death & Robots: Mason's Rats",,880320,0.0
+mateusoler,"Love, Death & Robots: The Very Pulse of the Machine",,880312,0.0
+mateusoler,Bad Travelling,,895012,0.0
+mateusoler,"Love, Death & Robots: Night of the Mini Dead",,880316,0.0
+mateusoler,"Love, Death & Robots: Three Robots: Exit Strategies",,880050,0.0
+mateusoler,The Northman,4.0,565852,0.0
+mateusoler,X,3.5,680358,0.0
+mateusoler,The Unbearable Weight of Massive Talent,3.0,574385,0.0
+mateusoler,Everything Everywhere All at Once,3.5,474474,0.0
+mateusoler,The Batman,3.5,348914,0.0
+mateusoler,Turning Red,3.0,438727,0.0
+mateusoler,Harry Potter 20th Anniversary: Return to Hogwarts,,809443,0.0
+mateusoler,Spider-Man: No Way Home,2.0,560787,0.0
+mateusoler,Don't Look Up,3.0,572255,0.0
+mateusoler,VOIR,,795963,0.0
+mateusoler,West Side Story,3.5,441471,0.0
+mateusoler,Licorice Pizza,4.0,641086,0.0
+mateusoler,Ciao Alberto,,788275,0.0
+mateusoler,All Too Well: The Short Film,,807762,0.0
+mateusoler,Encanto,3.0,496592,0.0
+mateusoler,No Time to Die,3.0,305964,0.0
+mateusoler,Midnight Mass,3.0,774923,0.0
+mateusoler,Squid Game,,787181,0.0
+mateusoler,Scenes from a Marriage,,776444,0.0
+mateusoler,The Guilty,3.0,496198,0.0
+mateusoler,The Last Duel,3.5,544380,0.0
+mateusoler,Last Night in Soho,3.5,505000,0.0
+mateusoler,Dune,4.5,371378,0.0
+mateusoler,Belfast,3.0,696630,0.0
+mateusoler,The Card Counter,3.5,569563,0.0
+mateusoler,The Power of the Dog,4.0,527841,0.0
+mateusoler,The Hand of God,4.5,645598,0.0
+mateusoler,Boiling Point,3.5,724225,0.0
+mateusoler,After Blue (Dirty Paradise),,585618,0.0
+mateusoler,Beckett,2.5,524790,0.0
+mateusoler,The Green Knight,3.5,488399,0.0
+mateusoler,The Suicide Squad,3.5,369835,0.0
+mateusoler,Old,3.5,558054,0.0
+mateusoler,Vortex,3.0,724354,0.0
+mateusoler,Fear Street: 1666,3.0,518789,0.0
+mateusoler,Titane,3.5,556553,0.0
+mateusoler,The French Dispatch,4.0,471207,0.0
+mateusoler,The Worst Person in the World,3.5,585258,0.0
+mateusoler,Fear Street: 1978,2.5,518788,0.0
+mateusoler,Annette,3.5,357826,0.0
+mateusoler,Fear Street: 1994,2.5,518787,0.0
+mateusoler,Las mejores películas de ciencia-ficción,,758770,0.0
+mateusoler,Luca,4.5,438722,0.0
+mateusoler,The Novice,3.5,737578,0.0
+mateusoler,Friends: The Reunion,,615365,0.0
+mateusoler,The Woman in the Window,2.5,450164,0.0
+mateusoler,"Love, Death & Robots: The Drowned Giant",,744145,0.0
+mateusoler,"Love, Death & Robots: All Through the House",,745721,0.0
+mateusoler,"Love, Death & Robots: The Tall Grass",,744142,0.0
+mateusoler,"Love, Death & Robots: Life Hutch",,744144,0.0
+mateusoler,"Love, Death & Robots: Snow in the Desert",,745648,0.0
+mateusoler,"Love, Death & Robots: Pop Squad",,745647,0.0
+mateusoler,"Love, Death & Robots: Ice",,745646,0.0
+mateusoler,"Love, Death & Robots: Automated Customer Service",,745645,0.0
+mateusoler,The Mitchells vs. The Machines,3.0,431888,0.0
+mateusoler,Petite Maman,3.5,669744,0.0
+mateusoler,Allen v. Farrow,,714666,0.0
+mateusoler,Stanley Kubrick,,713619,0.0
+mateusoler,Euphoria: F*ck Anyone Who’s Not a Sea Blob,,709732,0.0
+mateusoler,Death to 2020,3.0,692942,0.0
+mateusoler,Euphoria: Trouble Don't Last Always,,695021,0.0
+mateusoler,Mank,3.5,541425,0.0
+mateusoler,The Queen's Gambit,2.5,668077,0.0
+mateusoler,Borat Subsequent Moviefilm,1.0,662656,0.0
+mateusoler,Soul,3.5,438511,0.0
+mateusoler,The Haunting of Bly Manor,4.0,665098,0.0
+mateusoler,The Trial of the Chicago 7,3.5,485519,0.0
+mateusoler,Coven,3.0,580597,0.0
+mateusoler,Another Round,3.0,508246,0.0
+mateusoler,Nomadland,3.5,509662,0.0
+mateusoler,The Devil All the Time,2.0,429945,0.0
+mateusoler,Nowhere Special,3.5,650622,0.0
+mateusoler,The Book of Vision,3.0,428755,0.0
+mateusoler,I'm Thinking of Ending Things,4.0,430806,0.0
+mateusoler,The Owners,2.5,585006,0.0
+mateusoler,Tenet,3.0,506032,0.0
+mateusoler,If Anything Happens I Love You,,636759,0.0
+mateusoler,Teddy,4.0,635214,0.0
+mateusoler,Unorthodox,2.5,612445,0.0
+mateusoler,Mulan,2.0,266675,0.0
+mateusoler,Onward,3.5,438272,0.0
+mateusoler,Feels Good Man,4.0,579011,0.0
+mateusoler,The Father,3.0,527671,0.0
+mateusoler,Palm Springs,2.0,515467,0.0
+mateusoler,The Social Dilemma,,581924,0.0
+mateusoler,Possessor,3.0,368540,0.0
+mateusoler,Star Wars: The Rise of Skywalker,1.5,131984,0.0
+mateusoler,Little Women,3.0,259441,0.0
+mateusoler,1917,3.5,460155,0.0
+mateusoler,Frozen II,2.5,258127,0.0
+mateusoler,El Camino: A Breaking Bad Movie,3.0,488575,0.0
+mateusoler,The Irishman,3.5,333203,0.0
+mateusoler,Seventeen,2.5,550093,0.0
+mateusoler,Jojo Rabbit,3.5,444600,0.0
+mateusoler,Knives Out,4.0,475370,0.0
+mateusoler,The Platform,2.0,545985,0.0
+mateusoler,Corpus Christi,3.0,403146,0.0
+mateusoler,The King,3.0,434753,0.0
+mateusoler,Joker,4.0,406775,0.0
+mateusoler,Uncut Gems,4.0,404266,0.0
+mateusoler,Marriage Story,5.0,422682,0.0
+mateusoler,5 Is the Perfect Number,3.5,499928,0.0
+mateusoler,Heroic Losers,3.0,523428,0.0
+mateusoler,A Rainy Day in New York,3.0,406144,0.0
+mateusoler,Spider-Man: Far From Home,2.0,362977,0.0
+mateusoler,Midsommar,4.0,459564,0.0
+mateusoler,"Black Mirror: Rachel, Jack and Ashley Too",,532579,0.0
+mateusoler,Black Mirror: Smithereens,,532575,0.0
+mateusoler,Black Mirror: Striking Vipers,,532569,0.0
+mateusoler,Murder Mystery,2.0,444598,0.0
+mateusoler,Parasite,4.5,426406,0.0
+mateusoler,Once Upon a Time… in Hollywood,4.0,397859,0.0
+mateusoler,Portrait of a Lady on Fire,4.0,460830,0.0
+mateusoler,The Lighthouse,4.0,433863,0.0
+mateusoler,Lux Æterna,4.0,526697,0.0
+mateusoler,Rocketman,3.0,434482,0.0
+mateusoler,Chernobyl,3.0,532082,0.0
+mateusoler,Yesterday,2.5,444799,0.0
+mateusoler,Avengers: Endgame,2.0,226660,0.0
+mateusoler,"Love, Death & Robots: Sucker of Souls",,516565,0.0
+mateusoler,"Love, Death & Robots: Blindspot",,518054,0.0
+mateusoler,"Love, Death & Robots: The Secret War",,519326,0.0
+mateusoler,"Love, Death & Robots: Alternate Histories",,518055,0.0
+mateusoler,"Love, Death & Robots: Ice Age",,518048,0.0
+mateusoler,"Love, Death & Robots: Zima Blue",,518052,0.0
+mateusoler,"Love, Death & Robots: Lucky 13",,518051,0.0
+mateusoler,"Love, Death & Robots: Fish Night",,518050,0.0
+mateusoler,"Love, Death & Robots: Helping Hand",,518053,0.0
+mateusoler,"Love, Death & Robots: Shape-Shifters",,518047,0.0
+mateusoler,"Love, Death & Robots: The Dump",,518049,0.0
+mateusoler,"Love, Death & Robots: Good Hunting",,518046,0.0
+mateusoler,"Love, Death & Robots: Beyond the Aquila Rift",,516976,0.0
+mateusoler,"Love, Death & Robots: Suits",,516564,0.0
+mateusoler,"Love, Death & Robots: When the Yogurt Took Over",,516590,0.0
+mateusoler,"Love, Death & Robots: The Witness",,516560,0.0
+mateusoler,"Love, Death & Robots: Three Robots",,516105,0.0
+mateusoler,"Love, Death & Robots: Sonnie's Edge",,516102,0.0
+mateusoler,Pain and Glory,2.5,448445,0.0
+mateusoler,Booksmart,3.5,435450,0.0
+mateusoler,The Peanut Butter Falcon,3.0,394965,0.0
+mateusoler,Elisa & Marcela,,464484,0.0
+mateusoler,System Crasher,4.0,495888,0.0
+mateusoler,Under the Same Roof,0.5,484550,0.0
+mateusoler,Glass,3.0,382669,0.0
+mateusoler,Black Mirror: Bandersnatch,,498044,0.0
+mateusoler,Spider-Man: Into the Spider-Verse,3.5,251943,0.0
+mateusoler,Bird Box,2.0,340202,0.0
+mateusoler,Bohemian Rhapsody,1.5,358222,0.0
+mateusoler,Maniac,4.0,475562,0.0
+mateusoler,Green Book,2.5,420703,0.0
+mateusoler,Beautiful Boy,3.0,384058,0.0
+mateusoler,A Star Is Born,2.5,261108,0.0
+mateusoler,The Ballad of Buster Scruggs,4.0,467061,0.0
+mateusoler,The Favourite,4.0,310705,0.0
+mateusoler,The Meg,1.5,276291,0.0
+mateusoler,Incredibles 2,2.5,184061,0.0
+mateusoler,Capernaum,3.5,447463,0.0
+mateusoler,Burning,3.5,422035,0.0
+mateusoler,Under the Silver Lake,5.0,330810,1.0
+mateusoler,The House That Jack Built,3.5,332432,0.0
+mateusoler,BlacKkKlansman,3.5,418135,0.0
+mateusoler,Climax,4.5,436873,0.0
+mateusoler,Shoplifters,3.5,435129,0.0
+mateusoler,Avengers: Infinity War,2.5,226661,0.0
+mateusoler,Ready Player One,2.5,261866,0.0
+mateusoler,A Quiet Place,3.0,379687,0.0
+mateusoler,Isle of Dogs,3.5,333448,0.0
+mateusoler,Annihilation,3.0,227784,0.0
+mateusoler,Hereditary,4.5,424348,0.0
+mateusoler,Mandy,3.5,392654,0.0
+mateusoler,Fifty Shades Freed,0.5,266424,0.0
+mateusoler,Black Mirror: Black Museum,,425695,0.0
+mateusoler,Black Mirror: Metalhead,,425694,0.0
+mateusoler,Black Mirror: Hang the DJ,,425522,0.0
+mateusoler,Black Mirror: Crocodile,,425685,0.0
+mateusoler,Black Mirror: Arkangel,,425518,0.0
+mateusoler,Black Mirror: USS Callister,,425514,0.0
+mateusoler,Pitch Perfect 3,2.0,283856,0.0
+mateusoler,Phantom Thread,4.0,335384,0.0
+mateusoler,Star Wars: The Last Jedi,3.0,131987,0.0
+mateusoler,Wonder,,341440,0.0
+mateusoler,Coco,4.0,285509,0.0
+mateusoler,Blade Runner 2049,4.5,265439,0.0
+mateusoler,It,2.0,276819,0.0
+mateusoler,"Three Billboards Outside Ebbing, Missouri",2.5,291610,0.0
+mateusoler,Lady Bird,4.0,326279,0.0
+mateusoler,Thelma,3.5,336587,0.0
+mateusoler,Dunkirk,3.5,310199,0.0
+mateusoler,Spider-Man: Homecoming,2.5,242710,0.0
+mateusoler,Good Time,3.5,362362,0.0
+mateusoler,Pirates of the Caribbean: Dead Men Tell No Tales,2.0,123066,0.0
+mateusoler,Cars 3,2.0,184062,0.0
+mateusoler,The Florida Project,3.5,328538,0.0
+mateusoler,The Killing of a Sacred Deer,4.0,333310,0.0
+mateusoler,The Meyerowitz Stories (New and Selected),3.0,330739,0.0
+mateusoler,Okja,3.0,322110,0.0
+mateusoler,Wonder Woman,,225027,0.0
+mateusoler,Baby Driver,1.0,268950,0.0
+mateusoler,Skins,2.0,368613,0.0
+mateusoler,Get Out,2.5,353117,0.0
+mateusoler,A Ghost Story,3.5,361725,0.0
+mateusoler,Call Me by Your Name,4.5,333029,0.0
+mateusoler,Wind River,3.0,330220,0.0
+mateusoler,Rogue One: A Star Wars Story,,258128,0.0
+mateusoler,Silence,3.0,52504,0.0
+mateusoler,Moana,3.0,201909,0.0
+mateusoler,Fantastic Beasts and Where to Find Them,0.5,182910,0.0
+mateusoler,Black Mirror: San Junipero,,407483,0.0
+mateusoler,Black Mirror: Nosedive,,422900,0.0
+mateusoler,I Know Jake Gyllenhaal Is Going to Fuck My Girlfriend,,423242,0.0
+mateusoler,Ozzy,0.5,345401,0.0
+mateusoler,Split,3.0,316315,0.0
+mateusoler,Lion,2.5,263222,0.0
+mateusoler,A Monster Calls,3.0,181943,0.0
+mateusoler,Nocturnal Animals,3.0,270106,0.0
+mateusoler,Moonlight,3.5,312205,0.0
+mateusoler,Arrival,,257426,0.0
+mateusoler,La La Land,4.0,240344,0.0
+mateusoler,Heroes Wanted,0.5,311319,0.0
+mateusoler,Jason Bourne,1.0,251773,0.0
+mateusoler,The Shallows,1.5,261112,0.0
+mateusoler,Finding Dory,2.0,99402,0.0
+mateusoler,The Neon Demon,3.0,228482,0.0
+mateusoler,Paterson,3.0,306491,0.0
+mateusoler,Train to Busan,4.0,330912,0.0
+mateusoler,"I, Daniel Blake",4.0,310032,0.0
+mateusoler,Sausage Party,1.0,157841,0.0
+mateusoler,Everybody Wants Some!!,4.5,223056,0.0
+mateusoler,Sing Street,2.0,305363,0.0
+mateusoler,Manchester by the Sea,3.5,263221,0.0
+mateusoler,Captain Fantastic,3.5,263215,0.0
+mateusoler,The Revenant,3.0,207224,0.0
+mateusoler,Star Wars: The Force Awakens,3.5,107418,0.0
+mateusoler,The Hateful Eight,3.5,197012,0.0
+mateusoler,Spanish Affair 2,1.0,278844,0.0
+mateusoler,The Big Short,3.5,246013,0.0
+mateusoler,The Hunger Games: Mockingjay - Part 2,1.5,101990,0.0
+mateusoler,Spectre,2.0,147597,0.0
+mateusoler,Second Origin,,92004,0.0
+mateusoler,Bone Tomahawk,3.5,222298,0.0
+mateusoler,Beasts of No Nation,3.0,208885,0.0
+mateusoler,The Martian,2.5,211511,0.0
+mateusoler,Spotlight,2.5,241430,0.0
+mateusoler,Anomalisa,4.5,217531,1.0
+mateusoler,Suffragette,2.5,171653,0.0
+mateusoler,Everest,3.0,177257,0.0
+mateusoler,The Lobster,3.5,178123,0.0
+mateusoler,Paper Towns,1.0,211837,0.0
+mateusoler,Inside Out,2.5,113284,0.0
+mateusoler,Jurassic World,2.5,104174,0.0
+mateusoler,Youth,3.5,237608,0.0
+mateusoler,Mad Max: Fury Road,3.0,62780,0.0
+mateusoler,Pitch Perfect 2,1.5,178282,0.0
+mateusoler,Avengers: Age of Ultron,1.5,81605,0.0
+mateusoler,Victoria,3.0,247121,0.0
+mateusoler,Mistress America,2.5,236120,0.0
+mateusoler,The Witch,4.0,237177,0.0
+mateusoler,Ex Machina,2.5,187986,0.0
+mateusoler,The Interview,,161002,0.0
+mateusoler,Kingsman: The Secret Service,3.0,148200,0.0
+mateusoler,The Hobbit: The Battle of the Five Armies,2.0,96552,0.0
+mateusoler,The Hunger Games: Mockingjay - Part 1,1.5,101991,0.0
+mateusoler,The Bélier Family,,231398,0.0
+mateusoler,Interstellar,4.0,117621,0.0
+mateusoler,Zombeavers,4.0,178264,0.0
+mateusoler,Lava,,211480,0.0
+mateusoler,Inherent Vice,3.5,125830,0.0
+mateusoler,In the Basement,3.5,214404,0.0
+mateusoler,Gone Girl,3.5,149857,0.0
+mateusoler,What We Did on Our Holiday,3.0,200951,0.0
+mateusoler,Marshland,3.5,166181,0.0
+mateusoler,The Theory of Everything,,190077,0.0
+mateusoler,Nightcrawler,4.0,169907,0.0
+mateusoler,Birdman or (The Unexpected Virtue of Ignorance),3.0,139795,0.0
+mateusoler,Magic in the Moonlight,,161190,0.0
+mateusoler,Lucy,1.0,168860,0.0
+mateusoler,Sex Tape,1.5,159090,0.0
+mateusoler,It Follows,3.5,193554,0.0
+mateusoler,The Fault in Our Stars,0.5,157543,0.0
+mateusoler,The Other Woman,1.0,139177,0.0
+mateusoler,Spanish Affair,1.0,166183,0.0
+mateusoler,Divergent,1.5,117583,0.0
+mateusoler,Captain America: The Winter Soldier,1.5,81909,0.0
+mateusoler,Neighbors,,140512,0.0
+mateusoler,The Grand Budapest Hotel,5.0,95113,0.0
+mateusoler,A Girl Walks Home Alone at Night,3.5,176053,0.0
+mateusoler,Boyhood,4.5,71927,0.0
+mateusoler,The Babadook,3.0,169728,0.0
+mateusoler,Whiplash,3.5,171384,0.0
+mateusoler,Nymphomaniac: Vol. II,3.5,174195,0.0
+mateusoler,Nymphomaniac: Vol. I,4.5,181937,0.0
+mateusoler,The Hobbit: The Desolation of Smaug,1.5,8983,0.0
+mateusoler,The Wolf of Wall Street,3.5,86114,0.0
+mateusoler,Frozen,2.5,87948,0.0
+mateusoler,The Hunger Games: Catching Fire,2.0,82488,0.0
+mateusoler,12 Years a Slave,3.0,62671,0.0
+mateusoler,Her,3.5,114564,0.0
+mateusoler,Captain Phillips,3.0,87964,0.0
+mateusoler,Enemy,2.5,132034,0.0
+mateusoler,The Green Inferno,1.0,125947,0.0
+mateusoler,Begin Again,2.5,142299,0.0
+mateusoler,Dallas Buyers Club,2.5,114605,0.0
+mateusoler,Prisoners,4.0,110740,0.0
+mateusoler,Under the Skin,4.0,80198,0.0
+mateusoler,Gravity,,16529,0.0
+mateusoler,About Time,3.5,96557,0.0
+mateusoler,Planes,1.5,114229,0.0
+mateusoler,Elysium,1.0,52510,0.0
+mateusoler,Snowpiercer,2.5,88488,0.0
+mateusoler,The Wind Rises,4.0,112957,0.0
+mateusoler,World War Z,2.0,57292,0.0
+mateusoler,Monsters University,2.0,4553,0.0
+mateusoler,The Purge,0.5,118110,0.0
+mateusoler,After Earth,1.0,69144,0.0
+mateusoler,Nebraska,3.0,100920,0.0
+mateusoler,The Great Beauty,4.0,130523,0.0
+mateusoler,The Great Gatsby,3.0,285,0.0
+mateusoler,Oblivion,2.0,62108,0.0
+mateusoler,Barcelona Summer Night,1.5,153153,0.0
+mateusoler,Black Mirror: The Waldo Moment,,425691,0.0
+mateusoler,Black Mirror: White Bear,,425690,0.0
+mateusoler,Before Midnight,4.5,102444,0.0
+mateusoler,Les Misérables,2.0,69149,0.0
+mateusoler,Django Unchained,4.0,52516,0.0
+mateusoler,The Hobbit: An Unexpected Journey,2.5,16525,0.0
+mateusoler,Life of Pi,3.0,74348,0.0
+mateusoler,The Twilight Saga: Breaking Dawn - Part 2,0.5,15076,0.0
+mateusoler,Skyfall,,26779,0.0
+mateusoler,Argo,3.0,52501,0.0
+mateusoler,Pitch Perfect,,90896,0.0
+mateusoler,Looper,,6599,0.0
+mateusoler,The Impossible,2.5,66559,0.0
+mateusoler,Silver Linings Playbook,4.0,69151,0.0
+mateusoler,The Place Beyond the Pines,,80200,0.0
+mateusoler,The Master,4.0,52512,0.0
+mateusoler,Frances Ha,4.0,96083,0.0
+mateusoler,"Tad, the Lost Explorer",2.5,95899,0.0
+mateusoler,The Bourne Legacy,0.5,16536,0.0
+mateusoler,The Dark Knight Rises,,16550,0.0
+mateusoler,Holy Motors,4.0,83863,0.0
+mateusoler,The Amazing Spider-Man,,50677,0.0
+mateusoler,Brave,3.0,4586,0.0
+mateusoler,Cousin Ben Troop Screening,,99131,0.0
+mateusoler,Madagascar 3: Europe's Most Wanted,1.0,66756,0.0
+mateusoler,Prometheus,,58486,0.0
+mateusoler,Amour,4.0,73359,0.0
+mateusoler,The Hunt,3.0,84051,0.0
+mateusoler,Moonrise Kingdom,3.5,70105,0.0
+mateusoler,Paradise: Love,3.5,84146,0.0
+mateusoler,Battleship,,20367,0.0
+mateusoler,The Hunger Games,3.0,59281,0.0
+mateusoler,Project X,1.0,8933,0.0
+mateusoler,Gone,1.5,66002,0.0
+mateusoler,Robot & Frank,,70756,0.0
+mateusoler,War Horse,2.5,8935,0.0
+mateusoler,Black Mirror: The Entire History of You,,425525,0.0
+mateusoler,The Cabin in the Woods,2.5,37598,0.0
+mateusoler,Black Mirror: The National Anthem,,425523,0.0
+mateusoler,The Twilight Saga: Breaking Dawn - Part 1,0.5,15077,0.0
+mateusoler,The Intouchables,3.0,63767,0.0
+mateusoler,Puss in Boots,,351745,0.0
+mateusoler,In Time,0.5,16082,0.0
+mateusoler,The Adventures of Tintin,,40915,0.0
+mateusoler,Hugo,,20374,0.0
+mateusoler,Moneyball,3.5,6286,0.0
+mateusoler,Terra baixa,1.0,144468,0.0
+mateusoler,Shame,3.5,62483,0.0
+mateusoler,The Skin I Live In,3.0,3519,0.0
+mateusoler,Rise of the Planet of the Apes,,4948,0.0
+mateusoler,"Crazy, Stupid, Love.",2.0,15051,0.0
+mateusoler,Horrible Bosses,,14285,0.0
+mateusoler,Harry Potter and the Deathly Hallows: Part 2,3.0,44580,0.0
+mateusoler,Transformers: Dark of the Moon,1.5,26205,0.0
+mateusoler,Cars 2,1.5,16560,0.0
+mateusoler,Super 8,3.0,5355,0.0
+mateusoler,Kung Fu Panda 2,1.5,16164,0.0
+mateusoler,Melancholia,2.5,4549,0.0
+mateusoler,The Tree of Life,4.0,47468,0.0
+mateusoler,We Need to Talk About Kevin,3.5,57622,0.0
+mateusoler,Midnight in Paris,3.0,6945,0.0
+mateusoler,Pirates of the Caribbean: On Stranger Tides,,50735,0.0
+mateusoler,Rango,,20307,0.0
+mateusoler,Just Go with It,,15143,0.0
+mateusoler,Take Shelter,,247,0.0
+mateusoler,Little Fockers,,25235,0.0
+mateusoler,127 Hours,1.5,21050,0.0
+mateusoler,Heroes,,69919,0.0
+mateusoler,Harry Potter and the Deathly Hallows: Part 1,2.0,44581,0.0
+mateusoler,The Social Network,3.0,26711,0.0
+mateusoler,Insidious,1.0,16556,0.0
+mateusoler,Incendies,4.0,18627,0.0
+mateusoler,Black Swan,3.5,20956,0.0
+mateusoler,Scott Pilgrim vs. the World,3.5,37833,0.0
+mateusoler,Despicable Me,2.5,39067,0.0
+mateusoler,Inception,3.0,34722,0.0
+mateusoler,The Last Airbender,0.5,46455,0.0
+mateusoler,The Twilight Saga: Eclipse,1.0,37088,0.0
+mateusoler,Toy Story 3,2.5,46458,0.0
+mateusoler,The Karate Kid,2.5,26025,0.0
+mateusoler,Robin Hood,3.0,38864,0.0
+mateusoler,Kick-Ass,2.0,37354,0.0
+mateusoler,How to Train Your Dragon,3.0,46460,0.0
+mateusoler,Alice in Wonderland,0.5,44748,0.0
+mateusoler,Shutter Island,3.5,45409,0.0
+mateusoler,Percy Jackson & the Olympians: The Lightning Thief,,30264,0.0
+mateusoler,Winter's Bone,,25629,0.0
+mateusoler,Invictus,3.0,37605,0.0
+mateusoler,Avatar,2.5,39304,0.0
+mateusoler,The Road,,38804,0.0
+mateusoler,The Twilight Saga: New Moon,1.0,40480,0.0
+mateusoler,Fantastic Mr. Fox,3.5,46344,0.0
+mateusoler,2012,2.0,43301,0.0
+mateusoler,Children of the Corn,,35820,0.0
+mateusoler,Couples Retreat,1.0,39357,0.0
+mateusoler,G.I. Joe: The Rise of Cobra,0.5,42752,0.0
+mateusoler,Harry Potter and the Half-Blood Prince,2.5,51385,0.0
+mateusoler,Ice Age: Dawn of the Dinosaurs,,47781,0.0
+mateusoler,Transformers: Revenge of the Fallen,,47769,0.0
+mateusoler,Inglourious Basterds,3.5,41352,0.0
+mateusoler,Mega Shark vs. Giant Octopus,,40696,0.0
+mateusoler,Antichrist,3.5,40892,0.0
+mateusoler,Dogtooth,2.5,25809,0.0
+mateusoler,Up,,43302,0.0
+mateusoler,Monsters vs Aliens,3.0,42315,0.0
+mateusoler,Spread,,39349,0.0
+mateusoler,Brain Drain,0.5,40571,0.0
+mateusoler,Seven Pounds,2.5,45412,0.0
+mateusoler,The Curious Case of Benjamin Button,,49075,0.0
+mateusoler,Gran Torino,2.5,44042,0.0
+mateusoler,Twilight,1.5,47469,0.0
+mateusoler,Bolt,,44189,0.0
+mateusoler,Madagascar: Escape 2 Africa,,46145,0.0
+mateusoler,"Synecdoche, New York",,49039,0.0
+mateusoler,Martyrs,3.5,47061,0.0
+mateusoler,Vicky Cristina Barcelona,3.5,48992,0.0
+mateusoler,Star Wars: The Clone Wars,,44724,0.0
+mateusoler,Ponyo,4.0,44594,0.0
+mateusoler,The Dark Knight,3.5,51896,0.0
+mateusoler,Hancock,0.5,47474,0.0
+mateusoler,Mamma Mia!,3.0,45120,0.0
+mateusoler,WALL·E,,45994,0.0
+mateusoler,The Happening,,47668,0.0
+mateusoler,Kung Fu Panda,3.5,47098,0.0
+mateusoler,Indiana Jones and the Kingdom of the Crystal Skull,2.5,51839,0.0
+mateusoler,The Chronicles of Narnia: Prince Caspian,,50242,0.0
+mateusoler,Slumdog Millionaire,3.5,44613,0.0
+mateusoler,Nim's Island,,46181,0.0
+mateusoler,The Wave,,47981,0.0
+mateusoler,Horton Hears a Who!,,44687,0.0
+mateusoler,The Spiderwick Chronicles,,47858,0.0
+mateusoler,Astérix at the Olympic Games,,50279,0.0
+mateusoler,Let the Right One In,3.0,43989,0.0
+mateusoler,I Am Legend,1.5,48296,0.0
+mateusoler,Winx Club: The Secret of the Lost Kingdom,,67255,0.0
+mateusoler,The Mist,,48602,0.0
+mateusoler,Bee Movie,3.0,48791,0.0
+mateusoler,There Will Be Blood,4.5,48044,0.0
+mateusoler,Superbad,2.0,47776,0.0
+mateusoler,The Bourne Ultimatum,,50223,0.0
+mateusoler,Harry Potter and the Order of the Phoenix,2.5,51449,0.0
+mateusoler,Transformers,3.0,50742,0.0
+mateusoler,Ratatouille,3.5,50558,0.0
+mateusoler,Surf's Up,,47188,0.0
+mateusoler,Ocean's Thirteen,,51761,0.0
+mateusoler,Inside,4.5,43987,0.0
+mateusoler,No Country for Old Men,3.0,48140,0.0
+mateusoler,Pirates of the Caribbean: At World's End,,51773,0.0
+mateusoler,[REC],4.5,47803,1.0
+mateusoler,Meet the Robinsons,,51115,0.0
+mateusoler,Zodiac,3.0,50659,0.0
+mateusoler,Death at a Funeral,,50442,0.0
+mateusoler,The Pursuit of Happyness,2.5,51061,0.0
+mateusoler,Arthur and the Invisibles,,46649,0.0
+mateusoler,300,,51111,0.0
+mateusoler,Happy Feet,,46779,0.0
+mateusoler,Franklin and the Turtle Lake Treasure,,29155,0.0
+mateusoler,Flushed Away,,45132,0.0
+mateusoler,My Name Is Juani,,61430,0.0
+mateusoler,Children of Men,2.5,46911,0.0
+mateusoler,Perfume: The Story of a Murderer,2.0,51038,0.0
+mateusoler,Barnyard,,46727,0.0
+mateusoler,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,4.0,51614,0.0
+mateusoler,Pirates of the Caribbean: Dead Man's Chest,2.5,51989,0.0
+mateusoler,Over the Hedge,,47994,0.0
+mateusoler,Ice Age: The Meltdown,,60297,0.0
+mateusoler,The Wind That Shakes the Barley,4.0,51149,0.0
+mateusoler,Cars,3.5,51233,0.0
+mateusoler,Little Miss Sunshine,3.5,51379,0.0
+mateusoler,Bandidas,,50639,0.0
+mateusoler,V for Vendetta,,51400,0.0
+mateusoler,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",,51679,0.0
+mateusoler,Harry Potter and the Goblet of Fire,3.0,51450,0.0
+mateusoler,Chicken Little,,46658,0.0
+mateusoler,Match Point,,51934,0.0
+mateusoler,Pride & Prejudice,3.0,49390,0.0
+mateusoler,Wallace & Gromit: The Curse of the Were-Rabbit,,51584,0.0
+mateusoler,Brokeback Mountain,3.0,51909,0.0
+mateusoler,The 40 Year Old Virgin,2.5,48160,0.0
+mateusoler,Charlie and the Chocolate Factory,,51932,0.0
+mateusoler,Fantastic Four,,46869,0.0
+mateusoler,Mr. & Mrs. Smith,2.0,51365,0.0
+mateusoler,Batman Begins,3.0,51784,0.0
+mateusoler,Madagascar,,51207,0.0
+mateusoler,Star Wars: Episode III - Revenge of the Sith,3.0,50709,0.0
+mateusoler,Valiant,,43287,0.0
+mateusoler,Robots,,46706,0.0
+mateusoler,Meet the Fockers,,51433,0.0
+mateusoler,Lemony Snicket's A Series of Unfortunate Events,,45021,0.0
+mateusoler,Ocean's Twelve,2.0,51888,0.0
+mateusoler,The Life Aquatic with Steve Zissou,3.5,51674,0.0
+mateusoler,Howl's Moving Castle,3.5,49062,0.0
+mateusoler,The SpongeBob SquarePants Movie,,44965,0.0
+mateusoler,The Incredibles,3.5,46806,0.0
+mateusoler,The Polar Express,,48883,0.0
+mateusoler,Barbie as The Princess & the Pauper,,42550,0.0
+mateusoler,Shark Tale,,46117,0.0
+mateusoler,The Village,3.5,48167,0.0
+mateusoler,"I, Robot",,50568,0.0
+mateusoler,The Notebook,3.0,45667,0.0
+mateusoler,White Chicks,,44750,0.0
+mateusoler,The Terminal,2.5,51527,0.0
+mateusoler,Harry Potter and the Prisoner of Azkaban,3.0,51451,0.0
+mateusoler,The Day After Tomorrow,,51660,0.0
+mateusoler,Shrek 2,3.0,51343,0.0
+mateusoler,Pinocchio 3000,,37559,0.0
+mateusoler,Troy,2.5,51472,0.0
+mateusoler,Kill Bill: Vol. 2,5.0,51696,0.0
+mateusoler,Shaun of the Dead,3.0,51405,0.0
+mateusoler,Home on the Range,,43667,0.0
+mateusoler,Eternal Sunshine of the Spotless Mind,3.0,2683,0.0
+mateusoler,The Chorus,,48801,0.0
+mateusoler,Before Sunset,3.5,51970,0.0
+mateusoler,The Butterfly Effect,1.0,50654,0.0
+mateusoler,Super Size Me,,47223,0.0
+mateusoler,Primer,3.5,2682,0.0
+mateusoler,The Last Samurai,,51507,0.0
+mateusoler,The Lord of the Rings: The Return of the King,4.0,51928,0.0
+mateusoler,Oldboy,4.0,51454,0.0
+mateusoler,Master and Commander: The Far Side of the World,,47671,0.0
+mateusoler,Brother Bear,,46633,0.0
+mateusoler,School of Rock,3.0,50950,0.0
+mateusoler,Kill Bill: Vol. 1,4.5,2694,0.0
+mateusoler,Barbie of Swan Lake,,42667,0.0
+mateusoler,Love Actually,2.5,51602,0.0
+mateusoler,Touching the Void,,45515,0.0
+mateusoler,Lost in Translation,4.5,51898,0.0
+mateusoler,Pirates of the Caribbean: The Curse of the Black Pearl,2.5,2695,0.0
+mateusoler,Sinbad: Legend of the Seven Seas,,43115,0.0
+mateusoler,Finding Nemo,3.5,2705,0.0
+mateusoler,The Matrix Reloaded,,51517,0.0
+mateusoler,Memories of Murder,3.5,45312,0.0
+mateusoler,Ben Hur,,357,0.0
+mateusoler,Catch Me If You Can,3.0,51484,0.0
+mateusoler,The Lord of the Rings: The Two Towers,4.0,51929,0.0
+mateusoler,Treasure Planet,,47426,0.0
+mateusoler,Harry Potter and the Chamber of Secrets,3.0,51452,0.0
+mateusoler,8 Mile,2.5,51984,0.0
+mateusoler,Signs,4.0,50152,0.0
+mateusoler,Minority Report,,51871,0.0
+mateusoler,Spirit: Stallion of the Cimarron,,47420,0.0
+mateusoler,Irreversible,4.5,51190,0.0
+mateusoler,Punch-Drunk Love,4.0,47914,0.0
+mateusoler,Star Wars: Episode II - Attack of the Clones,3.0,50710,0.0
+mateusoler,Spider-Man,,51561,0.0
+mateusoler,About a Boy,,51811,0.0
+mateusoler,Bend It Like Beckham,,51646,0.0
+mateusoler,Ice Age,,51670,0.0
+mateusoler,Jimmy Neutron: Boy Genius,,44450,0.0
+mateusoler,The Lord of the Rings: The Fellowship of the Ring,4.0,51930,0.0
+mateusoler,Ocean's Eleven,2.5,51890,0.0
+mateusoler,Harry Potter and the Philosopher's Stone,2.5,51453,0.0
+mateusoler,"Monsters, Inc.",,51535,0.0
+mateusoler,The Man Who Wasn't There,3.0,45906,0.0
+mateusoler,K-PAX,,51884,0.0
+mateusoler,The Royal Tenenbaums,3.5,47169,0.0
+mateusoler,Spirited Away,4.5,51921,0.0
+mateusoler,Y Tu Mamá También,4.5,51068,1.0
+mateusoler,Atlantis: The Lost Empire,,45820,0.0
+mateusoler,Shrek,3.5,51344,0.0
+mateusoler,Amélie,,51858,0.0
+mateusoler,The Devil's Backbone,3.0,51034,0.0
+mateusoler,Freddy Got Fingered,3.0,44084,0.0
+mateusoler,Donnie Darko,3.0,51910,0.0
+mateusoler,Cast Away,3.0,47778,0.0
+mateusoler,Unbreakable,3.5,46866,0.0
+mateusoler,Joseph: King of Dreams,,41613,0.0
+mateusoler,Pay It Forward,,46027,0.0
+mateusoler,Help! I'm a Fish,,44432,0.0
+mateusoler,Requiem for a Dream,4.0,51483,0.0
+mateusoler,Meet the Parents,2.0,50937,0.0
+mateusoler,Sexy Beast,4.0,44974,0.0
+mateusoler,Billy Elliot,3.5,51978,0.0
+mateusoler,Gladiator,4.0,51952,0.0
+mateusoler,American Psycho,2.0,51097,0.0
+mateusoler,The Green Mile,3.5,51613,0.0
+mateusoler,Butterfly,,31536,0.0
+mateusoler,Fight Club,3.5,51568,0.0
+mateusoler,American Beauty,2.5,2703,0.0
+mateusoler,Being John Malkovich,4.0,51618,0.0
+mateusoler,The Sixth Sense,,51407,0.0
+mateusoler,Eyes Wide Shut,4.5,51717,0.0
+mateusoler,Tarzan,,27285,0.0
+mateusoler,Kikujiro,3.0,49409,0.0
+mateusoler,The Straight Story,3.0,51686,0.0
+mateusoler,The Virgin Suicides,3.0,51024,0.0
+mateusoler,Humanité,4.0,1534,0.0
+mateusoler,Star Wars: Episode I - The Phantom Menace,2.0,50711,0.0
+mateusoler,Notting Hill,2.5,51601,0.0
+mateusoler,10 Things I Hate About You,4.0,49047,0.0
+mateusoler,The Matrix,,51518,0.0
+mateusoler,The Thin Red Line,4.0,47627,0.0
+mateusoler,Meet Joe Black,2.5,51762,0.0
+mateusoler,Rushmore,2.5,45203,0.0
+mateusoler,Saving Private Ryan,3.5,51295,0.0
+mateusoler,Mulan,3.5,46001,0.0
+mateusoler,The Truman Show,3.5,27256,0.0
+mateusoler,The Big Lebowski,2.5,51935,0.0
+mateusoler,Life Is Beautiful,,51487,0.0
+mateusoler,Jackie Brown,3.0,51868,0.0
+mateusoler,Good Will Hunting,3.5,51621,0.0
+mateusoler,Titanic,3.0,51524,0.0
+mateusoler,The Full Monty,3.0,47170,0.0
+mateusoler,Air Force One,1.5,46838,0.0
+mateusoler,Princess Mononoke,4.0,51922,0.0
+mateusoler,The Life of Jesus,3.5,34827,0.0
+mateusoler,L.A. Confidential,3.0,50509,0.0
+mateusoler,Fargo,4.0,51781,0.0
+mateusoler,Trainspotting,,51497,0.0
+mateusoler,Bottle Rocket,3.5,43680,0.0
+mateusoler,Beautiful Girls,,47309,0.0
+mateusoler,Toy Story,,51290,0.0
+mateusoler,Se7en,3.5,51345,0.0
+mateusoler,Babe,,47003,0.0
+mateusoler,Braveheart,,51855,0.0
+mateusoler,Land and Freedom,3.0,25738,0.0
+mateusoler,The Usual Suspects,,51495,0.0
+mateusoler,Before Sunrise,4.5,51974,0.0
+mateusoler,The Shawshank Redemption,3.5,51778,0.0
+mateusoler,Natural Born Killers,3.5,51815,0.0
+mateusoler,Forrest Gump,,2704,0.0
+mateusoler,Pulp Fiction,4.5,51444,0.0
+mateusoler,The Lion King,2.5,47677,0.0
+mateusoler,Schindler's List,4.0,51671,0.0
+mateusoler,What's Eating Gilbert Grape,3.0,50947,0.0
+mateusoler,Dazed and Confused,3.5,47029,0.0
+mateusoler,The Wrong Trousers,,51586,0.0
+mateusoler,The Firm,,27193,0.0
+mateusoler,Jurassic Park,3.5,51733,0.0
+mateusoler,Manhattan Murder Mystery,3.0,46228,0.0
+mateusoler,Three Colors: Blue,2.0,51942,0.0
+mateusoler,Home Alone 2: Lost in New York,,51380,0.0
+mateusoler,Unforgiven,2.5,2685,0.0
+mateusoler,Porco Rosso,3.5,45130,0.0
+mateusoler,Reservoir Dogs,4.0,51610,0.0
+mateusoler,Night on Earth,3.5,51723,0.0
+mateusoler,The Fisher King,3.0,51874,0.0
+mateusoler,Terminator 2: Judgment Day,,51776,0.0
+mateusoler,Thelma & Louise,3.5,50992,0.0
+mateusoler,Barton Fink,4.0,51769,0.0
+mateusoler,Delicatessen,3.0,51260,0.0
+mateusoler,The Silence of the Lambs,4.0,51782,0.0
+mateusoler,The Godfather: Part III,,51814,0.0
+mateusoler,Edward Scissorhands,,51889,0.0
+mateusoler,Home Alone,,51381,0.0
+mateusoler,Miller's Crossing,,51706,0.0
+mateusoler,Back to the Future Part III,,51856,0.0
+mateusoler,Wild at Heart,3.5,51623,0.0
+mateusoler,Back to the Future Part II,,51886,0.0
+mateusoler,Twin Peaks,3.5,384557,0.0
+mateusoler,"Sex, Lies, and Videotape",3.0,51052,0.0
+mateusoler,Kiki's Delivery Service,3.5,41360,0.0
+mateusoler,When Harry Met Sally...,3.0,51485,0.0
+mateusoler,Dead Poets Society,4.0,51846,0.0
+mateusoler,Indiana Jones and the Last Crusade,4.5,51961,0.0
+mateusoler,Do the Right Thing,4.0,51228,0.0
+mateusoler,Rain Man,,51705,0.0
+mateusoler,Cinema Paradiso,3.5,45493,0.0
+mateusoler,The Vanishing,4.0,47628,0.0
+mateusoler,Akira,4.5,51902,0.0
+mateusoler,Grave of the Fireflies,3.5,44558,0.0
+mateusoler,My Neighbor Totoro,5.0,47756,0.0
+mateusoler,The Brave Little Toaster,,39344,0.0
+mateusoler,Full Metal Jacket,4.0,51521,0.0
+mateusoler,The Untouchables,3.0,51933,0.0
+mateusoler,Platoon,4.0,51360,0.0
+mateusoler,Mauvais Sang,3.5,1997,0.0
+mateusoler,The Name of the Rose,,51860,0.0
+mateusoler,Stand by Me,3.0,51821,0.0
+mateusoler,Blue Velvet,3.0,51359,0.0
+mateusoler,Top Gun,3.0,51408,0.0
+mateusoler,Hannah and Her Sisters,3.5,48940,0.0
+mateusoler,Come and See,4.5,36192,0.0
+mateusoler,Back to the Future,,51945,0.0
+mateusoler,The Goonies,,47254,0.0
+mateusoler,Witness,,47311,0.0
+mateusoler,The Terminator,3.0,51838,0.0
+mateusoler,Amadeus,2.5,51777,0.0
+mateusoler,Gremlins,,51226,0.0
+mateusoler,Indiana Jones and the Temple of Doom,3.0,51963,0.0
+mateusoler,"Paris, Texas",,51469,0.0
+mateusoler,Scarface,4.0,51939,0.0
+mateusoler,Nate and Hayes,,28595,0.0
+mateusoler,Rumble Fish,3.0,51824,0.0
+mateusoler,Never Say Never Again,,27711,0.0
+mateusoler,Return of the Jedi,4.0,50712,0.0
+mateusoler,The Thing,3.5,51155,0.0
+mateusoler,Blade Runner,3.0,51972,0.0
+mateusoler,E.T. the Extra-Terrestrial,3.5,51520,0.0
+mateusoler,Raiders of the Lost Ark,4.0,51965,0.0
+mateusoler,Raging Bull,4.0,50956,0.0
+mateusoler,Airplane!,,51339,0.0
+mateusoler,The Shining,4.0,51432,0.0
+mateusoler,The Empire Strikes Back,3.5,50713,0.0
+mateusoler,Kramer vs. Kramer,4.0,6538,0.0
+mateusoler,Stalker,3.5,51062,0.0
+mateusoler,Apocalypse Now,4.5,2690,0.0
+mateusoler,Superman,3.0,50681,0.0
+mateusoler,Halloween,3.0,60298,0.0
+mateusoler,Days of Heaven,3.5,41461,0.0
+mateusoler,Dawn of the Dead,3.5,51230,0.0
+mateusoler,Close Encounters of the Third Kind,,51312,0.0
+mateusoler,Sorcerer,4.5,25650,0.0
+mateusoler,Star Wars,3.5,2706,0.0
+mateusoler,Annie Hall,3.5,51423,0.0
+mateusoler,Eraserhead,3.0,51184,0.0
+mateusoler,Taxi Driver,3.5,51947,0.0
+mateusoler,"Salò, or the 120 Days of Sodom",3.0,48865,0.0
+mateusoler,Dog Day Afternoon,3.5,51195,0.0
+mateusoler,Jaws,3.5,51542,0.0
+mateusoler,The Godfather: Part II,,51816,0.0
+mateusoler,The Texas Chain Saw Massacre,3.0,31985,0.0
+mateusoler,Thunderbolt and Lightfoot,,47788,0.0
+mateusoler,The Exorcist,3.5,47048,0.0
+mateusoler,Don't Look Now,3.5,51222,0.0
+mateusoler,The Wicker Man,3.5,41662,0.0
+mateusoler,Badlands,3.5,49844,0.0
+mateusoler,"Aguirre, the Wrath of God",3.5,50612,0.0
+mateusoler,The Godfather,4.0,51818,0.0
+mateusoler,Cabaret,3.0,45900,0.0
+mateusoler,A Clockwork Orange,4.0,51867,0.0
+mateusoler,The Andromeda Strain,3.5,46158,0.0
+mateusoler,The Aristocats,3.0,46537,0.0
+mateusoler,Once Upon a Time in the West,3.0,51727,0.0
+mateusoler,Rosemary's Baby,3.0,51347,0.0
+mateusoler,2001: A Space Odyssey,4.0,51987,0.0
+mateusoler,In the Heat of the Night,3.5,46041,0.0
+mateusoler,The Dirty Dozen,,50888,0.0
+mateusoler,Two for the Road,3.0,48662,0.0
+mateusoler,Persona,3.5,51355,0.0
+mateusoler,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,4.5,51218,0.0
+mateusoler,Zulu,,43096,0.0
+mateusoler,A Fistful of Dollars,3.5,51698,0.0
+mateusoler,The Birds,3.5,51549,0.0
+mateusoler,The Man Who Shot Liberty Valance,,45057,0.0
+mateusoler,One Hundred and One Dalmatians,,44681,0.0
+mateusoler,Spartacus,3.0,51196,0.0
+mateusoler,Psycho,3.0,51578,0.0
+mateusoler,Ben-Hur,,51459,0.0
+mateusoler,Some Like It Hot,3.0,51817,0.0
+mateusoler,Sleeping Beauty,,45803,0.0
+mateusoler,The Vikings,,22427,0.0
+mateusoler,Paths of Glory,5.0,51194,0.0
+mateusoler,12 Angry Men,4.5,51700,0.0
+mateusoler,The Killing,3.0,51809,0.0
+mateusoler,High Noon,3.5,51771,0.0
+mateusoler,Rope,3.5,50954,0.0
+mateusoler,Fort Apache,,27094,0.0
+mateusoler,It's a Wonderful Life,,50949,0.0
+mateusoler,Casablanca,3.0,51770,0.0
+mateusoler,They Died with Their Boots On,,41034,0.0
+mateusoler,Dumbo,,45374,0.0
+mateusoler,Citizen Kane,3.0,2702,0.0
+mateusoler,Pinocchio,,45797,0.0
+mateusoler,The Flying Deuces,,37587,0.0
+mateusoler,Stagecoach,3.5,51174,0.0
+mateusoler,The Adventures of Robin Hood,,45785,0.0
+mateusoler,Snow White and the Seven Dwarfs,,51682,0.0
+mateusoler,Un Chien Andalou,,51498,0.0
+mateusoler,The Dancing Pig,,108226,0.0
+mateusoler,The Great Train Robbery,,48719,0.0
+mateusoler,A Trip to the Moon,,51377,0.0
+mateusoler,The Arrival of a Train at La Ciotat,,51891,0.0
+mateusoler,Workers Leaving the Lumière Factory,,51378,0.0
+provirag,The Sea Beast,3.5,488592,0.0
+provirag,Lightyear,,641574,0.0
+provirag,Doctor Strange in the Multiverse of Madness,3.5,385511,0.0
+provirag,The Northman,2.5,565852,0.0
+provirag,Everything Everywhere All at Once,4.5,474474,0.0
+provirag,The Batman,3.5,348914,0.0
+provirag,Alcarràs,4.5,721533,0.0
+provirag,Uncharted,2.0,264328,0.0
+provirag,The Tinder Swindler,,829061,0.0
+provirag,Harry Potter 20th Anniversary: Return to Hogwarts,5.0,809443,0.0
+provirag,Spider-Man: No Way Home,4.0,560787,0.0
+provirag,Don't Look Up,2.5,572255,0.0
+provirag,West Side Story,4.0,441471,0.0
+provirag,Licorice Pizza,4.0,641086,0.0
+provirag,Encanto,3.0,496592,0.0
+provirag,Eternals,2.5,454016,0.0
+provirag,Mediterraneo: The Law of the Sea,3.5,740612,0.0
+provirag,No Time to Die,3.5,305964,0.0
+provirag,Squid Game,,787181,0.0
+provirag,The Last Duel,4.0,544380,0.0
+provirag,The Guilty,3.5,496198,0.0
+provirag,Last Night in Soho,4.0,505000,0.0
+provirag,Dune,4.5,371378,0.0
+provirag,King Richard,3.0,541998,0.0
+provirag,Belfast,3.0,696630,0.0
+provirag,The Hand of God,3.5,645598,0.0
+provirag,Parallel Mothers,2.5,686855,0.0
+provirag,Libertad,4.5,580591,0.0
+provirag,Titane,3.0,556553,0.0
+provirag,The French Dispatch,4.0,471207,0.0
+provirag,The Worst Person in the World,3.5,585258,0.0
+provirag,The Forever Purge,1.0,529537,0.0
+provirag,Luca,3.5,438722,0.0
+provirag,Bringing Him Back,3.0,726862,0.0
+provirag,Cruella,3.0,266676,0.0
+provirag,Ovella,4.0,737870,0.0
+provirag,The Innocent,,741180,0.0
+provirag,Major Grom: Plague Doctor,2.0,458514,0.0
+provirag,Raya and the Last Dragon,4.0,457180,0.0
+provirag,Malcolm & Marie,3.5,645487,0.0
+provirag,The Prom,3.0,538375,0.0
+provirag,The Queen's Gambit,3.5,668077,0.0
+provirag,Riot Police,,675210,0.0
+provirag,Soul,4.0,438511,0.0
+provirag,The Barcelona Vampiress,3.0,664205,0.0
+provirag,The Death of Guillem,3.0,665940,0.0
+provirag,The Trial of the Chicago 7,4.0,485519,0.0
+provirag,Enola Holmes,1.0,427852,0.0
+provirag,Coven,3.5,580597,0.0
+provirag,One for All,3.5,576941,0.0
+provirag,Another Round,4.5,508246,0.0
+provirag,Nomadland,4.5,509662,0.0
+provirag,Preparations to Be Together for an Unknown Period of Time,3.0,649481,0.0
+provirag,Pieces of a Woman,3.5,567547,0.0
+provirag,"Quo vadis, Aida?",3.5,650606,0.0
+provirag,Tenet,3.5,506032,0.0
+provirag,The Old Guard,3.0,475901,0.0
+provirag,Amaia: Una vuelta al sol,3.5,622089,0.0
+provirag,The Last Dance,,617825,0.0
+provirag,The Invisible Line,3.0,616106,0.0
+provirag,Schoolgirls,4.0,546764,0.0
+provirag,Emma.,3.0,485212,0.0
+provirag,The Social Dilemma,3.5,581924,0.0
+provirag,Promising Young Woman,4.0,510047,0.0
+provirag,Pinocchio,1.5,347492,0.0
+provirag,Star Wars: The Rise of Skywalker,3.5,131984,0.0
+provirag,6 Underground,2.0,439717,0.0
+provirag,Little Women,4.0,259441,0.0
+provirag,1917,4.0,460155,0.0
+provirag,Frozen II,2.0,258127,0.0
+provirag,Klaus,3.0,438751,0.0
+provirag,How to Train Your Dragon: Homecoming,4.0,564496,0.0
+provirag,The Endless Trench,3.5,472048,0.0
+provirag,Jojo Rabbit,4.5,444600,0.0
+provirag,Knives Out,4.0,475370,0.0
+provirag,Sound of Metal,4.0,432004,0.0
+provirag,The Platform,3.0,545985,0.0
+provirag,The King,3.0,434753,0.0
+provirag,Joker,4.0,406775,0.0
+provirag,Ford v Ferrari,4.0,291419,0.0
+provirag,Marriage Story,4.0,422682,0.0
+provirag,Crawl,1.5,441665,0.0
+provirag,Spider-Man: Far From Home,2.5,362977,0.0
+provirag,Toy Story 4,,228628,0.0
+provirag,Fire Will Come,3.5,503751,0.0
+provirag,Once Upon a Time… in Hollywood,3.0,397859,0.0
+provirag,Parasite,4.0,426406,0.0
+provirag,Portrait of a Lady on Fire,3.5,460830,0.0
+provirag,Les Misérables,,514647,0.0
+provirag,Yesterday,2.0,444799,0.0
+provirag,Life without Sara Amat,,525905,0.0
+provirag,Avengers: Endgame,4.0,226660,0.0
+provirag,Pain and Glory,2.5,448445,0.0
+provirag,Watermelon Juice,4.0,509612,0.0
+provirag,The Days to Come,4.0,503639,0.0
+provirag,How to Train Your Dragon: The Hidden World,3.5,123067,0.0
+provirag,The Christmas Chronicles,3.0,456712,0.0
+provirag,Fantastic Beasts: The Crimes of Grindelwald,1.5,268365,0.0
+provirag,The Photographer of Mauthausen,3.0,458421,0.0
+provirag,Bohemian Rhapsody,3.5,358222,0.0
+provirag,Venom,1.5,265438,0.0
+provirag,The Realm,3.5,447079,0.0
+provirag,The Meg,1.5,276291,0.0
+provirag,Mamma Mia! Here We Go Again,4.0,390264,0.0
+provirag,Ocean's Eight,,337567,0.0
+provirag,Incredibles 2,3.0,184061,0.0
+provirag,Capernaum,4.0,447463,0.0
+provirag,Under the Silver Lake,4.0,330810,0.0
+provirag,The Angel,3.0,399957,0.0
+provirag,Shoplifters,3.5,435129,0.0
+provirag,Cold War,4.0,373018,0.0
+provirag,Border,2.5,447514,0.0
+provirag,Avengers: Infinity War,4.0,226661,0.0
+provirag,Wildlife,3.0,351715,0.0
+provirag,Star Wars: The Last Jedi,3.0,131987,0.0
+provirag,The Greatest Showman,3.5,243063,0.0
+provirag,Perfect Strangers,2.5,368057,0.0
+provirag,Coco,4.5,285509,0.0
+provirag,Thor: Ragnarok,3.5,209382,0.0
+provirag,Holy Camp!,2.0,359769,0.0
+provirag,"I, Tonya",3.5,323609,0.0
+provirag,It,3.5,276819,0.0
+provirag,Lady Bird,3.0,326279,0.0
+provirag,Veronica,3.5,374388,0.0
+provirag,The Emoji Movie,1.5,313491,0.0
+provirag,Dunkirk,3.5,310199,0.0
+provirag,Spider-Man: Homecoming,2.0,242710,0.0
+provirag,War Machine,,284883,0.0
+provirag,Pirates of the Caribbean: Dead Men Tell No Tales,3.0,123066,0.0
+provirag,Okja,3.5,322110,0.0
+provirag,Guardians of the Galaxy Vol. 2,,209322,0.0
+provirag,On the Beach at Night Alone,1.0,367739,0.0
+provirag,Baby Driver,3.0,268950,0.0
+provirag,Skins,4.0,368613,0.0
+provirag,Get Out,3.5,353117,0.0
+provirag,Call Me by Your Name,4.5,333029,0.0
+provirag,Passengers,,198992,0.0
+provirag,Moana,4.0,201909,0.0
+provirag,Fantastic Beasts and Where to Find Them,,182910,0.0
+provirag,100 Meters,,337341,0.0
+provirag,Sasha,,394160,0.0
+provirag,Split,,316315,0.0
+provirag,Sing,3.5,264336,0.0
+provirag,A Monster Calls,3.5,181943,0.0
+provirag,Moonlight,3.5,312205,0.0
+provirag,Arrival,3.0,257426,0.0
+provirag,La La Land,5.0,240344,1.0
+provirag,Kubo and the Two Strings,3.0,240068,0.0
+provirag,Jason Bourne,,251773,0.0
+provirag,The Night Of,,348277,0.0
+provirag,The Siege of Jadotville,3.0,263201,0.0
+provirag,The Purge: Election Year,2.0,243745,0.0
+provirag,The Shallows,,261112,0.0
+provirag,The Secret Life of Pets,2.0,255661,0.0
+provirag,Finding Dory,3.0,99402,0.0
+provirag,Now You See Me 2,3.0,218051,0.0
+provirag,Café Society,3.0,268947,0.0
+provirag,Captain America: Civil War,3.0,194402,0.0
+provirag,"Kiki, Love to Love",3.0,306677,0.0
+provirag,Sausage Party,1.5,157841,0.0
+provirag,Hush,3.0,311962,0.0
+provirag,Allegiant,1.5,185973,0.0
+provirag,London Has Fallen,2.0,191074,0.0
+provirag,Captain Fantastic,4.5,263215,0.0
+provirag,Swiss Army Man,5.0,277413,1.0
+provirag,The Revenant,3.0,207224,0.0
+provirag,Star Wars: The Force Awakens,3.5,107418,0.0
+provirag,The Hateful Eight,3.5,197012,0.0
+provirag,Spanish Affair 2,2.0,278844,0.0
+provirag,The Hunger Games: Mockingjay - Part 2,,101990,0.0
+provirag,Second Origin,,92004,0.0
+provirag,Truman,3.0,271464,0.0
+provirag,The Martian,3.0,211511,0.0
+provirag,Room,3.0,187975,0.0
+provirag,Everest,2.5,177257,0.0
+provirag,The Lobster,3.5,178123,0.0
+provirag,Inside Out,4.0,113284,0.0
+provirag,Vale,4.0,291288,0.0
+provirag,Youth,4.0,237608,0.0
+provirag,Son of Saul,3.5,264635,0.0
+provirag,Pitch Perfect 2,,178282,0.0
+provirag,Mad Max: Fury Road,4.0,62780,0.0
+provirag,Avengers: Age of Ultron,3.0,81605,0.0
+provirag,Insurgent,2.0,185970,0.0
+provirag,Focus,,180414,0.0
+provirag,Ex Machina,,187986,0.0
+provirag,Unbroken,3.5,159976,0.0
+provirag,The Hobbit: The Battle of the Five Armies,3.0,96552,0.0
+provirag,The Hunger Games: Mockingjay - Part 1,3.0,101991,0.0
+provirag,Suite Française,3.5,194944,0.0
+provirag,Interstellar,4.5,117621,0.0
+provirag,The Maze Runner,,142549,0.0
+provirag,The Imitation Game,3.5,146954,0.0
+provirag,Birdman or (The Unexpected Virtue of Ignorance),4.0,139795,0.0
+provirag,Guardians of the Galaxy,3.5,93676,0.0
+provirag,Lucy,2.0,168860,0.0
+provirag,Mommy,3.5,188421,0.0
+provirag,How to Train Your Dragon 2,4.0,69142,0.0
+provirag,The Amazing Spider-Man 2,,83215,0.0
+provirag,Spanish Affair,3.5,166183,0.0
+provirag,Divergent,2.5,117583,0.0
+provirag,Captain America: The Winter Soldier,3.0,81909,0.0
+provirag,"10,000 Km",4.0,177083,0.0
+provirag,The Grand Budapest Hotel,4.0,95113,0.0
+provirag,The Lego Movie,3.0,105188,0.0
+provirag,Whiplash,3.5,171384,0.0
+provirag,Nymphomaniac: Vol. II,3.5,174195,0.0
+provirag,Nymphomaniac: Vol. I,4.0,181937,0.0
+provirag,The Hobbit: The Desolation of Smaug,3.0,8983,0.0
+provirag,The Wolf of Wall Street,3.5,86114,0.0
+provirag,Frozen,3.0,87948,0.0
+provirag,The Hunger Games: Catching Fire,3.0,82488,0.0
+provirag,12 Years a Slave,3.5,62671,0.0
+provirag,Her,4.0,114564,0.0
+provirag,Prisoners,4.0,110740,0.0
+provirag,Gravity,,16529,0.0
+provirag,About Time,4.0,96557,0.0
+provirag,World War Z,2.5,57292,0.0
+provirag,Despicable Me 2,3.0,77748,0.0
+provirag,Monsters University,2.5,4553,0.0
+provirag,The Purge,2.0,118110,0.0
+provirag,After Earth,,69144,0.0
+provirag,Now You See Me,4.0,62065,0.0
+provirag,The Great Beauty,4.0,130523,0.0
+provirag,Les Misérables,3.0,69149,0.0
+provirag,Django Unchained,3.5,52516,0.0
+provirag,The Hobbit: An Unexpected Journey,3.0,16525,0.0
+provirag,Life of Pi,3.0,74348,0.0
+provirag,Skyfall,3.0,26779,0.0
+provirag,Looper,,6599,0.0
+provirag,The Impossible,,66559,0.0
+provirag,Silver Linings Playbook,3.0,69151,0.0
+provirag,The Dark Knight Rises,3.5,16550,0.0
+provirag,Ice Age: Continental Drift,,8395,0.0
+provirag,The Amazing Spider-Man,,50677,0.0
+provirag,I Want You,,88079,0.0
+provirag,Brave,3.0,4586,0.0
+provirag,Madagascar 3: Europe's Most Wanted,,66756,0.0
+provirag,The Hunt,4.0,84051,0.0
+provirag,Men in Black 3,,23857,0.0
+provirag,The Avengers,3.0,36778,0.0
+provirag,The Hunger Games,3.5,59281,0.0
+provirag,New Year's Eve,3.0,3977,0.0
+provirag,Sherlock Holmes: A Game of Shadows,3.5,7712,0.0
+provirag,The Twilight Saga: Breaking Dawn - Part 1,1.0,15077,0.0
+provirag,The Intouchables,3.0,63767,0.0
+provirag,In Time,3.0,16082,0.0
+provirag,The Adventures of Tintin,,40915,0.0
+provirag,Hugo,,20374,0.0
+provirag,The Help,4.0,15620,0.0
+provirag,The Smurfs,2.0,23525,0.0
+provirag,Captain America: The First Avenger,3.5,50809,0.0
+provirag,Friends with Benefits,,15145,0.0
+provirag,"Crazy, Stupid, Love.",3.0,15051,0.0
+provirag,Harry Potter and the Deathly Hallows: Part 2,4.0,44580,0.0
+provirag,Kung Fu Panda 2,2.5,16164,0.0
+provirag,Drive,3.5,277,0.0
+provirag,Midnight in Paris,3.5,6945,0.0
+provirag,Pirates of the Caribbean: On Stranger Tides,3.0,50735,0.0
+provirag,Detachment,,62006,0.0
+provirag,No Strings Attached,2.0,23414,0.0
+provirag,Heroes,,69919,0.0
+provirag,Harry Potter and the Deathly Hallows: Part 1,4.0,44581,0.0
+provirag,Black Swan,3.5,20956,0.0
+provirag,Despicable Me,3.5,39067,0.0
+provirag,Inception,4.5,34722,1.0
+provirag,The Twilight Saga: Eclipse,,37088,0.0
+provirag,Toy Story 3,4.0,46458,0.0
+provirag,Shrek Forever After,2.0,46459,0.0
+provirag,How to Train Your Dragon,4.0,46460,0.0
+provirag,Shutter Island,3.5,45409,0.0
+provirag,Dear John,3.0,37597,0.0
+provirag,Sherlock Holmes,4.0,46144,0.0
+provirag,Invictus,2.5,37605,0.0
+provirag,Avatar,3.5,39304,0.0
+provirag,The Twilight Saga: New Moon,,40480,0.0
+provirag,Fantastic Mr. Fox,3.5,46344,0.0
+provirag,The Concert,4.0,55905,0.0
+provirag,Cell 211,3.0,29916,0.0
+provirag,Harry Potter and the Half-Blood Prince,4.0,51385,0.0
+provirag,Public Enemies,,45411,0.0
+provirag,Ice Age: Dawn of the Dinosaurs,3.0,47781,0.0
+provirag,Exam,4.0,32433,0.0
+provirag,American Pie Presents: The Book of Love,,35567,0.0
+provirag,Hachi: A Dog's Tale,,33853,0.0
+provirag,Night at the Museum: Battle of the Smithsonian,,40411,0.0
+provirag,Inglourious Basterds,4.0,41352,0.0
+provirag,Up,4.0,43302,0.0
+provirag,Monsters vs Aliens,,42315,0.0
+provirag,The Curious Case of Benjamin Button,3.0,49075,0.0
+provirag,Gran Torino,3.0,44042,0.0
+provirag,Twilight,,47469,0.0
+provirag,High School Musical 3: Senior Year,1.0,44919,0.0
+provirag,Hush,3.0,39275,0.0
+provirag,The Dark Knight,3.5,51896,0.0
+provirag,Hancock,1.5,47474,0.0
+provirag,Mamma Mia!,3.5,45120,0.0
+provirag,WALL·E,3.0,45994,0.0
+provirag,Kung Fu Panda,3.0,47098,0.0
+provirag,Indiana Jones and the Kingdom of the Crystal Skull,,51839,0.0
+provirag,The Wave,3.5,47981,0.0
+provirag,Hola?,,682121,0.0
+provirag,Alvin and the Chipmunks,3.5,48298,0.0
+provirag,American Pie Presents: Beta House,,47829,0.0
+provirag,I Am Legend,2.5,48296,0.0
+provirag,P.S. I Love You,,48494,0.0
+provirag,Into the Wild,4.0,48571,0.0
+provirag,High School Musical 2,1.0,43713,0.0
+provirag,The Bourne Ultimatum,3.0,50223,0.0
+provirag,Harry Potter and the Order of the Phoenix,4.0,51449,0.0
+provirag,Ratatouille,3.5,50558,0.0
+provirag,Pirates of the Caribbean: At World's End,3.5,51773,0.0
+provirag,Spider-Man 3,,51559,0.0
+provirag,The Number 23,,49641,0.0
+provirag,Death at a Funeral,3.5,50442,0.0
+provirag,300,3.0,51111,0.0
+provirag,Blood Diamond,3.5,51084,0.0
+provirag,Happy Feet,3.0,46779,0.0
+provirag,The Prestige,4.0,51147,0.0
+provirag,Copying Beethoven,1.0,50944,0.0
+provirag,Monster House,,47295,0.0
+provirag,Pirates of the Caribbean: Dead Man's Chest,3.5,51989,0.0
+provirag,"Paris, Je T'Aime",4.0,50376,0.0
+provirag,Ice Age: The Meltdown,3.5,60297,0.0
+provirag,Cars,3.0,51233,0.0
+provirag,Little Miss Sunshine,4.5,51379,0.0
+provirag,High School Musical,3.0,45747,0.0
+provirag,Mar i Cel,5.0,190423,0.0
+provirag,V for Vendetta,3.5,51400,0.0
+provirag,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2.5,51679,0.0
+provirag,Oliver Twist,,51799,0.0
+provirag,Charlie and the Chocolate Factory,,51932,0.0
+provirag,Mr. & Mrs. Smith,3.5,51365,0.0
+provirag,Batman Begins,3.0,51784,0.0
+provirag,Madagascar,3.5,51207,0.0
+provirag,Star Wars: Episode III - Revenge of the Sith,,50709,0.0
+provirag,The Aviator,3.0,50207,0.0
+provirag,Ocean's Twelve,3.0,51888,0.0
+provirag,The Incredibles,4.0,46806,0.0
+provirag,The Polar Express,,48883,0.0
+provirag,"I, Robot",,50568,0.0
+provirag,Spider-Man 2,,51560,0.0
+provirag,The Notebook,2.5,45667,0.0
+provirag,Harry Potter and the Prisoner of Azkaban,4.0,51451,0.0
+provirag,Troy,2.5,51472,0.0
+provirag,Kill Bill: Vol. 2,4.0,51696,0.0
+provirag,The Chorus,3.5,48801,0.0
+provirag,50 First Dates,4.0,50773,0.0
+provirag,The Butterfly Effect,,50654,0.0
+provirag,Peter Pan,2.0,46072,0.0
+provirag,Big Fish,4.0,51533,0.0
+provirag,The Lord of the Rings: The Return of the King,4.0,51928,0.0
+provirag,Master and Commander: The Far Side of the World,3.0,47671,0.0
+provirag,The Matrix Revolutions,,51516,0.0
+provirag,Brother Bear,3.5,46633,0.0
+provirag,Kill Bill: Vol. 1,4.0,2694,0.0
+provirag,Lost in Translation,4.0,51898,0.0
+provirag,Pirates of the Caribbean: The Curse of the Black Pearl,4.0,2695,0.0
+provirag,Finding Nemo,4.0,2705,0.0
+provirag,The Matrix Reloaded,,51517,0.0
+provirag,Chicago,4.0,50960,0.0
+provirag,Catch Me If You Can,3.5,51484,0.0
+provirag,The Lord of the Rings: The Two Towers,4.0,51929,0.0
+provirag,Home Alone 4,,44501,0.0
+provirag,Harry Potter and the Chamber of Secrets,4.0,51452,0.0
+provirag,Spirit: Stallion of the Cimarron,5.0,47420,1.0
+provirag,Star Wars: Episode II - Attack of the Clones,,50710,0.0
+provirag,Spider-Man,,51561,0.0
+provirag,A Beautiful Mind,3.5,51648,0.0
+provirag,The Lord of the Rings: The Fellowship of the Ring,4.0,51930,0.0
+provirag,Ocean's Eleven,3.5,51890,0.0
+provirag,Harry Potter and the Philosopher's Stone,4.0,51453,0.0
+provirag,"Monsters, Inc.",3.5,51535,0.0
+provirag,Shrek,4.0,51344,0.0
+provirag,Amélie,3.5,51858,0.0
+provirag,Charlie's Angels,,49396,0.0
+provirag,Billy Elliot,3.0,51978,0.0
+provirag,Gladiator,4.0,51952,0.0
+provirag,The Green Mile,4.0,51613,0.0
+provirag,Butterfly,3.5,31536,0.0
+provirag,Fight Club,4.0,51568,0.0
+provirag,Tarzan,2.5,27285,0.0
+provirag,Star Wars: Episode I - The Phantom Menace,,50711,0.0
+provirag,The Matrix,4.0,51518,0.0
+provirag,Kirikou and the Sorceress,3.0,38462,0.0
+provirag,The Parent Trap,4.0,46794,0.0
+provirag,Saving Private Ryan,3.5,51295,0.0
+provirag,There's Something About Mary,3.0,51573,0.0
+provirag,Mulan,4.0,46001,0.0
+provirag,The Truman Show,4.0,27256,0.0
+provirag,Home Alone 3,4.0,46891,0.0
+provirag,Good Will Hunting,3.5,51621,0.0
+provirag,Titanic,2.5,51524,0.0
+provirag,Gattaca,3.5,51370,0.0
+provirag,The Full Monty,3.5,47170,0.0
+provirag,Princess Mononoke,2.0,51922,0.0
+provirag,Hercules,,44838,0.0
+provirag,Matilda,2.5,45855,0.0
+provirag,Heat,4.0,51994,0.0
+provirag,It Takes Two,3.0,29609,0.0
+provirag,Toy Story,4.0,51290,0.0
+provirag,Se7en,4.0,51345,0.0
+provirag,Pocahontas,,46142,0.0
+provirag,Braveheart,,51855,0.0
+provirag,Before Sunrise,4.0,51974,0.0
+provirag,Forrest Gump,3.5,2704,0.0
+provirag,Pulp Fiction,4.0,51444,0.0
+provirag,The Lion King,2.5,47677,0.0
+provirag,Schindler's List,4.0,51671,0.0
+provirag,Home Alone 2: Lost in New York,,51380,0.0
+provirag,Home Alone,4.0,51381,0.0
+provirag,When Harry Met Sally...,3.5,51485,0.0
+provirag,Dead Poets Society,4.0,51846,0.0
+provirag,Indiana Jones and the Last Crusade,,51961,0.0
+provirag,My Neighbor Totoro,2.5,47756,0.0
+provirag,The Princess Bride,4.0,50226,0.0
+provirag,Amadeus,3.5,51777,0.0
+provirag,Indiana Jones and the Temple of Doom,,51963,0.0
+provirag,Return of the Jedi,,50712,0.0
+provirag,Blade Runner,2.5,51972,0.0
+provirag,E.T. the Extra-Terrestrial,,51520,0.0
+provirag,Raiders of the Lost Ark,,51965,0.0
+provirag,The Empire Strikes Back,,50713,0.0
+provirag,Grease,3.0,51503,0.0
+provirag,Star Wars,,2706,0.0
+provirag,Jaws,3.0,51542,0.0
+provirag,The Godfather: Part II,,51816,0.0
+provirag,Spartacus,2.5,51196,0.0
+provirag,Ben-Hur,4.0,51459,0.0
+provirag,12 Angry Men,4.5,51700,0.0
+raquelgarcia,Alcarràs,,721533,0.0
+raquelgarcia,Harry Potter 20th Anniversary: Return to Hogwarts,,809443,0.0
+raquelgarcia,Encanto,2.0,496592,0.0
+raquelgarcia,Midnight Mass,3.0,774923,0.0
+raquelgarcia,Squid Game,2.5,787181,0.0
+raquelgarcia,The Last Duel,4.0,544380,0.0
+raquelgarcia,Dune,4.0,371378,0.0
+raquelgarcia,The Card Counter,4.0,569563,0.0
+raquelgarcia,The Hand of God,4.0,645598,0.0
+raquelgarcia,Fear Street: 1666,3.5,518789,0.0
+raquelgarcia,Titane,1.0,556553,0.0
+raquelgarcia,The French Dispatch,3.5,471207,0.0
+raquelgarcia,Fear Street: 1978,,518788,0.0
+raquelgarcia,Annette,3.0,357826,0.0
+raquelgarcia,Fear Street: 1994,3.0,518787,0.0
+raquelgarcia,Luca,4.5,438722,0.0
+raquelgarcia,Bo Burnham: Inside,3.5,739775,0.0
+raquelgarcia,"Love, Death & Robots: The Drowned Giant",,744145,0.0
+raquelgarcia,"Love, Death & Robots: All Through the House",,745721,0.0
+raquelgarcia,"Love, Death & Robots: The Tall Grass",,744142,0.0
+raquelgarcia,"Love, Death & Robots: Life Hutch",,744144,0.0
+raquelgarcia,"Love, Death & Robots: Snow in the Desert",,745648,0.0
+raquelgarcia,"Love, Death & Robots: Ice",,745646,0.0
+raquelgarcia,"Love, Death & Robots: Automated Customer Service",,745645,0.0
+raquelgarcia,The Mitchells vs. The Machines,3.0,431888,0.0
+raquelgarcia,Petite Maman,,669744,0.0
+raquelgarcia,Hate by Dani Rovira,,710620,0.0
+raquelgarcia,Euphoria: F*ck Anyone Who’s Not a Sea Blob,,709732,0.0
+raquelgarcia,Death to 2020,3.0,692942,0.0
+raquelgarcia,Euphoria: Trouble Don't Last Always,,695021,0.0
+raquelgarcia,The Queen's Gambit,2.5,668077,0.0
+raquelgarcia,Soul,3.5,438511,0.0
+raquelgarcia,The Haunting of Bly Manor,3.5,665098,0.0
+raquelgarcia,The Death of Guillem,,665940,0.0
+raquelgarcia,Eso que tú me das,,658824,0.0
+raquelgarcia,The Trial of the Chicago 7,4.0,485519,0.0
+raquelgarcia,Coven,3.0,580597,0.0
+raquelgarcia,Another Round,4.0,508246,0.0
+raquelgarcia,Nomadland,3.0,509662,0.0
+raquelgarcia,I'm Thinking of Ending Things,1.5,430806,0.0
+raquelgarcia,The Kissing Booth 2,,510995,0.0
+raquelgarcia,Summer of 85,,584995,0.0
+raquelgarcia,Teddy,3.5,635214,0.0
+raquelgarcia,Unorthodox,,612445,0.0
+raquelgarcia,Schoolgirls,3.0,546764,0.0
+raquelgarcia,The Father,3.0,527671,0.0
+raquelgarcia,Palm Springs,2.5,515467,0.0
+raquelgarcia,The Social Dilemma,,581924,0.0
+raquelgarcia,When Hitler Stole Pink Rabbit,,509421,0.0
+raquelgarcia,Star Wars: The Rise of Skywalker,,131984,0.0
+raquelgarcia,Little Women,3.5,259441,0.0
+raquelgarcia,1917,2.5,460155,0.0
+raquelgarcia,Miracle in Cell No. 7,3.5,564087,0.0
+raquelgarcia,The Legacy of the Bones,,540197,0.0
+raquelgarcia,Maleficent: Mistress of Evil,,354530,0.0
+raquelgarcia,Jojo Rabbit,4.5,444600,1.0
+raquelgarcia,Proxima,,410012,0.0
+raquelgarcia,Knives Out,4.5,475370,0.0
+raquelgarcia,While at War,,471988,0.0
+raquelgarcia,The Platform,,545985,0.0
+raquelgarcia,Corpus Christi,,403146,0.0
+raquelgarcia,Joker,,406775,0.0
+raquelgarcia,Marriage Story,,422682,0.0
+raquelgarcia,A Rainy Day in New York,,406144,0.0
+raquelgarcia,Midsommar,,459564,0.0
+raquelgarcia,Black Mirror: Smithereens,,532575,0.0
+raquelgarcia,"Black Mirror: Rachel, Jack and Ashley Too",,532579,0.0
+raquelgarcia,Black Mirror: Striking Vipers,,532569,0.0
+raquelgarcia,Once Upon a Time… in Hollywood,,397859,0.0
+raquelgarcia,Parasite,,426406,0.0
+raquelgarcia,Portrait of a Lady on Fire,4.5,460830,0.0
+raquelgarcia,Rocketman,2.5,434482,0.0
+raquelgarcia,Aladdin,,354538,0.0
+raquelgarcia,Yesterday,,444799,0.0
+raquelgarcia,"Love, Death & Robots: Fish Night",,518050,0.0
+raquelgarcia,"Love, Death & Robots: Zima Blue",,518052,0.0
+raquelgarcia,Pain and Glory,,448445,0.0
+raquelgarcia,Booksmart,3.0,435450,0.0
+raquelgarcia,The Professor and the Madman,3.0,345921,0.0
+raquelgarcia,System Crasher,3.5,495888,0.0
+raquelgarcia,Delphine and Carole,,508229,0.0
+raquelgarcia,How to Train Your Dragon: The Hidden World,,123067,0.0
+raquelgarcia,Black Mirror: Bandersnatch,,498044,0.0
+raquelgarcia,Bird Box,,340202,0.0
+raquelgarcia,Bohemian Rhapsody,2.5,358222,0.0
+raquelgarcia,The Haunting of Hill House,,482701,0.0
+raquelgarcia,Maniac,3.5,475562,0.0
+raquelgarcia,Green Book,,420703,0.0
+raquelgarcia,Beautiful Boy,,384058,0.0
+raquelgarcia,A Star Is Born,,261108,0.0
+raquelgarcia,The Favourite,4.0,310705,0.0
+raquelgarcia,Roma,,359859,0.0
+raquelgarcia,"Cyrano, My Love",,473335,0.0
+raquelgarcia,To All the Boys I've Loved Before,,397942,0.0
+raquelgarcia,Mamma Mia! Here We Go Again,,390264,0.0
+raquelgarcia,Incredibles 2,,184061,0.0
+raquelgarcia,BlacKkKlansman,,418135,0.0
+raquelgarcia,Happy as Lazzaro,3.0,412433,0.0
+raquelgarcia,The Silence of Others,3.0,430907,0.0
+raquelgarcia,Annihilation,,227784,0.0
+raquelgarcia,Hereditary,4.0,424348,0.0
+raquelgarcia,Maze Runner: The Death Cure,,266132,0.0
+raquelgarcia,Black Mirror: Metalhead,,425694,0.0
+raquelgarcia,Black Mirror: Crocodile,,425685,0.0
+raquelgarcia,Black Mirror: Arkangel,,425518,0.0
+raquelgarcia,Black Mirror: Black Museum,,425695,0.0
+raquelgarcia,Black Mirror: USS Callister,,425514,0.0
+raquelgarcia,Pitch Perfect 3,,283856,0.0
+raquelgarcia,Star Wars: The Last Jedi,3.0,131987,0.0
+raquelgarcia,The Greatest Showman,,243063,0.0
+raquelgarcia,Perfect Strangers,,368057,0.0
+raquelgarcia,Wonder,,341440,0.0
+raquelgarcia,The Skin of the Wolf,,370247,0.0
+raquelgarcia,The Dawn Wall,,420081,0.0
+raquelgarcia,Marrowbone,,333632,0.0
+raquelgarcia,Coco,4.5,285509,0.0
+raquelgarcia,Holy Camp!,,359769,0.0
+raquelgarcia,It,,276819,0.0
+raquelgarcia,Lady Bird,,326279,0.0
+raquelgarcia,The Shape of Water,,333308,0.0
+raquelgarcia,Death Note,,281716,0.0
+raquelgarcia,The Emoji Movie,,313491,0.0
+raquelgarcia,Anna Karenina. Vronsky's Story,,383819,0.0
+raquelgarcia,Good Time,3.5,362362,0.0
+raquelgarcia,Pirates of the Caribbean: Dead Men Tell No Tales,,123066,0.0
+raquelgarcia,The Florida Project,3.0,328538,0.0
+raquelgarcia,Okja,2.5,322110,0.0
+raquelgarcia,Beauty and the Beast,,248708,0.0
+raquelgarcia,Big Little Lies,5.0,380638,0.0
+raquelgarcia,Summer 1993,,371428,0.0
+raquelgarcia,Get Out,,353117,0.0
+raquelgarcia,God's Own Country,,361719,0.0
+raquelgarcia,A Ghost Story,2.5,361725,0.0
+raquelgarcia,Call Me by Your Name,,333029,0.0
+raquelgarcia,A Bag of Marbles,2.5,333163,0.0
+raquelgarcia,Passengers,,198992,0.0
+raquelgarcia,Hidden Figures,,316312,0.0
+raquelgarcia,Moana,2.0,201909,0.0
+raquelgarcia,Doctor Strange,,209381,0.0
+raquelgarcia,Black Mirror: Men Against Fire,,426150,0.0
+raquelgarcia,Black Mirror: Hated in the Nation,,426149,0.0
+raquelgarcia,Black Mirror: Playtest,,425860,0.0
+raquelgarcia,Black Mirror: Shut Up and Dance,,425862,0.0
+raquelgarcia,Black Mirror: Nosedive,,422900,0.0
+raquelgarcia,Black Mirror: San Junipero,,407483,0.0
+raquelgarcia,A Monster Calls,,181943,0.0
+raquelgarcia,Nocturnal Animals,3.0,270106,0.0
+raquelgarcia,Moonlight,3.5,312205,0.0
+raquelgarcia,Arrival,,257426,0.0
+raquelgarcia,La La Land,3.0,240344,0.0
+raquelgarcia,XOXO,,282741,0.0
+raquelgarcia,Your Name.,,307684,0.0
+raquelgarcia,Finding Dory,2.0,99402,0.0
+raquelgarcia,Paterson,1.0,306491,0.0
+raquelgarcia,The Conjuring 2,,183255,0.0
+raquelgarcia,Train to Busan,2.5,330912,0.0
+raquelgarcia,Café Society,,268947,0.0
+raquelgarcia,Sausage Party,,157841,0.0
+raquelgarcia,Zootopia,,192410,0.0
+raquelgarcia,Sing Street,2.5,305363,0.0
+raquelgarcia,Captain Fantastic,,263215,0.0
+raquelgarcia,War and Peace,4.0,314018,0.0
+raquelgarcia,Star Wars: The Force Awakens,,107418,0.0
+raquelgarcia,Spanish Affair 2,,278844,0.0
+raquelgarcia,The Hunger Games: Mockingjay - Part 2,,101990,0.0
+raquelgarcia,Truman,,271464,0.0
+raquelgarcia,The Martian,,211511,0.0
+raquelgarcia,The Visit,,225437,0.0
+raquelgarcia,Room,,187975,0.0
+raquelgarcia,Pixels,,181118,0.0
+raquelgarcia,Ted 2,,152464,0.0
+raquelgarcia,Paper Towns,,211837,0.0
+raquelgarcia,Inside Out,,113284,0.0
+raquelgarcia,Youth,4.0,237608,0.0
+raquelgarcia,Mustang,3.5,266070,0.0
+raquelgarcia,Carol,,182142,0.0
+raquelgarcia,Pitch Perfect 2,,178282,0.0
+raquelgarcia,The Age of Adaline,,220754,0.0
+raquelgarcia,Insurgent,,185970,0.0
+raquelgarcia,Focus,,180414,0.0
+raquelgarcia,Victoria,3.0,247121,0.0
+raquelgarcia,The Witch,,237177,0.0
+raquelgarcia,Black Mirror: White Christmas,,883131,0.0
+raquelgarcia,The Hobbit: The Battle of the Five Armies,,96552,0.0
+raquelgarcia,Into the Woods,,158174,0.0
+raquelgarcia,Suite Française,,194944,0.0
+raquelgarcia,Interstellar,,117621,0.0
+raquelgarcia,Big Hero 6,,129662,0.0
+raquelgarcia,The Best of Me,,168060,0.0
+raquelgarcia,Serena,,121765,0.0
+raquelgarcia,Gone Girl,3.5,149857,0.0
+raquelgarcia,Pride,,164342,0.0
+raquelgarcia,The Maze Runner,,142549,0.0
+raquelgarcia,The Theory of Everything,,190077,0.0
+raquelgarcia,The Imitation Game,,146954,0.0
+raquelgarcia,Birdman or (The Unexpected Virtue of Ignorance),,139795,0.0
+raquelgarcia,Wild Tales,3.0,188497,0.0
+raquelgarcia,Magic in the Moonlight,,161190,0.0
+raquelgarcia,Maleficent,,83424,0.0
+raquelgarcia,How to Train Your Dragon 2,,69142,0.0
+raquelgarcia,The Fault in Our Stars,,157543,0.0
+raquelgarcia,Spanish Affair,,166183,0.0
+raquelgarcia,Divergent,,117583,0.0
+raquelgarcia,The Grand Budapest Hotel,,95113,0.0
+raquelgarcia,Boyhood,,71927,0.0
+raquelgarcia,The Babadook,3.0,169728,0.0
+raquelgarcia,Whiplash,3.0,171384,0.0
+raquelgarcia,Nymphomaniac: Vol. II,3.5,174195,0.0
+raquelgarcia,Nymphomaniac: Vol. I,4.0,181937,0.0
+raquelgarcia,Doctor Who: The Time of the Doctor,,208163,0.0
+raquelgarcia,The Hobbit: The Desolation of Smaug,,8983,0.0
+raquelgarcia,Frozen,,87948,0.0
+raquelgarcia,The Hunger Games: Catching Fire,,82488,0.0
+raquelgarcia,Ender's Game,,66563,0.0
+raquelgarcia,Her,,114564,0.0
+raquelgarcia,Oculus,,117687,0.0
+raquelgarcia,Begin Again,,142299,0.0
+raquelgarcia,Prisoners,3.5,110740,0.0
+raquelgarcia,Under the Skin,,80198,0.0
+raquelgarcia,Gravity,,16529,0.0
+raquelgarcia,About Time,4.0,96557,0.0
+raquelgarcia,The Internship,,92621,0.0
+raquelgarcia,Monsters University,,4553,0.0
+raquelgarcia,After Earth,,69144,0.0
+raquelgarcia,Now You See Me,,62065,0.0
+raquelgarcia,The Great Beauty,,130523,0.0
+raquelgarcia,The Conjuring,,106262,0.0
+raquelgarcia,The Wizards Return: Alex vs. Alex,,130288,0.0
+raquelgarcia,Barcelona Summer Night,2.0,153153,0.0
+raquelgarcia,Black Mirror: The Waldo Moment,,425691,0.0
+raquelgarcia,Black Mirror: White Bear,,425690,0.0
+raquelgarcia,Black Mirror: Be Right Back,,425689,0.0
+raquelgarcia,Before Midnight,,102444,0.0
+raquelgarcia,Django Unchained,,52516,0.0
+raquelgarcia,The Hobbit: An Unexpected Journey,,16525,0.0
+raquelgarcia,Life of Pi,,74348,0.0
+raquelgarcia,Everyday,,99394,0.0
+raquelgarcia,The Twilight Saga: Breaking Dawn - Part 2,,15076,0.0
+raquelgarcia,Cloud Atlas,,69998,0.0
+raquelgarcia,Pitch Perfect,,90896,0.0
+raquelgarcia,Frankenweenie,,4550,0.0
+raquelgarcia,The Perks of Being a Wallflower,,71338,0.0
+raquelgarcia,Frances Ha,,96083,0.0
+raquelgarcia,The Odd Life of Timothy Green,,57617,0.0
+raquelgarcia,"Tad, the Lost Explorer",1.5,95899,0.0
+raquelgarcia,I Want You,,88079,0.0
+raquelgarcia,Brave,,4586,0.0
+raquelgarcia,Madagascar 3: Europe's Most Wanted,1.0,66756,0.0
+raquelgarcia,Amour,3.5,73359,0.0
+raquelgarcia,The Hunt,3.5,84051,0.0
+raquelgarcia,To Rome with Love,2.0,68291,0.0
+raquelgarcia,Mirror Mirror,,4046,0.0
+raquelgarcia,The Hunger Games,,59281,0.0
+raquelgarcia,Sinister,,68956,0.0
+raquelgarcia,The Lorax,,60027,0.0
+raquelgarcia,Project X,,8933,0.0
+raquelgarcia,LOL,,66566,0.0
+raquelgarcia,"Doctor Who: The Doctor, the Widow and the Wardrobe",,242702,0.0
+raquelgarcia,The Cabin in the Woods,,37598,0.0
+raquelgarcia,Black Mirror: Fifteen Million Merits,,425524,0.0
+raquelgarcia,New Year's Eve,2.0,3977,0.0
+raquelgarcia,Black Mirror: The National Anthem,,425523,0.0
+raquelgarcia,The Twilight Saga: Breaking Dawn - Part 1,,15077,0.0
+raquelgarcia,The Intouchables,,63767,0.0
+raquelgarcia,In Time,,16082,0.0
+raquelgarcia,The Adventures of Tintin,,40915,0.0
+raquelgarcia,Hugo,,20374,0.0
+raquelgarcia,Footloose,,52423,0.0
+raquelgarcia,The Ides of March,,46343,0.0
+raquelgarcia,Terra baixa,,144468,0.0
+raquelgarcia,This Must Be the Place,,12475,0.0
+raquelgarcia,The Skin I Live In,3.5,3519,0.0
+raquelgarcia,"Crazy, Stupid, Love.",2.5,15051,0.0
+raquelgarcia,Harry Potter and the Deathly Hallows: Part 2,,44580,0.0
+raquelgarcia,Super 8,,5355,0.0
+raquelgarcia,Melancholia,1.5,4549,0.0
+raquelgarcia,The Artist,,61707,0.0
+raquelgarcia,We Need to Talk About Kevin,3.5,57622,0.0
+raquelgarcia,Midnight in Paris,,6945,0.0
+raquelgarcia,Pirates of the Caribbean: On Stranger Tides,,50735,0.0
+raquelgarcia,Lemonade Mouth,,1610,0.0
+raquelgarcia,Kill Bill: The Whole Bloody Affair,,348439,0.0
+raquelgarcia,Doctor Who: A Christmas Carol,,242699,0.0
+raquelgarcia,The Chronicles of Narnia: The Voyage of the Dawn Treader,,46509,0.0
+raquelgarcia,Three Steps Above Heaven,,4772,0.0
+raquelgarcia,Tangled,,25859,0.0
+raquelgarcia,Heroes,,69919,0.0
+raquelgarcia,Harry Potter and the Deathly Hallows: Part 1,,44581,0.0
+raquelgarcia,Insidious,,16556,0.0
+raquelgarcia,The King's Speech,,5363,0.0
+raquelgarcia,Camp Rock 2: The Final Jam,,20928,0.0
+raquelgarcia,Piranha 3D,,21560,0.0
+raquelgarcia,Eat Pray Love,,26376,0.0
+raquelgarcia,Ramona and Beezus,,25776,0.0
+raquelgarcia,Inception,4.0,34722,0.0
+raquelgarcia,16 Wishes,,24694,0.0
+raquelgarcia,The Twilight Saga: Eclipse,,37088,0.0
+raquelgarcia,Toy Story 3,,46458,0.0
+raquelgarcia,The Karate Kid,,26025,0.0
+raquelgarcia,Letters to Juliet,,27359,0.0
+raquelgarcia,Nanny McPhee and the Big Bang,,28812,0.0
+raquelgarcia,How to Train Your Dragon,,46460,0.0
+raquelgarcia,Alice in Wonderland,,44748,0.0
+raquelgarcia,Shutter Island,,45409,0.0
+raquelgarcia,Dear John,,37597,0.0
+raquelgarcia,Percy Jackson & the Olympians: The Lightning Thief,,30264,0.0
+raquelgarcia,Tooth Fairy,,37576,0.0
+raquelgarcia,Avatar,,39304,0.0
+raquelgarcia,The Princess and the Frog,,46453,0.0
+raquelgarcia,Arthur and the Revenge of Maltazard,,35270,0.0
+raquelgarcia,The Twilight Saga: New Moon,,40480,0.0
+raquelgarcia,Bright Star,,32387,0.0
+raquelgarcia,A Christmas Carol,,40653,0.0
+raquelgarcia,Where the Wild Things Are,,41519,0.0
+raquelgarcia,Splice,,26796,0.0
+raquelgarcia,Cloudy with a Chance of Meatballs,,37696,0.0
+raquelgarcia,Wizards of Waverly Place: The Movie,,35091,0.0
+raquelgarcia,The Secret in Their Eyes,,36112,0.0
+raquelgarcia,Julie & Julia,,36501,0.0
+raquelgarcia,(500) Days of Summer,,39350,0.0
+raquelgarcia,Harry Potter and the Half-Blood Prince,,51385,0.0
+raquelgarcia,Ice Age: Dawn of the Dinosaurs,,47781,0.0
+raquelgarcia,Inglourious Basterds,4.5,41352,0.0
+raquelgarcia,Up,,43302,0.0
+raquelgarcia,Monsters vs Aliens,,42315,0.0
+raquelgarcia,Coraline,,42779,0.0
+raquelgarcia,Brain Drain,0.5,40571,0.0
+raquelgarcia,Revolutionary Road,2.5,49496,0.0
+raquelgarcia,Seven Pounds,,45412,0.0
+raquelgarcia,The Curious Case of Benjamin Button,,49075,0.0
+raquelgarcia,Gran Torino,3.5,44042,0.0
+raquelgarcia,Twilight,,47469,0.0
+raquelgarcia,Bolt,,44189,0.0
+raquelgarcia,Madagascar: Escape 2 Africa,,46145,0.0
+raquelgarcia,High School Musical 3: Senior Year,,44919,0.0
+raquelgarcia,Vicky Cristina Barcelona,2.5,48992,0.0
+raquelgarcia,Ponyo,3.5,44594,0.0
+raquelgarcia,Mamma Mia!,,45120,0.0
+raquelgarcia,Camp Rock,,43707,0.0
+raquelgarcia,The Chronicles of Narnia: Prince Caspian,,50242,0.0
+raquelgarcia,Slumdog Millionaire,,44613,0.0
+raquelgarcia,Nim's Island,,46181,0.0
+raquelgarcia,The Wave,,47981,0.0
+raquelgarcia,Horton Hears a Who!,,44687,0.0
+raquelgarcia,Astérix at the Olympic Games,,50279,0.0
+raquelgarcia,Alvin and the Chipmunks,,48298,0.0
+raquelgarcia,Enchanted,,49280,0.0
+raquelgarcia,Bee Movie,,48791,0.0
+raquelgarcia,Juno,,48051,0.0
+raquelgarcia,Into the Wild,,48571,0.0
+raquelgarcia,High School Musical 2,,43713,0.0
+raquelgarcia,Harry Potter and the Order of the Phoenix,,51449,0.0
+raquelgarcia,Ratatouille,,50558,0.0
+raquelgarcia,Pirates of the Caribbean: At World's End,,51773,0.0
+raquelgarcia,Water Lilies,2.5,45866,0.0
+raquelgarcia,The Pursuit of Happyness,,51061,0.0
+raquelgarcia,Arthur and the Invisibles,,46649,0.0
+raquelgarcia,300,,51111,0.0
+raquelgarcia,Happy Feet,,46779,0.0
+raquelgarcia,Scoop,,51598,0.0
+raquelgarcia,The Devil Wears Prada,,51712,0.0
+raquelgarcia,Pirates of the Caribbean: Dead Man's Chest,,51989,0.0
+raquelgarcia,Ice Age: The Meltdown,,60297,0.0
+raquelgarcia,Cars,,51233,0.0
+raquelgarcia,High School Musical,,45747,0.0
+raquelgarcia,Little Miss Sunshine,,51379,0.0
+raquelgarcia,Cheaper by the Dozen 2,,46960,0.0
+raquelgarcia,V for Vendetta,,51400,0.0
+raquelgarcia,Kirikou and the Wild Beasts,,43686,0.0
+raquelgarcia,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",,51679,0.0
+raquelgarcia,Zathura: A Space Adventure,,48189,0.0
+raquelgarcia,Harry Potter and the Goblet of Fire,,51450,0.0
+raquelgarcia,Chicken Little,,46658,0.0
+raquelgarcia,Nanny McPhee,,45448,0.0
+raquelgarcia,Oliver Twist,,51799,0.0
+raquelgarcia,Pride & Prejudice,3.0,49390,0.0
+raquelgarcia,"Good Night, and Good Luck.",,49784,0.0
+raquelgarcia,Corpse Bride,,49568,0.0
+raquelgarcia,Wallace & Gromit: The Curse of the Were-Rabbit,,51584,0.0
+raquelgarcia,Brokeback Mountain,3.0,51909,0.0
+raquelgarcia,The Island,,50906,0.0
+raquelgarcia,Charlie and the Chocolate Factory,,51932,0.0
+raquelgarcia,Madagascar,,51207,0.0
+raquelgarcia,Robots,,46706,0.0
+raquelgarcia,Million Dollar Baby,,51979,0.0
+raquelgarcia,The Life Aquatic with Steve Zissou,3.5,51674,0.0
+raquelgarcia,Howl's Moving Castle,,49062,0.0
+raquelgarcia,The Incredibles,,46806,0.0
+raquelgarcia,Shark Tale,,46117,0.0
+raquelgarcia,The Village,,48167,0.0
+raquelgarcia,The Notebook,,45667,0.0
+raquelgarcia,Harry Potter and the Prisoner of Azkaban,,51451,0.0
+raquelgarcia,Troy,,51472,0.0
+raquelgarcia,Kill Bill: Vol. 2,4.5,51696,0.0
+raquelgarcia,Eternal Sunshine of the Spotless Mind,3.5,2683,0.0
+raquelgarcia,The Chorus,,48801,0.0
+raquelgarcia,Before Sunset,,51970,1.0
+raquelgarcia,The Butterfly Effect,,50654,0.0
+raquelgarcia,Peter Pan,,46072,0.0
+raquelgarcia,Cheaper by the Dozen,,45695,0.0
+raquelgarcia,Big Fish,,51533,0.0
+raquelgarcia,The Lord of the Rings: The Return of the King,,51928,0.0
+raquelgarcia,Oldboy,4.0,51454,0.0
+raquelgarcia,Brother Bear,,46633,0.0
+raquelgarcia,Mystic River,,51737,0.0
+raquelgarcia,Kill Bill: Vol. 1,4.0,2694,0.0
+raquelgarcia,Love Actually,,51602,0.0
+raquelgarcia,The Dreamers,4.0,51107,0.0
+raquelgarcia,Girl with a Pearl Earring,,49629,0.0
+raquelgarcia,Lost in Translation,,51898,0.0
+raquelgarcia,Pirates of the Caribbean: The Curse of the Black Pearl,,2695,0.0
+raquelgarcia,Finding Nemo,,2705,0.0
+raquelgarcia,Good Bye Lenin!,,51724,0.0
+raquelgarcia,The Lord of the Rings: The Two Towers,,51929,0.0
+raquelgarcia,Harry Potter and the Chamber of Secrets,,51452,0.0
+raquelgarcia,The Pianist,,51672,0.0
+raquelgarcia,Star Wars: Episode II - Attack of the Clones,2.5,50710,0.0
+raquelgarcia,Ice Age,,51670,0.0
+raquelgarcia,The Lord of the Rings: The Fellowship of the Ring,,51930,0.0
+raquelgarcia,Harry Potter and the Philosopher's Stone,,51453,0.0
+raquelgarcia,"Monsters, Inc.",,51535,0.0
+raquelgarcia,The Princess Diaries,,46753,0.0
+raquelgarcia,The Others,,50675,0.0
+raquelgarcia,Spirited Away,4.5,51921,0.0
+raquelgarcia,Shrek,3.0,51344,0.0
+raquelgarcia,Amélie,,51858,0.0
+raquelgarcia,Bridget Jones's Diary,,51490,0.0
+raquelgarcia,Chocolat,,51697,0.0
+raquelgarcia,The Emperor's New Groove,,45065,0.0
+raquelgarcia,How the Grinch Stole Christmas,,47553,0.0
+raquelgarcia,Unbreakable,3.5,46866,0.0
+raquelgarcia,Requiem for a Dream,4.5,51483,0.0
+raquelgarcia,Meet the Parents,2.0,50937,0.0
+raquelgarcia,Sexy Beast,3.5,44974,0.0
+raquelgarcia,Walking the Tracks: The Summer of Stand by Me,,101351,0.0
+raquelgarcia,Billy Elliot,,51978,0.0
+raquelgarcia,Gladiator,,51952,0.0
+raquelgarcia,American Psycho,1.0,51097,0.0
+raquelgarcia,Stuart Little,,46512,0.0
+raquelgarcia,Sleepy Hollow,,50158,0.0
+raquelgarcia,Toy Story 2,,51289,0.0
+raquelgarcia,Butterfly,,31536,0.0
+raquelgarcia,Fight Club,,51568,0.0
+raquelgarcia,The Sixth Sense,,51407,0.0
+raquelgarcia,Eyes Wide Shut,4.0,51717,0.0
+raquelgarcia,The Virgin Suicides,3.0,51024,0.0
+raquelgarcia,Star Wars: Episode I - The Phantom Menace,1.5,50711,0.0
+raquelgarcia,Notting Hill,,51601,0.0
+raquelgarcia,10 Things I Hate About You,3.5,49047,0.0
+raquelgarcia,The Matrix,,51518,0.0
+raquelgarcia,Bicentennial Man,,50369,0.0
+raquelgarcia,The Thin Red Line,4.0,47627,0.0
+raquelgarcia,Shakespeare in Love,,50674,0.0
+raquelgarcia,Kirikou and the Sorceress,,38462,0.0
+raquelgarcia,A Bug's Life,,47111,0.0
+raquelgarcia,American History X,,51977,0.0
+raquelgarcia,Saving Private Ryan,,51295,0.0
+raquelgarcia,The Truman Show,,27256,0.0
+raquelgarcia,Life Is Beautiful,,51487,0.0
+raquelgarcia,As Good as It Gets,,50025,0.0
+raquelgarcia,Jackie Brown,3.0,51868,0.0
+raquelgarcia,Good Will Hunting,,51621,0.0
+raquelgarcia,Titanic,3.5,51524,0.0
+raquelgarcia,Seven Years in Tibet,,51191,0.0
+raquelgarcia,Gattaca,,51370,0.0
+raquelgarcia,The Game,,50168,0.0
+raquelgarcia,Princess Mononoke,,51922,0.0
+raquelgarcia,Space Jam,,50349,0.0
+raquelgarcia,La Belle Verte,,36003,0.0
+raquelgarcia,Matilda,,45855,0.0
+raquelgarcia,The Hunchback of Notre Dame,,46127,0.0
+raquelgarcia,James and the Giant Peach,,46133,0.0
+raquelgarcia,Trainspotting,,51497,0.0
+raquelgarcia,Sabrina,,44942,0.0
+raquelgarcia,Jumanji,,47577,0.0
+raquelgarcia,Toy Story,,51290,0.0
+raquelgarcia,Pride and Prejudice,,384832,0.0
+raquelgarcia,Se7en,2.5,51345,0.0
+raquelgarcia,The Bridges of Madison County,,51438,0.0
+raquelgarcia,Before Sunrise,,51974,0.0
+raquelgarcia,Bullets Over Broadway,,45352,0.0
+raquelgarcia,The Shawshank Redemption,,51778,0.0
+raquelgarcia,Three Colors: Red,3.5,51940,0.0
+raquelgarcia,Pulp Fiction,4.5,51444,0.0
+raquelgarcia,The Lion King,,47677,0.0
+raquelgarcia,Schindler's List,4.0,51671,0.0
+raquelgarcia,A Perfect World,,47041,0.0
+raquelgarcia,The Nightmare Before Christmas,,47119,0.0
+raquelgarcia,What's Eating Gilbert Grape,3.0,50947,0.0
+raquelgarcia,Dazed and Confused,3.5,47029,0.0
+raquelgarcia,Jurassic Park,,51733,0.0
+raquelgarcia,Cliffhanger,1.0,47244,0.0
+raquelgarcia,Aladdin,,51340,0.0
+raquelgarcia,A River Runs Through It,3.0,51766,0.0
+raquelgarcia,Beethoven,,44994,0.0
+raquelgarcia,Reservoir Dogs,4.5,51610,0.0
+raquelgarcia,Fried Green Tomatoes,,50908,0.0
+raquelgarcia,Beauty and the Beast,,46622,0.0
+raquelgarcia,The Silence of the Lambs,,51782,0.0
+raquelgarcia,Mermaids,2.5,49231,0.0
+raquelgarcia,Edward Scissorhands,,51889,0.0
+raquelgarcia,The Sheltering Sky,3.0,37093,0.0
+raquelgarcia,GoodFellas,4.5,51383,0.0
+raquelgarcia,Back to the Future Part III,,51856,0.0
+raquelgarcia,Pretty Woman,,51936,0.0
+raquelgarcia,Lord of the Flies,,45838,0.0
+raquelgarcia,Back to the Future Part II,,51886,0.0
+raquelgarcia,Kiki's Delivery Service,,41360,0.0
+raquelgarcia,Dead Poets Society,,51846,1.0
+raquelgarcia,Do the Right Thing,4.0,51228,0.0
+raquelgarcia,Who Framed Roger Rabbit,,51296,0.0
+raquelgarcia,My Neighbor Totoro,4.0,47756,0.0
+raquelgarcia,The Princess Bride,,50226,0.0
+raquelgarcia,Stand by Me,3.5,51821,0.0
+raquelgarcia,Hannah and Her Sisters,3.5,48940,0.0
+raquelgarcia,The Color Purple,,51279,0.0
+raquelgarcia,Back to the Future,,51945,0.0
+raquelgarcia,The Goonies,,47254,0.0
+raquelgarcia,The Purple Rose of Cairo,,45836,0.0
+raquelgarcia,The Breakfast Club,,50518,0.0
+raquelgarcia,Amadeus,,51777,0.0
+raquelgarcia,Gremlins,,51226,0.0
+raquelgarcia,Nausicaä of the Valley of the Wind,3.5,51969,0.0
+raquelgarcia,Footloose,,50794,0.0
+raquelgarcia,Return of the Jedi,3.5,50712,0.0
+raquelgarcia,Blade Runner,,51972,0.0
+raquelgarcia,Annie,,42137,0.0
+raquelgarcia,E.T. the Extra-Terrestrial,,51520,0.0
+raquelgarcia,The Shining,,51432,0.0
+raquelgarcia,The Empire Strikes Back,3.5,50713,0.0
+raquelgarcia,Kramer vs. Kramer,2.5,6538,0.0
+raquelgarcia,Alien,,51714,0.0
+raquelgarcia,Apocalypse Now,4.0,2690,0.0
+raquelgarcia,The Deer Hunter,,45017,0.0
+raquelgarcia,Grease,,51503,0.0
+raquelgarcia,Star Wars,3.0,2706,0.0
+raquelgarcia,Annie Hall,,51423,0.0
+raquelgarcia,Taxi Driver,,51947,0.0
+raquelgarcia,Picnic at Hanging Rock,,45683,0.0
+raquelgarcia,The Godfather: Part II,,51816,0.0
+raquelgarcia,The Exorcist,,47048,0.0
+raquelgarcia,The Wicker Man,2.0,41662,0.0
+raquelgarcia,The Godfather,,51818,0.0
+raquelgarcia,Cabaret,4.0,45900,0.0
+raquelgarcia,2001: A Space Odyssey,,51987,0.0
+raquelgarcia,The Graduate,,27183,0.0
+raquelgarcia,Persona,2.0,51355,0.0
+raquelgarcia,Mary Poppins,,51662,0.0
+raquelgarcia,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,4.5,51218,0.0
+raquelgarcia,The Leopard,,51167,0.0
+raquelgarcia,Breakfast at Tiffany's,,51887,0.0
+raquelgarcia,Psycho,,51578,0.0
+raquelgarcia,Some Like It Hot,,51817,0.0
+raquelgarcia,Sleeping Beauty,,45803,0.0
+raquelgarcia,Paths of Glory,4.5,51194,0.0
+raquelgarcia,12 Angry Men,5.0,51700,1.0
+raquelgarcia,Sabrina,,48231,0.0
+raquelgarcia,Roman Holiday,,51348,0.0
+raquelgarcia,Peter Pan,,45983,0.0
+raquelgarcia,Bambi,,49816,0.0
+raquelgarcia,Casablanca,,51770,0.0
+raquelgarcia,Dumbo,,45374,0.0
+raquelgarcia,Citizen Kane,,2702,0.0
+raquelgarcia,Fantasia,,51396,0.0
+raquelgarcia,Gone with the Wind,,51382,0.0
+raquelgarcia,The Wizard of Oz,,51494,0.0
+raquelgarcia,Bringing Up Baby,,51252,0.0
+raquelgarcia,Snow White and the Seven Dwarfs,,51682,0.0
+raquelgarcia,A Trip to the Moon,,51377,0.0
+janromani,The Sea Beast,3.0,488592,0.0
+janromani,Lightyear,3.0,641574,0.0
+janromani,Hustle,3.5,629376,0.0
+janromani,Doctor Strange in the Multiverse of Madness,4.0,385511,0.0
+janromani,The Northman,2.0,565852,0.0
+janromani,Fantastic Beasts: The Secrets of Dumbledore,2.0,268366,0.0
+janromani,Apollo 10½: A Space Age Childhood,3.0,589786,0.0
+janromani,Everything Everywhere All at Once,4.5,474474,0.0
+janromani,The Adam Project,3.0,620665,0.0
+janromani,The Batman,4.0,348914,0.0
+janromani,Turning Red,3.5,438727,0.0
+janromani,Alcarràs,4.5,721533,0.0
+janromani,I Want You Back,3.5,605262,0.0
+janromani,Cha Cha Real Smooth,3.5,730798,0.0
+janromani,Harry Potter 20th Anniversary: Return to Hogwarts,5.0,809443,0.0
+janromani,Spider-Man: No Way Home,4.5,560787,0.0
+janromani,Being the Ricardos,3.5,446612,0.0
+janromani,Don't Look Up,1.5,572255,0.0
+janromani,West Side Story,4.5,441471,0.0
+janromani,Licorice Pizza,3.5,641086,0.0
+janromani,"tick, tick...BOOM!",5.0,466291,0.0
+janromani,Encanto,4.0,496592,0.0
+janromani,Eternals,2.5,454016,0.0
+janromani,Anne+: The Film,3.0,725719,0.0
+janromani,The Harder They Fall,3.5,544936,0.0
+janromani,No Time to Die,3.5,305964,0.0
+janromani,Attack of the Hollywood Clichés!,3.0,788966,0.0
+janromani,The Tragedy of Macbeth,3.5,519052,0.0
+janromani,The Last Duel,4.0,544380,0.0
+janromani,The Guilty,3.0,496198,0.0
+janromani,Last Night in Soho,3.5,505000,0.0
+janromani,Dune,4.0,371378,0.0
+janromani,King Richard,3.5,541998,0.0
+janromani,Belfast,3.5,696630,0.0
+janromani,The Hand of God,4.5,645598,0.0
+janromani,The Power of the Dog,3.0,527841,0.0
+janromani,Parallel Mothers,3.0,686855,0.0
+janromani,Shang-Chi and the Legend of the Ten Rings,2.5,494969,0.0
+janromani,Libertad,4.0,580591,0.0
+janromani,Free Guy,3.5,479814,0.0
+janromani,The Green Knight,2.5,488399,0.0
+janromani,Titane,2.5,556553,0.0
+janromani,The French Dispatch,4.0,471207,0.0
+janromani,Annette,2.0,357826,0.0
+janromani,Luca,3.5,438722,0.0
+janromani,Girlfriends,4.0,711206,0.0
+janromani,In the Heights,2.5,399500,0.0
+janromani,Bo Burnham: Inside,4.0,739775,0.0
+janromani,Friends: The Reunion,3.5,615365,0.0
+janromani,Ovella,3.0,737870,0.0
+janromani,The Mitchells vs. The Machines,4.0,431888,0.0
+janromani,Raya and the Last Dragon,3.0,457180,0.0
+janromani,Framing Britney Spears,3.5,719091,0.0
+janromani,Together Together,4.0,695479,0.0
+janromani,Mass,4.0,356950,0.0
+janromani,Malcolm & Marie,4.5,645487,0.0
+janromani,The Dig,3.5,462063,0.0
+janromani,The White Tiger,2.0,554789,0.0
+janromani,Death to 2020,3.0,692942,0.0
+janromani,News of the World,3.0,508990,0.0
+janromani,"ariana grande: excuse me, i love you",3.5,693560,0.0
+janromani,BREAK IT ALL: The History of Rock in Latin America,3.0,697027,0.0
+janromani,The Midnight Sky,3.0,542045,0.0
+janromani,The Prom,4.0,538375,0.0
+janromani,Ma Rainey's Black Bottom,2.5,542465,0.0
+janromani,Hillbilly Elegy,3.5,520620,0.0
+janromani,Mank,3.5,541425,0.0
+janromani,Borat Subsequent Moviefilm,4.0,662656,0.0
+janromani,Love and Monsters,3.0,517828,0.0
+janromani,Over the Moon,3.5,488590,0.0
+janromani,Soul,4.0,438511,0.0
+janromani,"Red, White and Blue",3.5,674564,0.0
+janromani,The Death of Guillem,3.5,665940,0.0
+janromani,Mangrove,4.0,635253,0.0
+janromani,The Trial of the Chicago 7,5.0,485519,0.0
+janromani,On the Rocks,3.5,503632,0.0
+janromani,Lovers Rock,2.5,635254,0.0
+janromani,Another Round,4.5,508246,0.0
+janromani,Wolfwalkers,3.5,373808,0.0
+janromani,Nomadland,5.0,509662,0.0
+janromani,One Night in Miami...,3.5,586944,0.0
+janromani,Pieces of a Woman,4.0,567547,0.0
+janromani,Robin's Wish,3.5,652256,0.0
+janromani,I'm Thinking of Ending Things,3.5,430806,0.0
+janromani,Tenet,4.0,506032,0.0
+janromani,Hamilton,3.5,485309,0.0
+janromani,Eurovision Song Contest: The Story of Fire Saga,4.0,460813,0.0
+janromani,Da 5 Bloods,2.0,509699,0.0
+janromani,Jeffrey Epstein: Filthy Rich,3.5,646811,0.0
+janromani,Amaia: Una vuelta al sol,3.5,622089,0.0
+janromani,Middleditch & Schwartz,4.5,617744,0.0
+janromani,The Last Dance,4.5,617825,0.0
+janromani,Quiz,3.5,616800,0.0
+janromani,A Quiet Place Part II,3.5,450337,0.0
+janromani,Schoolgirls,4.0,546764,0.0
+janromani,Onward,3.5,438272,0.0
+janromani,The Father,4.5,527671,0.0
+janromani,Minari,4.0,542449,0.0
+janromani,Palm Springs,4.0,515467,0.0
+janromani,Promising Young Woman,4.5,510047,0.0
+janromani,Miss Juneteenth,2.5,579054,0.0
+janromani,Star Wars: The Rise of Skywalker,2.0,131984,0.0
+janromani,Little Women,4.0,259441,0.0
+janromani,1917,4.5,460155,0.0
+janromani,Last Christmas,3.0,477863,0.0
+janromani,Frozen II,2.5,258127,0.0
+janromani,Let It Snow,2.5,222470,0.0
+janromani,Klaus,4.0,438751,0.0
+janromani,El Camino: A Breaking Bad Movie,2.5,488575,0.0
+janromani,The Irishman,4.0,333203,0.0
+janromani,Jojo Rabbit,4.0,444600,0.0
+janromani,Bad Education,3.5,460044,0.0
+janromani,Knives Out,4.0,475370,0.0
+janromani,Sound of Metal,4.0,432004,0.0
+janromani,While at War,3.5,471988,0.0
+janromani,Corpus Christi,3.5,403146,0.0
+janromani,Joker,4.0,406775,0.0
+janromani,Uncut Gems,2.5,404266,0.0
+janromani,Waves,4.5,462573,0.0
+janromani,Ford v Ferrari,4.0,291419,0.0
+janromani,Marriage Story,4.0,422682,0.0
+janromani,Overseas,2.0,543145,0.0
+janromani,A Rainy Day in New York,3.5,406144,0.0
+janromani,Weathering with You,4.0,496469,0.0
+janromani,The August Virgin,4.0,490842,0.0
+janromani,Spider-Man: Far From Home,4.0,362977,0.0
+janromani,Midsommar,4.0,459564,0.0
+janromani,Toy Story 4,3.5,228628,0.0
+janromani,Black Mirror: Smithereens,3.0,532575,0.0
+janromani,Black Mirror: Striking Vipers,3.0,532569,0.0
+janromani,Once Upon a Time… in Hollywood,4.0,397859,0.0
+janromani,Parasite,5.0,426406,0.0
+janromani,Portrait of a Lady on Fire,4.0,460830,0.0
+janromani,Les Misérables,2.5,514647,0.0
+janromani,Yesterday,2.5,444799,0.0
+janromani,Avengers: Endgame,4.5,226660,0.0
+janromani,Pain and Glory,4.5,448445,0.0
+janromani,Booksmart,2.0,435450,0.0
+janromani,Captain Marvel,3.5,226750,0.0
+janromani,The Farewell,4.0,493697,0.0
+janromani,Our Friend,3.5,511845,0.0
+janromani,How to Train Your Dragon: The Hidden World,4.5,123067,0.0
+janromani,Black Mirror: Bandersnatch,4.0,498044,0.0
+janromani,Vice,3.5,362365,0.0
+janromani,Spider-Man: Into the Spider-Verse,4.0,251943,0.0
+janromani,Lola and Her Brothers,3.5,472763,0.0
+janromani,Superlopez,1.5,389867,0.0
+janromani,Bird Box,2.5,340202,0.0
+janromani,Fantastic Beasts: The Crimes of Grindelwald,2.5,268365,0.0
+janromani,Ralph Breaks the Internet,4.0,338883,0.0
+janromani,Bohemian Rhapsody,4.0,358222,0.0
+janromani,Bad Times at the El Royale,3.5,378473,0.0
+janromani,Green Book,4.0,420703,0.0
+janromani,The Realm,3.5,447079,0.0
+janromani,Free Solo,3.5,444617,0.0
+janromani,A Star Is Born,4.0,261108,0.0
+janromani,The Favourite,3.0,310705,0.0
+janromani,First Man,3.5,305811,0.0
+janromani,Roma,3.5,359859,0.0
+janromani,Mission: Impossible - Fallout,3.5,283273,0.0
+janromani,Mamma Mia! Here We Go Again,3.0,390264,0.0
+janromani,Incredibles 2,3.5,184061,0.0
+janromani,Capernaum,5.0,447463,0.0
+janromani,Under the Silver Lake,5.0,330810,0.0
+janromani,BlacKkKlansman,4.0,418135,0.0
+janromani,Shoplifters,4.0,435129,0.0
+janromani,Solo: A Star Wars Story,3.0,278668,0.0
+janromani,Border,2.0,447514,0.0
+janromani,Birds of Passage,3.0,370918,0.0
+janromani,Everybody Knows,3.0,336193,0.0
+janromani,Avengers: Infinity War,4.5,226661,0.0
+janromani,A Quiet Place,4.0,379687,0.0
+janromani,Game Night,2.5,378048,0.0
+janromani,Isle of Dogs,3.0,333448,0.0
+janromani,Annihilation,4.0,227784,0.0
+janromani,Eighth Grade,4.0,420451,0.0
+janromani,Black Mirror: Arkangel,1.5,425518,0.0
+janromani,Black Mirror: Metalhead,2.5,425694,0.0
+janromani,Black Mirror: Crocodile,2.5,425685,0.0
+janromani,Black Mirror: USS Callister,3.5,425514,0.0
+janromani,Black Mirror: Black Museum,4.0,425695,0.0
+janromani,Black Mirror: Hang the DJ,4.0,425522,0.0
+janromani,The Post,3.5,378725,0.0
+janromani,Phantom Thread,3.0,335384,0.0
+janromani,Star Wars: The Last Jedi,3.0,131987,0.0
+janromani,The Greatest Showman,4.0,243063,0.0
+janromani,Perfect Strangers,3.0,368057,0.0
+janromani,Murder on the Orient Express,3.0,326477,0.0
+janromani,Coco,4.5,285509,0.0
+janromani,Wonder Wheel,3.0,362369,0.0
+janromani,Thor: Ragnarok,4.5,209382,0.0
+janromani,Blade Runner 2049,3.5,265439,0.0
+janromani,Holy Camp!,2.5,359769,0.0
+janromani,The Breadwinner,3.0,368165,0.0
+janromani,"I, Tonya",3.5,323609,0.0
+janromani,"Three Billboards Outside Ebbing, Missouri",4.5,291610,0.0
+janromani,Lady Bird,3.5,326279,0.0
+janromani,Darkest Hour,4.0,333654,0.0
+janromani,The Shape of Water,3.5,333308,0.0
+janromani,What Carter Lost,3.5,400358,0.0
+janromani,The Emoji Movie,1.0,313491,0.0
+janromani,Dunkirk,4.0,310199,0.0
+janromani,Spider-Man: Homecoming,4.0,242710,0.0
+janromani,Back to Burgundy,3.5,365214,0.0
+janromani,Captain Underpants: The First Epic Movie,2.0,191822,0.0
+janromani,Pirates of the Caribbean: Dead Men Tell No Tales,3.0,123066,0.0
+janromani,Cars 3,2.0,184062,0.0
+janromani,The Florida Project,4.5,328538,0.0
+janromani,The Meyerowitz Stories (New and Selected),3.5,330739,0.0
+janromani,Okja,4.5,322110,0.0
+janromani,The Clapper,2.5,356246,0.0
+janromani,Smurfs: The Lost Village,2.0,105181,0.0
+janromani,The Boss Baby,1.5,223050,0.0
+janromani,The Disaster Artist,3.5,307298,0.0
+janromani,Baby Driver,3.5,268950,0.0
+janromani,The Bar,3.5,354374,0.0
+janromani,Columbus,3.5,348456,0.0
+janromani,Call Me by Your Name,4.5,333029,0.0
+janromani,Wind River,3.5,330220,0.0
+janromani,The Big Sick,4.0,350384,0.0
+janromani,Rogue One: A Star Wars Story,2.5,258128,0.0
+janromani,Moana,3.5,201909,0.0
+janromani,Fantastic Beasts and Where to Find Them,3.5,182910,0.0
+janromani,Doctor Strange,3.0,209381,0.0
+janromani,Black Mirror: Men Against Fire,2.5,426150,0.0
+janromani,Black Mirror: Playtest,3.0,425860,0.0
+janromani,Black Mirror: Hated in the Nation,3.5,426149,0.0
+janromani,Black Mirror: Nosedive,3.5,422900,0.0
+janromani,Black Mirror: Shut Up and Dance,4.0,425862,0.0
+janromani,Black Mirror: San Junipero,5.0,407483,0.0
+janromani,Inferno,3.5,148297,0.0
+janromani,Trolls,2.0,104996,0.0
+janromani,The Invisible Guest,4.0,345267,0.0
+janromani,Sing,4.0,264336,0.0
+janromani,A Monster Calls,3.5,181943,0.0
+janromani,Moonlight,4.5,312205,0.0
+janromani,Arrival,5.0,257426,0.0
+janromani,La La Land,5.0,240344,1.0
+janromani,Kubo and the Two Strings,2.5,240068,0.0
+janromani,Your Name.,4.5,307684,0.0
+janromani,Ice Age: Collision Course,1.0,202352,0.0
+janromani,The Secret Life of Pets,1.5,255661,0.0
+janromani,Finding Dory,3.0,99402,0.0
+janromani,Bo Burnham: Make Happy,4.5,335216,0.0
+janromani,Now You See Me 2,2.5,218051,0.0
+janromani,Paterson,4.0,306491,0.0
+janromani,Hell or High Water,3.5,268192,0.0
+janromani,Café Society,3.5,268947,0.0
+janromani,Captain America: Civil War,3.0,194402,0.0
+janromani,The Jungle Book,3.0,203083,0.0
+janromani,"Kiki, Love to Love",3.5,306677,0.0
+janromani,Sausage Party,3.0,157841,0.0
+janromani,Everybody Wants Some!!,4.5,223056,0.0
+janromani,You're Killing Me Susana,2.5,187760,0.0
+janromani,Zootopia,3.5,192410,0.0
+janromani,"Hail, Caesar!",1.5,193748,0.0
+janromani,Sing Street,4.0,305363,0.0
+janromani,Captain Fantastic,3.5,263215,0.0
+janromani,Kung Fu Panda 3,3.0,107197,0.0
+janromani,Manchester by the Sea,4.0,263221,0.0
+janromani,Swiss Army Man,4.0,277413,0.0
+janromani,The Revenant,4.0,207224,0.0
+janromani,Star Wars: The Force Awakens,4.0,107418,0.0
+janromani,The Hateful Eight,4.5,197012,0.0
+janromani,Barcelona Christmas Night,3.5,273269,0.0
+janromani,The Night Before,3.0,223398,0.0
+janromani,Spanish Affair 2,1.0,278844,0.0
+janromani,The Big Short,4.0,246013,0.0
+janromani,The Good Dinosaur,2.0,85579,0.0
+janromani,Spectre,3.0,147597,0.0
+janromani,Bridge of Spies,4.0,223396,0.0
+janromani,The Man Who Knew Infinity,3.0,283460,0.0
+janromani,Trumbo,3.5,220906,0.0
+janromani,Spotlight,4.5,241430,0.0
+janromani,Black Mass,3.0,184526,0.0
+janromani,Room,3.0,187975,0.0
+janromani,Everest,2.5,177257,0.0
+janromani,Irrational Man,3.5,208273,0.0
+janromani,The Lobster,3.0,178123,0.0
+janromani,Minions,2.5,150541,0.0
+janromani,Inside Out,4.5,113284,0.0
+janromani,Circle,2.0,264420,0.0
+janromani,Youth,5.0,237608,0.0
+janromani,Mustang,4.0,266070,0.0
+janromani,Carol,3.5,182142,0.0
+janromani,Mad Max: Fury Road,4.5,62780,0.0
+janromani,Avengers: Age of Ultron,3.0,81605,0.0
+janromani,Victoria,3.5,247121,0.0
+janromani,The Grönholm Method,3.5,240691,0.0
+janromani,Ex Machina,4.0,187986,0.0
+janromani,Black Mirror: White Christmas,4.5,883131,0.0
+janromani,Kingsman: The Secret Service,3.5,148200,0.0
+janromani,The Hobbit: The Battle of the Five Armies,3.5,96552,0.0
+janromani,Horrible Bosses 2,3.0,159889,0.0
+janromani,American Sniper,3.0,137476,0.0
+janromani,Penguins of Madagascar,3.0,194303,0.0
+janromani,Interstellar,5.0,117621,0.0
+janromani,Big Hero 6,3.0,129662,0.0
+janromani,"Love, Rosie",3.5,143875,0.0
+janromani,Gone Girl,4.5,149857,0.0
+janromani,This Is Where I Leave You,4.5,168112,0.0
+janromani,The Theory of Everything,4.0,190077,0.0
+janromani,Nightcrawler,4.0,169907,0.0
+janromani,The Imitation Game,4.5,146954,0.0
+janromani,Predestination,3.5,147509,0.0
+janromani,Birdman or (The Unexpected Virtue of Ignorance),4.0,139795,0.0
+janromani,Wild Tales,4.0,188497,0.0
+janromani,Guardians of the Galaxy,3.0,93676,0.0
+janromani,Cowspiracy: The Sustainability Secret,3.5,207632,0.0
+janromani,Sorry If I Call You Love,2.0,184971,0.0
+janromani,Mommy,3.5,188421,0.0
+janromani,How to Train Your Dragon 2,4.0,69142,0.0
+janromani,The Fault in Our Stars,3.0,157543,0.0
+janromani,The Amazing Spider-Man 2,2.5,83215,0.0
+janromani,Spanish Affair,3.5,166183,0.0
+janromani,"10,000 Km",3.0,177083,0.0
+janromani,Neighbors,2.5,140512,0.0
+janromani,Endless Love,2.0,159700,0.0
+janromani,The Lego Movie,3.5,105188,0.0
+janromani,The Grand Budapest Hotel,4.5,95113,0.0
+janromani,What We Do in the Shadows,4.0,172537,0.0
+janromani,Boyhood,5.0,71927,0.0
+janromani,Whiplash,4.5,171384,0.0
+janromani,The Physician,2.5,125015,0.0
+janromani,The Secret Life of Walter Mitty,3.0,92619,0.0
+janromani,Bo Burnham: What.,4.5,170860,0.0
+janromani,American Hustle,3.5,124379,0.0
+janromani,The Hobbit: The Desolation of Smaug,3.5,8983,0.0
+janromani,The Wolf of Wall Street,4.0,86114,0.0
+janromani,Frozen,4.5,87948,0.0
+janromani,Who Killed Bambi?,3.5,154079,0.0
+janromani,La rueda,3.5,202883,0.0
+janromani,Medora,3.5,127155,0.0
+janromani,Last Vegas,2.5,105199,0.0
+janromani,Saving Mr. Banks,3.5,107523,0.0
+janromani,Her,4.0,114564,0.0
+janromani,League of Denial: The NFL’s Concussion Crisis,3.5,263452,0.0
+janromani,August: Osage County,4.0,114661,0.0
+janromani,Coherence,3.5,155900,0.0
+janromani,All Is Bright,2.5,127731,0.0
+janromani,Enemy,3.0,132034,0.0
+janromani,The Grand Seduction,3.5,149074,0.0
+janromani,Dallas Buyers Club,3.0,114605,0.0
+janromani,Begin Again,4.0,142299,0.0
+janromani,What If,3.0,151189,0.0
+janromani,Prisoners,4.0,110740,0.0
+janromani,Gravity,3.0,16529,0.0
+janromani,About Time,5.0,96557,0.0
+janromani,We're the Millers,3.5,106267,0.0
+janromani,Snowpiercer,3.0,88488,0.0
+janromani,Don Jon,3.0,106177,0.0
+janromani,Despicable Me 2,3.0,77748,0.0
+janromani,The Internship,3.0,92621,0.0
+janromani,Monsters University,3.0,4553,0.0
+janromani,The Purge,1.5,118110,0.0
+janromani,After Earth,0.5,69144,0.0
+janromani,Now You See Me,2.5,62065,0.0
+janromani,The Hangover Part III,3.0,87953,0.0
+janromani,The Great Beauty,4.5,130523,0.0
+janromani,Inside Llewyn Davis,2.5,73367,0.0
+janromani,The Great Gatsby,4.0,285,0.0
+janromani,G.I. Joe: Retaliation,2.0,56932,0.0
+janromani,Short Term 12,3.5,124970,0.0
+janromani,Barcelona Summer Night,3.5,153153,0.0
+janromani,Black Mirror: The Waldo Moment,2.5,425691,0.0
+janromani,Black Mirror: White Bear,4.0,425690,0.0
+janromani,Long Live Freedom,3.5,123555,0.0
+janromani,Black Mirror: Be Right Back,3.5,425689,0.0
+janromani,Before Midnight,4.5,102444,0.0
+janromani,The Best Offer,4.0,114657,0.0
+janromani,Les Misérables,4.5,69149,0.0
+janromani,Django Unchained,4.5,52516,0.0
+janromani,Great Expectations,3.5,95865,0.0
+janromani,The Hobbit: An Unexpected Journey,3.5,16525,0.0
+janromani,Life of Pi,3.5,74348,0.0
+janromani,Wreck-It Ralph,4.0,69154,0.0
+janromani,Cloud Atlas,3.5,69998,0.0
+janromani,Skyfall,4.0,26779,0.0
+janromani,Argo,3.5,52501,0.0
+janromani,Pitch Perfect,3.5,90896,0.0
+janromani,Looper,4.0,6599,0.0
+janromani,In the House,3.5,95988,0.0
+janromani,Stuck in Love,4.0,89566,0.0
+janromani,The Impossible,3.0,66559,0.0
+janromani,Silver Linings Playbook,3.0,69151,0.0
+janromani,The Perks of Being a Wallflower,4.0,71338,0.0
+janromani,To the Wonder,1.0,6311,0.0
+janromani,Frances Ha,4.0,96083,0.0
+janromani,The Dark Knight Rises,4.0,16550,0.0
+janromani,Searching for Sugar Man,3.5,70751,0.0
+janromani,Ice Age: Continental Drift,3.5,8395,0.0
+janromani,The Amazing Spider-Man,2.5,50677,0.0
+janromani,Brave,2.0,4586,0.0
+janromani,Madagascar 3: Europe's Most Wanted,2.5,66756,0.0
+janromani,The Hunt,4.5,84051,0.0
+janromani,The Dictator,4.0,62911,0.0
+janromani,Men in Black 3,3.0,23857,0.0
+janromani,What's in a Name,4.0,89700,0.0
+janromani,The Avengers,3.5,36778,0.0
+janromani,The Lucky One,2.0,64331,0.0
+janromani,Battleship,2.0,20367,0.0
+janromani,American Reunion,3.5,57927,0.0
+janromani,The Hunger Games,3.0,59281,0.0
+janromani,The Vow,3.5,56922,0.0
+janromani,The Woman in Black,3.0,1739,0.0
+janromani,Chronicle,2.5,63180,0.0
+janromani,Black Mirror: The Entire History of You,4.0,425525,0.0
+janromani,Black Mirror: Fifteen Million Merits,4.0,425524,0.0
+janromani,We Bought a Zoo,4.0,61852,0.0
+janromani,Mission: Impossible - Ghost Protocol,3.5,9788,0.0
+janromani,Black Mirror: The National Anthem,3.5,425523,0.0
+janromani,Sherlock Holmes: A Game of Shadows,3.5,7712,0.0
+janromani,Happy Feet Two,2.0,1081,0.0
+janromani,The Intouchables,4.5,63767,0.0
+janromani,In Time,3.5,16082,0.0
+janromani,Hugo,3.5,20374,0.0
+janromani,Real Steel,2.5,25416,0.0
+janromani,The Ides of March,3.0,46343,0.0
+janromani,Skylab,2.0,72093,0.0
+janromani,Restless,2.5,17656,0.0
+janromani,Johnny English Reborn,3.0,8013,0.0
+janromani,Your Sister's Sister,3.5,70730,0.0
+janromani,The Descendants,3.5,1768,0.0
+janromani,The Change-Up,2.0,16092,0.0
+janromani,The Smurfs,2.0,23525,0.0
+janromani,Friends with Benefits,2.5,15145,0.0
+janromani,"Crazy, Stupid, Love.",3.5,15051,0.0
+janromani,From Up on Poppy Hill,4.0,69813,0.0
+janromani,Horrible Bosses,5.0,14285,0.0
+janromani,Harry Potter and the Deathly Hallows: Part 2,4.5,44580,0.0
+janromani,The Art of Getting By,3.0,289,0.0
+janromani,Cars 2,1.5,16560,0.0
+janromani,The Hangover Part II,3.0,19987,0.0
+janromani,Kung Fu Panda 2,4.0,16164,0.0
+janromani,The Tree of Life,3.5,47468,0.0
+janromani,Midnight in Paris,4.0,6945,0.0
+janromani,Pirates of the Caribbean: On Stranger Tides,3.0,50735,0.0
+janromani,Detachment,3.0,62006,0.0
+janromani,Thor,1.0,46456,0.0
+janromani,Water for Elephants,3.5,10379,0.0
+janromani,Source Code,4.0,5849,0.0
+janromani,Chinese Take-Away,1.5,53311,0.0
+janromani,The Adjustment Bureau,2.5,26481,0.0
+janromani,One Day,3.5,14015,0.0
+janromani,Just Go with It,3.5,15143,0.0
+janromani,Margin Call,3.0,14887,0.0
+janromani,No Strings Attached,3.0,23414,0.0
+janromani,Every Song Is About Me,4.5,75408,0.0
+janromani,Tangled,4.0,25859,0.0
+janromani,Love & Other Drugs,2.5,21801,0.0
+janromani,Morning Glory,3.0,26204,0.0
+janromani,Hereafter,2.5,20584,0.0
+janromani,Harry Potter and the Deathly Hallows: Part 1,4.0,44581,0.0
+janromani,"Bo Burnham: Words, Words, Words",3.5,17522,0.0
+janromani,Welcome to the South,3.5,17111,0.0
+janromani,The Social Network,4.0,26711,0.0
+janromani,Never Let Me Go,4.0,22878,0.0
+janromani,Insidious,2.5,16556,0.0
+janromani,It's Kind of a Funny Story,2.5,21236,0.0
+janromani,The King's Speech,3.5,5363,0.0
+janromani,The Debt,3.5,17231,0.0
+janromani,Camp Rock 2: The Final Jam,1.5,20928,0.0
+janromani,Dinner for Schmucks,3.5,25839,0.0
+janromani,Scott Pilgrim vs. the World,3.5,37833,0.0
+janromani,Despicable Me,4.0,39067,0.0
+janromani,Inception,5.0,34722,1.0
+janromani,Grown Ups,2.0,26196,0.0
+janromani,Toy Story 3,4.5,46458,0.0
+janromani,The Karate Kid,3.0,26025,0.0
+janromani,Shrek Forever After,3.0,46459,0.0
+janromani,Date Night,2.0,55770,0.0
+janromani,The Last Song,3.0,28481,0.0
+janromani,She's Out of My League,3.0,29416,0.0
+janromani,How to Train Your Dragon,4.5,46460,0.0
+janromani,Alice in Wonderland,3.0,44748,0.0
+janromani,Shutter Island,4.0,45409,0.0
+janromani,Valentine's Day,2.5,30171,0.0
+janromani,Dear John,3.0,37597,0.0
+janromani,Alvin and the Chipmunks: The Squeakquel,2.5,37388,0.0
+janromani,Sherlock Holmes,4.0,46144,0.0
+janromani,Avatar,3.5,39304,0.0
+janromani,Invictus,3.5,37605,0.0
+janromani,The Blind Side,3.0,37648,0.0
+janromani,Fantastic Mr. Fox,4.0,46344,0.0
+janromani,Law Abiding Citizen,4.0,37688,0.0
+janromani,2012,3.5,43301,0.0
+janromani,Little Nicholas,3.0,31376,0.0
+janromani,Mr. Nobody,4.0,31546,0.0
+janromani,Cloudy with a Chance of Meatballs,3.0,37696,0.0
+janromani,The Invention of Lying,2.5,37550,0.0
+janromani,The Time Traveler's Wife,3.5,36785,0.0
+janromani,(500) Days of Summer,3.5,39350,0.0
+janromani,Harry Potter and the Half-Blood Prince,4.0,51385,0.0
+janromani,Ice Age: Dawn of the Dinosaurs,3.0,47781,0.0
+janromani,Exam,5.0,32433,0.0
+janromani,American Pie Presents: The Book of Love,2.5,35567,0.0
+janromani,Hachi: A Dog's Tale,3.5,33853,0.0
+janromani,The Hangover,4.0,40100,0.0
+janromani,Night at the Museum: Battle of the Smithsonian,3.0,40411,0.0
+janromani,Inglourious Basterds,5.0,41352,0.0
+janromani,Dogtooth,3.0,25809,0.0
+janromani,Up,4.0,43302,0.0
+janromani,State of Play,3.5,41277,0.0
+janromani,The Damned United,4.0,38272,0.0
+janromani,Monsters vs Aliens,2.5,42315,0.0
+janromani,The Note II: Taking a Chance on Love,2.0,39093,0.0
+janromani,Moon,3.5,41012,0.0
+janromani,Marley & Me,2.5,43184,0.0
+janromani,Revolutionary Road,3.0,49496,0.0
+janromani,Seven Pounds,3.0,45412,0.0
+janromani,The Curious Case of Benjamin Button,3.0,49075,0.0
+janromani,Gran Torino,4.0,44042,0.0
+janromani,Twilight,1.5,47469,0.0
+janromani,Bolt,2.5,44189,0.0
+janromani,Role Models,3.0,42425,0.0
+janromani,Madagascar: Escape 2 Africa,3.0,46145,0.0
+janromani,Quantum of Solace,3.0,45918,0.0
+janromani,High School Musical 3: Senior Year,3.0,44919,0.0
+janromani,Nick and Norah's Infinite Playlist,3.0,44723,0.0
+janromani,The Hurt Locker,3.5,44741,0.0
+janromani,The First Day of the Rest of Your Life,3.0,44735,0.0
+janromani,The Dark Knight,5.0,51896,0.0
+janromani,Hancock,1.5,47474,0.0
+janromani,Mamma Mia!,3.5,45120,0.0
+janromani,WALL·E,4.0,45994,0.0
+janromani,Camp Rock,1.5,43707,0.0
+janromani,The Incredible Hulk,2.5,50827,0.0
+janromani,Kung Fu Panda,4.0,47098,0.0
+janromani,My Sassy Girl,3.0,43274,0.0
+janromani,Indiana Jones and the Kingdom of the Crystal Skull,2.5,51839,0.0
+janromani,Slumdog Millionaire,4.0,44613,0.0
+janromani,The Boy in the Striped Pyjamas,3.5,42983,0.0
+janromani,Iron Man,3.0,50825,0.0
+janromani,The Wave,4.5,47981,0.0
+janromani,21,4.0,47900,0.0
+janromani,Taken,4.0,47648,0.0
+janromani,"Definitely, Maybe",3.5,47758,0.0
+janromani,In Bruges,3.5,47809,0.0
+janromani,Vantage Point,4.0,48016,0.0
+janromani,Astérix at the Olympic Games,2.5,50279,0.0
+janromani,Welcome to the Sticks,3.5,47841,0.0
+janromani,Alvin and the Chipmunks,3.0,48298,0.0
+janromani,American Pie Presents: Beta House,2.5,47829,0.0
+janromani,I Am Legend,2.5,48296,0.0
+janromani,The Golden Compass,2.0,50374,0.0
+janromani,P.S. I Love You,2.0,48494,0.0
+janromani,Fermat's Room,3.5,48783,0.0
+janromani,The Seeker: The Dark Is Rising,2.5,50371,0.0
+janromani,There Will Be Blood,4.5,48044,0.0
+janromani,Across the Universe,4.0,49185,0.0
+janromani,Paranormal Activity,1.0,37180,0.0
+janromani,Juno,4.0,48051,0.0
+janromani,Into the Wild,4.0,48571,0.0
+janromani,Atonement,4.5,49391,0.0
+janromani,High School Musical 2,3.0,43713,0.0
+janromani,The Bourne Ultimatum,3.5,50223,0.0
+janromani,The Simpsons Movie,3.5,2684,0.0
+janromani,Harry Potter and the Order of the Phoenix,4.5,51449,0.0
+janromani,Ratatouille,4.0,50558,0.0
+janromani,No Reservations,3.0,49628,0.0
+janromani,Fantastic Four: Rise of the Silver Surfer,2.5,50631,0.0
+janromani,The Man from Earth,5.0,43952,0.0
+janromani,Ocean's Thirteen,3.0,51761,0.0
+janromani,No Country for Old Men,4.5,48140,0.0
+janromani,Pirates of the Caribbean: At World's End,4.5,51773,0.0
+janromani,Shrek the Third,2.5,51342,0.0
+janromani,Spider-Man 3,3.0,51559,0.0
+janromani,Northanger Abbey,3.0,40585,0.0
+janromani,Mr. Bean's Holiday,3.5,51114,0.0
+janromani,5 Centimeters per Second,3.0,26400,0.0
+janromani,Zodiac,4.0,50659,0.0
+janromani,Becoming Jane,3.0,49982,0.0
+janromani,Bridge to Terabithia,3.0,51117,0.0
+janromani,88 Minutes,2.5,49713,0.0
+janromani,Death at a Funeral,3.5,50442,0.0
+janromani,Music and Lyrics,3.5,45536,0.0
+janromani,Once,4.0,48699,0.0
+janromani,Eragon,1.0,50229,0.0
+janromani,Arthur and the Invisibles,3.5,46649,0.0
+janromani,300,3.5,51111,0.0
+janromani,The Holiday,3.5,50953,0.0
+janromani,American Pie Presents: The Naked Mile,3.0,47831,0.0
+janromani,Big Nothing,3.0,46772,0.0
+janromani,Happy Feet,2.5,46779,0.0
+janromani,Casino Royale,3.5,27809,0.0
+janromani,Night at the Museum,4.0,50941,0.0
+janromani,The Prestige,4.5,51147,0.0
+janromani,The Unknown Woman,3.0,6530,0.0
+janromani,Open Season,2.5,48013,0.0
+janromani,Robin-B-Hood,3.5,35878,0.0
+janromani,The Departed,4.5,51042,0.0
+janromani,The Illusionist,3.0,51008,0.0
+janromani,Accepted,3.0,46823,0.0
+janromani,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,4.5,51614,0.0
+janromani,Scoop,3.5,51598,0.0
+janromani,The Girl Who Leapt Through Time,3.0,43370,0.0
+janromani,The Devil Wears Prada,3.5,51712,0.0
+janromani,Pirates of the Caribbean: Dead Man's Chest,5.0,51989,0.0
+janromani,The Da Vinci Code,3.0,51530,0.0
+janromani,Scary Movie 4,2.0,49433,0.0
+janromani,Ice Age: The Meltdown,3.5,60297,0.0
+janromani,Inside Man,4.5,51701,0.0
+janromani,The Lives of Others,3.5,51538,0.0
+janromani,Cars,3.5,51233,0.0
+janromani,The Pink Panther,1.5,44804,0.0
+janromani,Firewall,3.0,46855,0.0
+janromani,High School Musical,3.5,45747,0.0
+janromani,Little Miss Sunshine,4.5,51379,0.0
+janromani,Cheaper by the Dozen 2,3.5,46960,0.0
+janromani,The Family Stone,2.5,47400,0.0
+janromani,V for Vendetta,4.5,51400,0.0
+janromani,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2.0,51679,0.0
+janromani,Rent,3.5,50766,0.0
+janromani,Harry Potter and the Goblet of Fire,5.0,51450,0.0
+janromani,Chicken Little,3.0,46658,0.0
+janromani,Match Point,3.5,51934,0.0
+janromani,Oliver Twist,3.5,51799,0.0
+janromani,The Method,3.5,38630,0.0
+janromani,Pride & Prejudice,4.0,49390,0.0
+janromani,Wallace & Gromit: The Curse of the Were-Rabbit,4.0,51584,0.0
+janromani,Charlie and the Chocolate Factory,4.0,51932,0.0
+janromani,Fantastic Four,3.5,46869,0.0
+janromani,Batman Begins,4.0,51784,0.0
+janromani,Madagascar,3.5,51207,0.0
+janromani,Star Wars: Episode III - Revenge of the Sith,4.0,50709,0.0
+janromani,Joyeux Noel,3.5,45092,0.0
+janromani,Sin City,4.0,51865,0.0
+janromani,Green Street Hooligans,4.0,47505,0.0
+janromani,Robots,3.5,46706,0.0
+janromani,Meet the Fockers,3.0,51433,0.0
+janromani,The Aviator,3.0,50207,0.0
+janromani,Ocean's Twelve,3.0,51888,0.0
+janromani,Howl's Moving Castle,4.0,49062,0.0
+janromani,National Treasure,3.0,50561,0.0
+janromani,Bridget Jones: The Edge of Reason,2.5,46811,0.0
+janromani,The Incredibles,4.5,46806,0.0
+janromani,Sideways,3.5,46929,0.0
+janromani,The Polar Express,3.5,48883,0.0
+janromani,Finding Neverland,4.5,51286,0.0
+janromani,Hotel Rwanda,3.5,51848,0.0
+janromani,Crash,3.5,50902,0.0
+janromani,Collateral,3.0,50995,0.0
+janromani,"I, Robot",3.0,50568,0.0
+janromani,The Bourne Supremacy,3.5,50224,0.0
+janromani,Spider-Man 2,4.0,51560,0.0
+janromani,The Notebook,5.0,45667,0.0
+janromani,The Terminal,3.5,51527,0.0
+janromani,Around the World in 80 Days,3.0,46447,0.0
+janromani,Harry Potter and the Prisoner of Azkaban,5.0,51451,0.0
+janromani,The Day After Tomorrow,2.5,51660,0.0
+janromani,Shrek 2,5.0,51343,1.0
+janromani,Troy,2.5,51472,0.0
+janromani,Mean Girls,4.0,46049,0.0
+janromani,Hellboy,2.0,51012,0.0
+janromani,The Chorus,4.0,48801,0.0
+janromani,EuroTrip,3.0,47243,0.0
+janromani,The Girl Next Door,3.5,46081,0.0
+janromani,50 First Dates,2.5,50773,0.0
+janromani,Before Sunset,5.0,51970,0.0
+janromani,The Motorcycle Diaries,4.0,50889,0.0
+janromani,The Butterfly Effect,2.0,50654,0.0
+janromani,Saw,2.0,51875,0.0
+janromani,Super Size Me,3.5,47223,0.0
+janromani,Primer,3.0,2682,0.0
+janromani,Cheaper by the Dozen,4.0,45695,0.0
+janromani,Big Fish,5.0,51533,0.0
+janromani,The Last Samurai,3.5,51507,0.0
+janromani,The Lord of the Rings: The Return of the King,4.5,51928,0.0
+janromani,Oldboy,3.5,51454,0.0
+janromani,Master and Commander: The Far Side of the World,3.5,47671,0.0
+janromani,Scary Movie 3,2.0,49434,0.0
+janromani,Brother Bear,3.0,46633,0.0
+janromani,Take My Eyes,2.0,51046,0.0
+janromani,School of Rock,3.0,50950,0.0
+janromani,Kill Bill: Vol. 1,3.0,2694,0.0
+janromani,Love Actually,3.5,51602,0.0
+janromani,Love Me If You Dare,3.0,47736,0.0
+janromani,Lost in Translation,3.5,51898,0.0
+janromani,American Wedding,3.0,47833,0.0
+janromani,Pirates of the Caribbean: The Curse of the Black Pearl,4.0,2695,0.0
+janromani,Finding Nemo,5.0,2705,0.0
+janromani,Dogville,4.5,51565,0.0
+janromani,Memories of Murder,4.0,45312,0.0
+janromani,The Core,1.5,47253,0.0
+janromani,Johnny English,3.5,47112,0.0
+janromani,The Life of David Gale,4.0,45136,0.0
+janromani,Mortadelo & Filemon: The Big Adventure,3.0,47456,0.0
+janromani,How to Lose a Guy in 10 Days,2.0,46715,0.0
+janromani,Runaway Jury,3.5,45405,0.0
+janromani,Chicago,3.0,50960,0.0
+janromani,Catch Me If You Can,3.5,51484,0.0
+janromani,The Lord of the Rings: The Two Towers,4.0,51929,0.0
+janromani,Adaptation.,4.5,50112,0.0
+janromani,Die Another Day,3.5,27712,0.0
+janromani,Harry Potter and the Chamber of Secrets,4.5,51452,0.0
+janromani,Home Alone 4,2.5,44501,0.0
+janromani,Stuart Little 2,3.0,45706,0.0
+janromani,Road to Perdition,3.0,49497,0.0
+janromani,Lilo & Stitch,3.0,45204,0.0
+janromani,Scooby-Doo,2.0,46964,0.0
+janromani,The Bourne Identity,4.0,50225,0.0
+janromani,The Pianist,4.0,51672,0.0
+janromani,Punch-Drunk Love,2.0,47914,0.0
+janromani,Star Wars: Episode II - Attack of the Clones,2.5,50710,0.0
+janromani,Spider-Man,4.0,51561,0.0
+janromani,Life or Something Like It,2.5,41460,0.0
+janromani,Ali G Indahouse,3.5,47294,0.0
+janromani,Ice Age,4.5,51670,0.0
+janromani,Asterix & Obelix: Mission Cleopatra,2.5,50024,0.0
+janromani,A Walk to Remember,3.0,46422,0.0
+janromani,Jimmy Neutron: Boy Genius,2.5,44450,0.0
+janromani,A Beautiful Mind,3.5,51648,0.0
+janromani,The Lord of the Rings: The Fellowship of the Ring,4.5,51930,0.0
+janromani,Ocean's Eleven,3.5,51890,0.0
+janromani,Harry Potter and the Philosopher's Stone,4.5,51453,0.0
+janromani,"Monsters, Inc.",5.0,51535,0.0
+janromani,The Royal Tenenbaums,3.5,47169,0.0
+janromani,Serendipity,3.0,46832,0.0
+janromani,American Pie 2,3.0,50101,0.0
+janromani,The Princess Diaries,2.5,46753,0.0
+janromani,Rat Race,3.5,46738,0.0
+janromani,Spirited Away,3.5,51921,0.0
+janromani,Scary Movie 2,2.0,49442,0.0
+janromani,Atlantis: The Lost Empire,3.0,45820,0.0
+janromani,Shrek,4.5,51344,0.0
+janromani,The Mummy Returns,3.0,50818,0.0
+janromani,Amélie,3.5,51858,0.0
+janromani,Bridget Jones's Diary,2.5,51490,0.0
+janromani,Moulin Rouge!,4.5,51328,0.0
+janromani,Sweet November,2.5,50684,0.0
+janromani,Donnie Darko,4.0,51910,0.0
+janromani,Chocolat,3.0,51697,0.0
+janromani,Cast Away,3.5,47778,0.0
+janromani,Charlie's Angels,3.0,49396,0.0
+janromani,Pay It Forward,3.5,46027,0.0
+janromani,Meet the Parents,3.0,50937,0.0
+janromani,Requiem for a Dream,3.5,51483,0.0
+janromani,Remember the Titans,3.5,46037,0.0
+janromani,Almost Famous,3.5,51366,0.0
+janromani,Memento,4.0,51973,0.0
+janromani,Snatch,3.5,51943,0.0
+janromani,With a Friend Like Harry...,2.5,17491,0.0
+janromani,Scary Movie,2.5,49443,0.0
+janromani,Chicken Run,3.5,48033,0.0
+janromani,In the Mood for Love,4.5,51309,0.0
+janromani,Small Time Crooks,3.5,46103,0.0
+janromani,Billy Elliot,3.5,51978,0.0
+janromani,Gladiator,4.5,51952,0.0
+janromani,Doraemon: Nobita's the Legend of the Sun King,3.5,31248,0.0
+janromani,The Beach,3.0,50698,0.0
+janromani,Stuart Little,3.5,46512,0.0
+janromani,The Cider House Rules,4.5,50836,0.0
+janromani,Magnolia,4.0,51728,0.0
+janromani,The Green Mile,5.0,51613,0.0
+janromani,Sleepy Hollow,3.5,50158,0.0
+janromani,The World Is Not Enough,3.5,27733,0.0
+janromani,Toy Story 2,4.0,51289,0.0
+janromani,Fight Club,4.5,51568,0.0
+janromani,American Beauty,4.5,2703,0.0
+janromani,Being John Malkovich,4.0,51618,0.0
+janromani,The Iron Giant,4.0,46280,0.0
+janromani,American Pie,4.0,50521,0.0
+janromani,Tarzan,4.0,27285,0.0
+janromani,Star Wars: Episode I - The Phantom Menace,2.5,50711,0.0
+janromani,Notting Hill,3.5,51601,0.0
+janromani,The Mummy,3.5,51554,0.0
+janromani,10 Things I Hate About You,3.5,49047,0.0
+janromani,The Matrix,4.0,51518,0.0
+janromani,Asterix & Obelix Take on Caesar,2.5,47036,0.0
+janromani,You've Got Mail,3.5,47109,0.0
+janromani,Shakespeare in Love,3.5,50674,0.0
+janromani,Kirikou and the Sorceress,3.0,38462,0.0
+janromani,A Bug's Life,3.5,47111,0.0
+janromani,Meet Joe Black,3.5,51762,0.0
+janromani,Cats,3.5,35195,0.0
+janromani,Rushmore,3.5,45203,0.0
+janromani,The Parent Trap,4.0,46794,0.0
+janromani,Saving Private Ryan,4.5,51295,0.0
+janromani,There's Something About Mary,2.5,51573,0.0
+janromani,Mulan,3.5,46001,0.0
+janromani,Six Days Seven Nights,3.0,48479,0.0
+janromani,The Truman Show,5.0,27256,1.0
+janromani,The Dinner Game,4.0,47176,0.0
+janromani,Doraemon: Nobita's Great Adventure in the South Seas,3.5,85243,0.0
+janromani,The Wedding Singer,3.0,45699,0.0
+janromani,Life Is Beautiful,4.5,51487,0.0
+janromani,Home Alone 3,3.0,46891,0.0
+janromani,Good Will Hunting,4.0,51621,0.0
+janromani,Titanic,4.0,51524,0.0
+janromani,Boogie Nights,3.5,49007,0.0
+janromani,Cube,2.5,51664,0.0
+janromani,Gattaca,3.5,51370,0.0
+janromani,The Game,3.5,50168,0.0
+janromani,The Full Monty,3.5,47170,0.0
+janromani,Princess Mononoke,2.5,51922,0.0
+janromani,Men in Black,3.0,51514,0.0
+janromani,Hercules,3.0,44838,0.0
+janromani,My Best Friend's Wedding,3.0,47550,0.0
+janromani,The Adventures of Pinocchio,2.0,39959,0.0
+janromani,The Hunchback of Notre Dame,3.0,46127,0.0
+janromani,A Summer's Tale,4.5,26928,0.0
+janromani,Fargo,4.5,51781,0.0
+janromani,Beautiful Girls,3.0,47309,0.0
+janromani,Jumanji,3.5,47577,0.0
+janromani,Sense and Sensibility,4.5,49232,0.0
+janromani,GoldenEye,3.5,51416,0.0
+janromani,Toy Story,4.5,51290,0.0
+janromani,Se7en,4.5,51345,0.0
+janromani,Mighty Aphrodite,3.0,45294,0.0
+janromani,Whisper of the Heart,4.5,26713,0.0
+janromani,Pocahontas,2.0,46142,0.0
+janromani,The Bridges of Madison County,3.0,51438,0.0
+janromani,Braveheart,4.0,51855,0.0
+janromani,While You Were Sleeping,3.0,50557,0.0
+janromani,Bad Boys,2.5,46870,0.0
+janromani,The Usual Suspects,4.5,51495,0.0
+janromani,Before Sunrise,4.5,51974,0.0
+janromani,The Shawshank Redemption,5.0,51778,0.0
+janromani,The Mask,3.0,51298,0.0
+janromani,Chungking Express,3.0,45602,0.0
+janromani,Forrest Gump,5.0,2704,0.0
+janromani,Pulp Fiction,4.5,51444,0.0
+janromani,The Lion King,4.5,47677,0.0
+janromani,Schindler's List,4.5,51671,0.0
+janromani,What's Eating Gilbert Grape,4.5,50947,0.0
+janromani,Germinal,3.5,13879,0.0
+janromani,The Fugitive,3.5,48823,0.0
+janromani,Sleepless in Seattle,3.0,51294,0.0
+janromani,Jurassic Park,3.5,51733,0.0
+janromani,Manhattan Murder Mystery,4.0,46228,0.0
+janromani,Groundhog Day,4.0,51914,0.0
+janromani,Three Colors: Blue,2.5,51942,0.0
+janromani,Aladdin,3.5,51340,0.0
+janromani,Home Alone 2: Lost in New York,3.5,51380,0.0
+janromani,Doraemon: Nobita and the Kingdom of Clouds,3.0,103432,0.0
+janromani,A Tale of Winter,3.5,46412,0.0
+janromani,Reservoir Dogs,4.0,51610,0.0
+janromani,My Girl,2.5,49524,0.0
+janromani,Night on Earth,3.5,51723,0.0
+janromani,Beauty and the Beast,4.0,46622,0.0
+janromani,Edward Scissorhands,4.5,51889,0.0
+janromani,It,2.0,50156,0.0
+janromani,Dances with Wolves,2.5,51539,0.0
+janromani,Home Alone,4.0,51381,0.0
+janromani,GoodFellas,4.0,51383,0.0
+janromani,Back to the Future Part III,3.5,51856,0.0
+janromani,Pretty Woman,3.5,51936,0.0
+janromani,Lord of the Flies,3.5,45838,0.0
+janromani,A Tale of Springtime,3.0,33821,0.0
+janromani,Back to the Future Part II,3.5,51886,0.0
+janromani,The Little Mermaid,4.0,46505,0.0
+janromani,When Harry Met Sally...,4.5,51485,0.0
+janromani,Eat a Bowl of Tea,3.0,81046,0.0
+janromani,Dead Poets Society,4.5,51846,0.0
+janromani,Indiana Jones and the Last Crusade,3.5,51961,0.0
+janromani,Say Anything...,2.5,50586,0.0
+janromani,Rain Man,4.0,51705,0.0
+janromani,Mississippi Burning,3.5,50909,0.0
+janromani,Cinema Paradiso,4.0,45493,0.0
+janromani,My Neighbor Totoro,4.0,47756,0.0
+janromani,The Princess Bride,4.0,50226,0.0
+janromani,Boyfriends and Girlfriends,3.5,413,0.0
+janromani,The Name of the Rose,3.5,51860,0.0
+janromani,The Green Ray,4.0,11203,0.0
+janromani,Back to the Future,4.0,51945,0.0
+janromani,The Purple Rose of Cairo,4.0,45836,0.0
+janromani,Amadeus,3.5,51777,0.0
+janromani,Indiana Jones and the Temple of Doom,3.5,51963,0.0
+janromani,The Natural,3.0,45341,0.0
+janromani,Return of the Jedi,3.5,50712,0.0
+janromani,The King of Comedy,3.0,51794,0.0
+janromani,E.T. the Extra-Terrestrial,3.5,51520,0.0
+janromani,Raiders of the Lost Ark,4.0,51965,0.0
+janromani,The Aviator's Wife,4.0,34766,0.0
+janromani,The Empire Strikes Back,4.0,50713,0.0
+janromani,Kramer vs. Kramer,3.5,6538,0.0
+janromani,Alien,2.5,51714,0.0
+janromani,Apocalypse Now,3.5,2690,0.0
+janromani,Superman,3.0,50681,0.0
+janromani,Autumn Sonata,3.0,44320,0.0
+janromani,Grease,3.5,51503,0.0
+janromani,Star Wars,4.0,2706,0.0
+janromani,Annie Hall,4.0,51423,0.0
+janromani,The Marquise of O,2.0,17313,0.0
+janromani,All the President's Men,4.0,51261,0.0
+janromani,Taxi Driver,3.5,51947,0.0
+janromani,Jaws,3.5,51542,0.0
+janromani,Monty Python and the Holy Grail,3.5,51390,0.0
+janromani,Chinatown,3.0,51323,0.0
+janromani,Robin Hood,3.0,44920,0.0
+janromani,Bedknobs and Broomsticks,4.0,44621,0.0
+janromani,The Aristocats,3.0,46537,0.0
+janromani,Butch Cassidy and the Sundance Kid,3.5,51482,0.0
+janromani,My Night at Maud's,3.0,16730,0.0
+janromani,Chitty Chitty Bang Bang,3.5,45046,0.0
+janromani,The Graduate,4.0,27183,0.0
+janromani,The Jungle Book,3.5,47269,0.0
+janromani,Doctor Zhivago,3.5,51245,0.0
+janromani,The Sound of Music,3.5,42580,0.0
+janromani,Mary Poppins,4.0,51662,0.0
+janromani,The Sword in the Stone,3.0,47366,0.0
+janromani,The Birds,3.0,51549,0.0
+janromani,West Side Story,4.5,50826,0.0
+janromani,Breakfast at Tiffany's,3.5,51887,0.0
+janromani,One Hundred and One Dalmatians,3.5,44681,0.0
+janromani,Spartacus,3.5,51196,0.0
+janromani,The Apartment,4.5,51774,0.0
+janromani,North by Northwest,3.5,51843,0.0
+janromani,Sleeping Beauty,3.5,45803,0.0
+janromani,12 Angry Men,5.0,51700,0.0
+janromani,Around the World in Eighty Days,3.0,50026,0.0
+janromani,The Ten Commandments,3.0,48188,0.0
+janromani,Lady and the Tramp,3.0,46321,0.0
+janromani,Peter Pan,4.0,45983,0.0
+janromani,Cinderella,3.5,45485,0.0
+janromani,The Third Man,4.0,51154,0.0
+janromani,It's a Wonderful Life,4.0,50949,0.0
+janromani,Bambi,3.5,49816,0.0
+janromani,To Be or Not to Be,3.5,51854,0.0
+janromani,Dumbo,3.0,45374,0.0
+janromani,Citizen Kane,4.0,2702,0.0
+janromani,The Great Dictator,3.5,51238,0.0
+janromani,Pinocchio,3.5,45797,0.0
+janromani,Gone with the Wind,3.5,51382,0.0
+janromani,The Wizard of Oz,3.5,51494,0.0
+janromani,Snow White and the Seven Dwarfs,3.5,51682,0.0
+janromani,Modern Times,4.0,49889,0.0
+janromani,The 39 Steps,3.0,51796,0.0
+janromani,Vitals. A True Human Story,4.0,712272,0.0
+vilapuig,Detective Conan: The Bride of Halloween,3.0,812872,0.0
+vilapuig,I Always Cry For You Like Pink Honey Rain,,859638,0.0
+vilapuig,The Northman,4.0,565852,0.0
+vilapuig,Everything Everywhere All at Once,4.5,474474,0.0
+vilapuig,The Batman,4.0,348914,0.0
+vilapuig,Alcarràs,5.0,721533,0.0
+vilapuig,Lullaby,4.5,751084,0.0
+vilapuig,Spider-Man: No Way Home,4.0,560787,0.0
+vilapuig,Nightmare Alley,3.5,524592,0.0
+vilapuig,West Side Story,5.0,441471,0.0
+vilapuig,Licorice Pizza,3.0,641086,0.0
+vilapuig,D'ombres,5.0,866831,0.0
+vilapuig,All Too Well: The Short Film,,807762,0.0
+vilapuig,No Time to Die,4.0,305964,0.0
+vilapuig,The Tragedy of Macbeth,5.0,519052,0.0
+vilapuig,The Last Duel,4.5,544380,0.0
+vilapuig,Happening,4.5,711707,0.0
+vilapuig,Spencer,4.0,639559,0.0
+vilapuig,Dune,4.0,371378,0.0
+vilapuig,Belfast,3.0,696630,0.0
+vilapuig,The Power of the Dog,4.0,527841,0.0
+vilapuig,The Card Counter,3.0,569563,0.0
+vilapuig,The Hand of God,4.5,645598,0.0
+vilapuig,The Odd-Job Men,3.5,760984,0.0
+vilapuig,Memoria,2.0,441475,0.0
+vilapuig,Belle,4.0,695629,0.0
+vilapuig,The Tsugua Diaries,4.0,753392,0.0
+vilapuig,Bergman Island,3.5,408274,0.0
+vilapuig,The French Dispatch,4.5,471207,0.0
+vilapuig,Drive My Car,5.0,679291,0.0
+vilapuig,Compartment No. 6,3.5,516048,0.0
+vilapuig,The Worst Person in the World,4.0,585258,0.0
+vilapuig,Annette,4.0,357826,0.0
+vilapuig,Four Roads,4.0,687265,0.0
+vilapuig,Outside Noise,3.0,717201,0.0
+vilapuig,Wheel of Fortune and Fantasy,4.5,713523,0.0
+vilapuig,What Do We See When We Look at the Sky?,4.5,713526,0.0
+vilapuig,Petite Maman,5.0,669744,0.0
+vilapuig,Introduction,1.5,713517,0.0
+vilapuig,Flee,4.5,605193,0.0
+vilapuig,Malcolm & Marie,4.0,645487,0.0
+vilapuig,Yesterday's Two Nights,4.0,604372,0.0
+vilapuig,Mank,2.0,541425,0.0
+vilapuig,Demon Slayer – Kimetsu no Yaiba – The Movie: Mugen Train,4.0,561521,0.0
+vilapuig,Wolfwalkers,4.5,373808,0.0
+vilapuig,Another Round,4.0,508246,0.0
+vilapuig,Nomadland,4.0,509662,0.0
+vilapuig,"Quo vadis, Aida?",4.0,650606,0.0
+vilapuig,The Human Voice,4.0,596230,0.0
+vilapuig,Tenet,3.5,506032,0.0
+vilapuig,El sitio de Otto,3.0,646783,0.0
+vilapuig,Summer of 85,4.0,584995,0.0
+vilapuig,Birds Don’t Fly at Night,3.0,619475,0.0
+vilapuig,Josep,4.0,605350,0.0
+vilapuig,My Favorite War,3.5,629981,0.0
+vilapuig,Normal People,5.0,620781,0.0
+vilapuig,Correspondence,4.0,612215,0.0
+vilapuig,Ni oblit ni perdó,4.0,622290,0.0
+vilapuig,Days,3.5,587612,0.0
+vilapuig,Little Girl,5.0,581822,0.0
+vilapuig,Schoolgirls,3.5,546764,0.0
+vilapuig,Minari,3.0,542449,0.0
+vilapuig,Promising Young Woman,4.0,510047,0.0
+vilapuig,Little Women,4.0,259441,0.0
+vilapuig,1917,4.5,460155,0.0
+vilapuig,My Mexican Bretzel,5.0,587994,0.0
+vilapuig,Out in the Open,3.5,556323,0.0
+vilapuig,The Wolves,4.0,514166,0.0
+vilapuig,The Irishman,4.0,333203,0.0
+vilapuig,A Thief's Daughter,4.0,547332,0.0
+vilapuig,The Endless Trench,3.5,472048,0.0
+vilapuig,The Good Intentions,4.0,548380,0.0
+vilapuig,Knives Out,4.0,475370,0.0
+vilapuig,The Platform,4.0,545985,0.0
+vilapuig,While at War,3.0,471988,0.0
+vilapuig,Moffie,3.5,544965,0.0
+vilapuig,Martin Eden,4.5,510792,0.0
+vilapuig,Corpus Christi,4.0,403146,0.0
+vilapuig,Joker,4.0,406775,0.0
+vilapuig,First Cow,4.5,487135,0.0
+vilapuig,Andrey Tarkovsky. A Cinema Prayer,5.0,545066,0.0
+vilapuig,Ford v Ferrari,3.5,291419,0.0
+vilapuig,Marriage Story,4.0,422682,0.0
+vilapuig,Ad Astra,3.5,353485,0.0
+vilapuig,Play,4.5,476123,0.0
+vilapuig,Vitalina Varela,5.0,400138,0.0
+vilapuig,Flesh,4.5,543109,0.0
+vilapuig,A Rainy Day in New York,3.0,406144,0.0
+vilapuig,Spider-Man: Far From Home,3.5,362977,0.0
+vilapuig,Marona's Fantastic Tale,5.0,497000,0.0
+vilapuig,Movements,3.0,524564,0.0
+vilapuig,Parasite,5.0,426406,0.0
+vilapuig,Fire Will Come,4.5,503751,0.0
+vilapuig,Once Upon a Time… in Hollywood,4.5,397859,0.0
+vilapuig,The Lighthouse,5.0,433863,0.0
+vilapuig,Portrait of a Lady on Fire,5.0,460830,1.0
+vilapuig,I Lost My Body,5.0,514702,0.0
+vilapuig,Beanpole,4.5,446734,0.0
+vilapuig,Bacurau,4.5,378601,0.0
+vilapuig,Les Misérables,4.5,514647,0.0
+vilapuig,Nomad: In the Footsteps of Bruce Chatwin,,520280,0.0
+vilapuig,Demon Slayer: Kimetsu no Yaiba,4.5,613680,0.0
+vilapuig,Dark Eyes,4.0,517611,0.0
+vilapuig,Pain and Glory,4.5,448445,0.0
+vilapuig,7 Reasons to Run Away (from Society),3.0,508664,0.0
+vilapuig,Talking About Trees,4.5,505362,0.0
+vilapuig,The Awakening of the Ants,4.5,502616,0.0
+vilapuig,Just Don't Think I'll Scream,5.0,505407,0.0
+vilapuig,Watermelon Juice,4.0,509612,0.0
+vilapuig,The Days to Come,5.0,503639,0.0
+vilapuig,If Then Else,3.5,547157,0.0
+vilapuig,La dona del segle,3.0,524683,0.0
+vilapuig,Amazing Grace,4.5,287121,0.0
+vilapuig,Buñuel in the Labyrinth of the Turtles,3.5,439861,0.0
+vilapuig,Between Two Waters,4.5,465932,0.0
+vilapuig,Our Body,3.5,475021,0.0
+vilapuig,Green Book,3.0,420703,0.0
+vilapuig,The Sisters Brothers,4.5,372740,0.0
+vilapuig,The Ballad of Buster Scruggs,4.0,467061,0.0
+vilapuig,The Favourite,5.0,310705,0.0
+vilapuig,Roma,5.0,359859,0.0
+vilapuig,Ray & Liz,4.5,430606,0.0
+vilapuig,Ghost Walk,3.5,470746,0.0
+vilapuig,Hannah Gadsby: Nanette,5.0,458804,0.0
+vilapuig,The Man Who Killed Don Quixote,3.0,225004,0.0
+vilapuig,Burning,4.5,422035,0.0
+vilapuig,Asako I & II,3.5,418533,0.0
+vilapuig,Happy as Lazzaro,5.0,412433,0.0
+vilapuig,Woman at War,,278872,0.0
+vilapuig,Cold War,4.5,373018,0.0
+vilapuig,Ainhoa: That's Not Me,4.0,448156,0.0
+vilapuig,An Elephant Sitting Still,5.0,429628,0.0
+vilapuig,Isle of Dogs,4.0,333448,0.0
+vilapuig,Phantom Thread,5.0,335384,0.0
+vilapuig,The House by the Sea,,399606,0.0
+vilapuig,La vida lliure,4.5,416068,0.0
+vilapuig,Silence Is a Falling Body,4.5,448354,0.0
+vilapuig,"It's Tight, but hardly chokes",,454977,0.0
+vilapuig,"I, Tonya",4.0,323609,0.0
+vilapuig,"Three Billboards Outside Ebbing, Missouri",4.5,291610,0.0
+vilapuig,Spider-Man: Homecoming,3.5,242710,0.0
+vilapuig,The Wild Boys,4.5,405672,0.0
+vilapuig,Loving Vincent,,269358,0.0
+vilapuig,Tehran Taboo,4.5,385491,0.0
+vilapuig,Faces Places,4.0,384092,0.0
+vilapuig,The Light of Hope,,381496,0.0
+vilapuig,Lucky,4.5,341755,0.0
+vilapuig,Mother,4.5,398525,0.0
+vilapuig,The Party,4.0,349394,0.0
+vilapuig,Summer 1993,4.5,371428,0.0
+vilapuig,Call Me by Your Name,5.0,333029,0.0
+vilapuig,Good Girls,2.0,397500,0.0
+vilapuig,Botticelli – Inferno,3.5,354801,0.0
+vilapuig,Dead Horses,4.5,379643,0.0
+vilapuig,La La Land,4.5,240344,0.0
+vilapuig,Frantz,,312507,0.0
+vilapuig,Big Fish & Begonia,3.5,194986,0.0
+vilapuig,Your Name.,5.0,307684,0.0
+vilapuig,Stefan Zweig: Farewell to Europe,2.5,326239,0.0
+vilapuig,The Noise of Licking,3.5,422278,0.0
+vilapuig,The Red Turtle,4.0,267286,0.0
+vilapuig,Paterson,,306491,0.0
+vilapuig,"I, Daniel Blake",,310032,0.0
+vilapuig,The Dreamed Ones,3.5,318133,0.0
+vilapuig,The Hateful Eight,5.0,197012,0.0
+vilapuig,Barcelona Christmas Night,2.5,273269,0.0
+vilapuig,The Bride,,281038,0.0
+vilapuig,"Right Now, Wrong Then",4.0,284630,0.0
+vilapuig,The Academy of Muses,,283737,0.0
+vilapuig,Mustang,5.0,266070,0.0
+vilapuig,Jauja,4.5,189268,0.0
+vilapuig,Interstellar,4.5,117621,0.0
+vilapuig,Gone Girl,4.0,149857,0.0
+vilapuig,Song of the Sea,4.5,88487,0.0
+vilapuig,When Marnie Was There,3.5,170062,0.0
+vilapuig,Clouds of Sils Maria,4.5,172633,0.0
+vilapuig,The Wonders,4.0,188526,0.0
+vilapuig,The Grand Budapest Hotel,4.5,95113,0.0
+vilapuig,Boyhood,,71927,0.0
+vilapuig,The Tale of the Princess Kaguya,5.0,112956,0.0
+vilapuig,Ida,4.5,149093,0.0
+vilapuig,Her,5.0,114564,0.0
+vilapuig,Under the Skin,4.0,80198,0.0
+vilapuig,The Great Beauty,5.0,130523,0.0
+vilapuig,The Garden of Words,4.5,142367,0.0
+vilapuig,Barcelona Summer Night,3.0,153153,0.0
+vilapuig,Les Misérables,4.0,69149,0.0
+vilapuig,Ernest & Celestine,4.0,98813,0.0
+vilapuig,In the House,,95988,0.0
+vilapuig,The Perks of Being a Wallflower,3.0,71338,0.0
+vilapuig,Frances Ha,4.5,96083,0.0
+vilapuig,You Ain't Seen Nothin' Yet,4.0,84120,0.0
+vilapuig,Berserk: The Golden Age Arc II - The Battle for Doldrey,,93771,0.0
+vilapuig,Amour,,73359,0.0
+vilapuig,Moonrise Kingdom,5.0,70105,0.0
+vilapuig,Berserk: The Golden Age Arc I - The Egg of the King,,90246,0.0
+vilapuig,The Painting,4.0,80678,0.0
+vilapuig,Wrinkles,4.5,72098,0.0
+vilapuig,Carnage,4.5,57368,0.0
+vilapuig,Crulic: The Path to Beyond,4.0,111651,0.0
+vilapuig,Melancholia,4.0,4549,0.0
+vilapuig,Le Havre,3.5,59802,0.0
+vilapuig,The Artist,4.5,61707,0.0
+vilapuig,To Die By Your Side,4.0,97296,0.0
+vilapuig,Midnight in Paris,,6945,0.0
+vilapuig,Tomboy,4.5,1599,0.0
+vilapuig,The Turin Horse,5.0,67830,0.0
+vilapuig,True Grit,3.5,20908,0.0
+vilapuig,Inception,5.0,34722,0.0
+vilapuig,Nostalgia for the Light,,56772,0.0
+vilapuig,Fantastic Mr. Fox,5.0,46344,0.0
+vilapuig,(500) Days of Summer,4.0,39350,0.0
+vilapuig,The Hedgehog,,39539,0.0
+vilapuig,The White Ribbon,5.0,26616,0.0
+vilapuig,Inglourious Basterds,4.5,41352,0.0
+vilapuig,Dogtooth,4.5,25809,0.0
+vilapuig,Revolutionary Road,4.0,49496,0.0
+vilapuig,The Dark Knight,5.0,51896,0.0
+vilapuig,Mamma Mia!,3.5,45120,0.0
+vilapuig,Two Lovers,4.0,46302,0.0
+vilapuig,La Maison en Petits Cubes,5.0,38825,0.0
+vilapuig,The Silence Before Bach,,78442,0.0
+vilapuig,There Will Be Blood,5.0,48044,0.0
+vilapuig,Ratatouille,4.5,50558,0.0
+vilapuig,Persepolis,4.5,50602,0.0
+vilapuig,The Diving Bell and the Butterfly,4.5,50600,0.0
+vilapuig,No Country for Old Men,4.5,48140,0.0
+vilapuig,"4 Months, 3 Weeks and 2 Days",5.0,50604,0.0
+vilapuig,5 Centimeters per Second,,26400,0.0
+vilapuig,Apocalypto,3.5,50955,0.0
+vilapuig,Casino Royale,3.0,27809,0.0
+vilapuig,Scoop,,51598,0.0
+vilapuig,The Legend of Time,3.5,82403,0.0
+vilapuig,Little Miss Sunshine,4.0,51379,0.0
+vilapuig,V for Vendetta,4.0,51400,0.0
+vilapuig,Match Point,4.5,51934,0.0
+vilapuig,Election,4.0,55982,0.0
+vilapuig,Batman Begins,4.0,51784,0.0
+vilapuig,Howl's Moving Castle,4.5,49062,0.0
+vilapuig,The Bridge of Arts,5.0,82887,0.0
+vilapuig,Spider-Man 2,4.0,51560,0.0
+vilapuig,Tropical Malady,4.5,45214,0.0
+vilapuig,Kill Bill: Vol. 2,4.5,51696,0.0
+vilapuig,Eternal Sunshine of the Spotless Mind,4.5,2683,0.0
+vilapuig,Bad Education,4.0,51911,0.0
+vilapuig,Before Sunset,4.5,51970,0.0
+vilapuig,Tokyo Godfathers,5.0,43921,0.0
+vilapuig,Big Fish,3.5,51533,0.0
+vilapuig,The Lord of the Rings: The Return of the King,5.0,51928,0.0
+vilapuig,Take My Eyes,5.0,51046,0.0
+vilapuig,Mystic River,,51737,0.0
+vilapuig,Kill Bill: Vol. 1,5.0,2694,0.0
+vilapuig,"Spring, Summer, Fall, Winter... and Spring",4.0,51937,0.0
+vilapuig,The Dreamers,4.0,51107,0.0
+vilapuig,Lost in Translation,4.0,51898,0.0
+vilapuig,The Hours of the Day,3.5,83272,0.0
+vilapuig,The Hours,4.0,51531,0.0
+vilapuig,The Lord of the Rings: The Two Towers,5.0,51929,0.0
+vilapuig,Harry Potter and the Chamber of Secrets,4.0,51452,0.0
+vilapuig,The Pianist,,51672,0.0
+vilapuig,Spider-Man,3.5,51561,0.0
+vilapuig,City of God,5.0,51523,0.0
+vilapuig,Winged Migration,,45232,0.0
+vilapuig,The Lord of the Rings: The Fellowship of the Ring,5.0,51930,0.0
+vilapuig,Harry Potter and the Philosopher's Stone,4.0,51453,0.0
+vilapuig,Son of the Bride,,39625,0.0
+vilapuig,The Curse of the Jade Scorpion,3.5,50092,0.0
+vilapuig,Millennium Actress,5.0,29884,0.0
+vilapuig,Spirited Away,5.0,51921,0.0
+vilapuig,Mulholland Drive,5.0,51171,0.0
+vilapuig,Shrek,5.0,51344,0.0
+vilapuig,Amélie,5.0,51858,0.0
+vilapuig,Moulin Rouge!,3.0,51328,0.0
+vilapuig,Donnie Darko,4.0,51910,0.0
+vilapuig,Dancer in the Dark,,2701,0.0
+vilapuig,Amores Perros,5.0,51990,0.0
+vilapuig,In the Mood for Love,5.0,51309,0.0
+vilapuig,Yi Yi,5.0,35988,1.0
+vilapuig,Gladiator,4.0,51952,0.0
+vilapuig,Letter from a Filmmaker to His Daughter,5.0,93038,0.0
+vilapuig,Fight Club,4.0,51568,0.0
+vilapuig,American Beauty,,2703,0.0
+vilapuig,Eyes Wide Shut,5.0,51717,0.0
+vilapuig,The Old Man and the Sea,,26023,0.0
+vilapuig,The Straight Story,3.5,51686,0.0
+vilapuig,The Virgin Suicides,4.0,51024,0.0
+vilapuig,All About My Mother,,51951,0.0
+vilapuig,10 Things I Hate About You,3.5,49047,0.0
+vilapuig,The Matrix,4.0,51518,0.0
+vilapuig,The Thin Red Line,3.5,47627,0.0
+vilapuig,L'arbre de les cireres,4.0,122998,0.0
+vilapuig,The Truman Show,5.0,27256,0.0
+vilapuig,Eternity and a Day,4.5,36471,0.0
+vilapuig,Following,,45093,0.0
+vilapuig,The Dinner Game,,47176,0.0
+vilapuig,Marius and Jeannette,,1856,0.0
+vilapuig,Cube,3.5,51664,0.0
+vilapuig,Pickpocket,4.0,13772,0.0
+vilapuig,Princess Mononoke,5.0,51922,0.0
+vilapuig,Perfect Blue,5.0,46175,0.0
+vilapuig,Happy Together,5.0,40424,0.0
+vilapuig,Taste of Cherry,4.5,32345,0.0
+vilapuig,Lost Highway,5.0,51486,0.0
+vilapuig,Trainspotting,,51497,0.0
+vilapuig,Twelve Monkeys,4.5,51986,0.0
+vilapuig,Se7en,5.0,51345,0.0
+vilapuig,Fallen Angels,4.0,45489,0.0
+vilapuig,Whisper of the Heart,5.0,26713,0.0
+vilapuig,Dead Man,4.5,51231,0.0
+vilapuig,Before Sunrise,5.0,51974,0.0
+vilapuig,Krzysztof Kieslowski: I'm So-So...,4.5,19538,0.0
+vilapuig,Chungking Express,5.0,45602,0.0
+vilapuig,Three Colors: Red,,51940,0.0
+vilapuig,Pulp Fiction,5.0,51444,0.0
+vilapuig,Death and the Maiden,4.5,46141,0.0
+vilapuig,Through the Olive Trees,4.5,18272,0.0
+vilapuig,Three Colors: White,3.5,51941,0.0
+vilapuig,Dazed and Confused,5.0,47029,0.0
+vilapuig,Jurassic Park,4.0,51733,0.0
+vilapuig,Three Colors: Blue,4.5,51942,0.0
+vilapuig,Unforgiven,4.5,2685,0.0
+vilapuig,Bitter Moon,5.0,46172,0.0
+vilapuig,The Dark Side of the Heart,4.5,60954,0.0
+vilapuig,"Life, and Nothing More...",4.5,70210,0.0
+vilapuig,Reservoir Dogs,5.0,51610,0.0
+vilapuig,Only Yesterday,4.5,42613,0.0
+vilapuig,Thelma & Louise,4.0,50992,0.0
+vilapuig,The Double Life of Véronique,5.0,50934,0.0
+vilapuig,Home Alone,4.5,51381,0.0
+vilapuig,GoodFellas,4.5,51383,0.0
+vilapuig,Dreams,4.0,44519,0.0
+vilapuig,Decalogue X,3.5,93926,0.0
+vilapuig,Decalogue IX,4.0,93927,0.0
+vilapuig,Do the Right Thing,4.5,51228,0.0
+vilapuig,"Dawn Breaks, Which Is No Small Thing",5.0,38904,0.0
+vilapuig,Cinema Paradiso,4.5,45493,0.0
+vilapuig,Dead Ringers,4.5,47060,0.0
+vilapuig,The Vanishing,4.5,47628,0.0
+vilapuig,Akira,4.5,51902,0.0
+vilapuig,Bird,4.0,36598,0.0
+vilapuig,My Neighbor Totoro,4.5,47756,0.0
+vilapuig,Grave of the Fireflies,5.0,44558,0.0
+vilapuig,Women on the Verge of a Nervous Breakdown,3.0,49468,0.0
+vilapuig,A Short Film About Love,,31506,0.0
+vilapuig,Au Revoir les Enfants,5.0,50796,0.0
+vilapuig,The Untouchables,4.5,51933,0.0
+vilapuig,Wings of Desire,4.5,51907,0.0
+vilapuig,Where Is My Friend's House?,5.0,15669,0.0
+vilapuig,Blind Chance,4.5,51923,0.0
+vilapuig,The Green Ray,4.0,11203,0.0
+vilapuig,Ginger and Fred,4.0,23039,0.0
+vilapuig,No End,4.0,51926,0.0
+vilapuig,Ran,4.5,45108,0.0
+vilapuig,Brazil,4.5,51981,0.0
+vilapuig,"Paris, Texas",4.5,51469,0.0
+vilapuig,The Holy Innocents,4.5,62345,0.0
+vilapuig,Nausicaä of the Valley of the Wind,4.5,51969,0.0
+vilapuig,And the Ship Sails On,4.5,48768,0.0
+vilapuig,El sur,5.0,17371,0.0
+vilapuig,Ulysse,4.5,181273,0.0
+vilapuig,Nostalgia,5.0,51065,0.0
+vilapuig,Pauline at the Beach,4.0,46364,0.0
+vilapuig,The Snowman,5.0,43923,0.0
+vilapuig,Agatha and the Limitless Readings,4.0,2457,0.0
+vilapuig,Raiders of the Lost Ark,3.5,51965,0.0
+vilapuig,In Search of Ladino,4.0,451488,0.0
+vilapuig,One from the Heart,3.0,23730,0.0
+vilapuig,"Pepi, Luci, Bom",2.5,49292,0.0
+vilapuig,The Blues Brothers,4.0,51592,0.0
+vilapuig,The Shining,5.0,51432,0.0
+vilapuig,Tess,4.5,45585,0.0
+vilapuig,Alien,5.0,51714,0.0
+vilapuig,Manhattan,,51430,0.0
+vilapuig,Aurélia Steiner (Vancouver),4.0,166200,0.0
+vilapuig,Aurélia Steiner (Melbourne),3.5,166202,0.0
+vilapuig,Autumn Sonata,5.0,44320,0.0
+vilapuig,Grease,4.0,51503,0.0
+vilapuig,The Last Waltz,3.5,43449,0.0
+vilapuig,A Special Day,5.0,22842,0.0
+vilapuig,Annie Hall,,51423,0.0
+vilapuig,Sebastiane,3.5,22830,0.0
+vilapuig,The Tenant,5.0,45262,0.0
+vilapuig,Dersu Uzala,4.5,46846,0.0
+vilapuig,Jaws,4.5,51542,0.0
+vilapuig,The Garden That Tilts,3.5,103462,0.0
+vilapuig,Women Reply,4.0,134653,0.0
+vilapuig,Murder on the Orient Express,2.0,49482,0.0
+vilapuig,The Front Page,3.0,51182,0.0
+vilapuig,Alice in the Cities,4.0,50435,0.0
+vilapuig,"Lacombe, Lucien",4.0,10760,0.0
+vilapuig,The Sting,4.5,47315,0.0
+vilapuig,Fantastic Planet,4.0,41663,0.0
+vilapuig,Scenes from a Marriage,4.5,656211,0.0
+vilapuig,Cries and Whispers,4.5,46414,0.0
+vilapuig,Repeated Absences,,223130,0.0
+vilapuig,Last Tango in Paris,3.5,50899,0.0
+vilapuig,Nathalie Granger,2.5,49155,0.0
+vilapuig,Tout Va Bien,4.0,47894,0.0
+vilapuig,The Godfather,5.0,51818,0.0
+vilapuig,St. Michael Had a Rooster,,53998,0.0
+vilapuig,A Clockwork Orange,5.0,51867,0.0
+vilapuig,The Last Picture Show,4.5,36222,0.0
+vilapuig,The Go-Between,4.0,28108,0.0
+vilapuig,Death in Venice,,48232,0.0
+vilapuig,Earth Light,4.5,70892,0.0
+vilapuig,Bed and Board,3.5,51798,0.0
+vilapuig,Take the Money and Run,,45259,0.0
+vilapuig,Theorem,,48866,0.0
+vilapuig,2001: A Space Odyssey,,51987,0.0
+vilapuig,Wall Engravings,5.0,225811,1.0
+vilapuig,Louis Lumière,4.5,179746,0.0
+vilapuig,Two in the Shadow,4.0,98877,0.0
+vilapuig,Oedipus Rex,,22399,0.0
+vilapuig,Entranced Earth,4.0,10124,0.0
+vilapuig,Persona,4.5,51355,0.0
+vilapuig,The Creatures,3.0,12895,0.0
+vilapuig,If I Had Four Dromedaries,4.0,180199,0.0
+vilapuig,Film,4.5,19668,0.0
+vilapuig,Repulsion,3.5,45263,0.0
+vilapuig,Le Bonheur,5.0,12898,0.0
+vilapuig,Marriage Italian Style,3.5,15934,0.0
+vilapuig,My Fair Lady,4.0,45593,0.0
+vilapuig,Love at Sea,5.0,221911,0.0
+vilapuig,The Train,3.5,49720,0.0
+vilapuig,Red Desert,3.5,35166,0.0
+vilapuig,Love Meetings,4.5,22357,0.0
+vilapuig,Marnie,3.5,51604,0.0
+vilapuig,Hamlet,3.5,58155,0.0
+vilapuig,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,5.0,51218,0.0
+vilapuig,The Big City,5.0,6039,0.0
+vilapuig,The Servant,4.5,22135,0.0
+vilapuig,The Executioner,5.0,49293,0.0
+vilapuig,The Birds,4.0,51549,0.0
+vilapuig,The Immortal One,3.5,96005,0.0
+vilapuig,8½,5.0,51673,0.0
+vilapuig,Le Petit Soldat,3.0,14938,0.0
+vilapuig,Robbery at 3 O'clock,,57713,0.0
+vilapuig,Lonely Are the Brave,3.5,22120,0.0
+vilapuig,L'Eclisse,4.0,38593,0.0
+vilapuig,Cléo from 5 to 7,,51611,0.0
+vilapuig,Ivan's Childhood,4.5,31177,0.0
+vilapuig,La Jetée,5.0,51462,0.0
+vilapuig,Placido,5.0,14482,0.0
+vilapuig,West Side Story,3.5,50826,0.0
+vilapuig,Breakfast at Tiffany's,3.5,51887,0.0
+vilapuig,A Story of Water,4.0,19346,0.0
+vilapuig,Calder's Circus,3.5,329673,0.0
+vilapuig,Psycho,5.0,51578,0.0
+vilapuig,The Apartment,5.0,51774,0.0
+vilapuig,Breathless,4.5,51787,0.0
+vilapuig,The Virgin Spring,4.5,45097,0.0
+vilapuig,La Dolce Vita,5.0,51656,0.0
+vilapuig,Pickpocket,4.0,51436,0.0
+vilapuig,All the Boys Are Called Patrick,4.0,65016,0.0
+vilapuig,Black Orpheus,4.5,24539,0.0
+vilapuig,Hiroshima Mon Amour,4.5,48800,0.0
+vilapuig,The 400 Blows,,51904,0.0
+vilapuig,The World of Apu,5.0,51256,0.0
+vilapuig,Some Like It Hot,5.0,51817,0.0
+vilapuig,Charlotte and Her Boyfriend,3.5,20718,0.0
+vilapuig,Separate Tables,,21989,0.0
+vilapuig,The Music Room,4.5,51330,0.0
+vilapuig,The Lovers,3.5,50206,0.0
+vilapuig,Vertigo,5.0,51669,0.0
+vilapuig,Diary of a Pregnant Woman,3.5,78986,0.0
+vilapuig,Touch of Evil,4.0,51018,0.0
+vilapuig,Along the Coast,4.5,167655,0.0
+vilapuig,Wild Strawberries,4.5,51509,0.0
+vilapuig,Pal Joey,3.0,29570,0.0
+vilapuig,Le Notti Bianche,4.0,21915,0.0
+vilapuig,The Seventh Seal,,51620,0.0
+vilapuig,Funny Face,3.0,43980,0.0
+vilapuig,Fool's Mate,4.5,15920,0.0
+vilapuig,Aparajito,4.0,51255,0.0
+vilapuig,Moby Dick,,46322,0.0
+vilapuig,The Killing,4.0,51809,0.0
+vilapuig,Sunday in Peking,3.0,134062,0.0
+vilapuig,It's Always Fair Weather,3.0,40873,0.0
+vilapuig,Pather Panchali,5.0,48649,1.0
+vilapuig,The Seven Year Itch,,46021,0.0
+vilapuig,Rear Window,4.5,51552,0.0
+vilapuig,La Strada,4.5,51685,0.0
+vilapuig,Dial M for Murder,4.5,51596,0.0
+vilapuig,Sound of the Mountain,3.5,18857,0.0
+vilapuig,I Vitelloni,4.5,44489,0.0
+vilapuig,Él,,21804,0.0
+vilapuig,Welcome Mr. Marshall!,4.5,30783,0.0
+vilapuig,Limelight,,33233,0.0
+vilapuig,High Noon,4.0,51771,0.0
+vilapuig,Singin' in the Rain,5.0,51280,0.0
+vilapuig,Early Summer,4.5,15405,0.0
+vilapuig,All About Eve,4.5,51421,0.0
+vilapuig,Rashomon,5.0,51570,0.0
+vilapuig,Sunset Boulevard,5.0,51522,0.0
+vilapuig,Wagon Master,4.0,27112,0.0
+vilapuig,Storstrøm Bridge,,122231,0.0
+vilapuig,Orpheus,4.5,49249,0.0
+vilapuig,Stromboli,4.0,49485,0.0
+vilapuig,The Lady from Shanghai,3.5,49599,0.0
+vilapuig,It's a Wonderful Life,5.0,50949,0.0
+vilapuig,Gilda,,49598,0.0
+vilapuig,To Be or Not to Be,4.5,51854,0.0
+vilapuig,Casablanca,,51770,0.0
+vilapuig,Citizen Kane,5.0,2702,0.0
+vilapuig,Only Angels Have Wings,,21325,0.0
+vilapuig,Stagecoach,4.0,51174,0.0
+vilapuig,Sisters of the Gion,3.5,61740,0.0
+vilapuig,Top Hat,3.5,49891,0.0
+vilapuig,The 39 Steps,,51796,0.0
+vilapuig,Sherlock Holmes,3.5,121066,0.0
+vilapuig,Vampyr,5.0,51373,0.0
+vilapuig,Dr. Jekyll and Mr. Hyde,3.5,49946,0.0
+vilapuig,City Lights,4.5,51251,0.0
+vilapuig,Earth,5.0,18768,0.0
+vilapuig,The Passion of Joan of Arc,5.0,51372,0.0
+vilapuig,The Circus,4.0,33228,0.0
+vilapuig,Sunrise: A Song of Two Humans,5.0,51493,0.0
+vilapuig,Metropolis,,2698,0.0
+vilapuig,The General,4.5,51202,0.0
+vilapuig,The Adventures of Prince Achmed,3.5,39686,0.0
+vilapuig,Master of the House,4.5,10561,0.0
+vilapuig,The Gold Rush,4.5,51201,0.0
+vilapuig,"Sherlock, Jr.",4.5,51177,0.0
+vilapuig,Lulù,,322661,0.0
+vilapuig,The Play House,,14448,0.0
+vilapuig,The High Sign,,18841,0.0
+vilapuig,The Kid,5.0,46549,0.0
+vilapuig,The Scarecrow,,14453,0.0
+vilapuig,The President,,112999,0.0
+vilapuig,"Music, Forward!",,120072,0.0
+vilapuig,Living Flowers,,163063,0.0
+vilapuig,Un drame en mer,3.0,512475,0.0
+vilapuig,The Hen That Laid the Golden Eggs,,146740,0.0
+vilapuig,The Diabolical Saucepan,3.5,162298,0.0
+vilapuig,The Inn Where No Man Rests,4.0,90902,0.0
+vilapuig,Grandmother,4.0,440957,0.0
